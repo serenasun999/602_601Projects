@@ -1,0 +1,755 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+library(mosaic)
+```
+
+```{r}
+AirQ = read.csv("https://raw.githubusercontent.com/serenasun999/602/data/filteredRawData.csv")
+head(AirQ, 10)
+tail(AirQ, 10)
+```
+
+```{r}
+parameter2.df = select(AirQ, Parameter, Average.Daily.Value, Year)
+head(parameter2.df,4)
+```
+
+```{r}
+populateC.df = read.csv("https://raw.githubusercontent.com/jannatul20/data-602/main/Calgary%20Population%20data%201950-2020.csv")
+```
+
+```{r}
+head(populateC.df,10)
+tail(populateC.df,4)
+```
+
+
+```{r}
+population.df = select(populateC.df, Year, Population)  
+head(population.df,4)
+
+```
+
+
+```{r}
+PM.df = subset(parameter.df, Parameter == "PM2.5 Mass")
+head(PM.df, 3)
+#tail(PM.df, 10)
+```
+
+
+```{r}
+qdata(~ Average.Daily.Value, c(0.025, 0.975), data=PM.df)
+```
+```{r}
+favstats(~Average.Daily.Value|Year, data = PM.df)
+meanperyear=aggregate(PM.df$Average.Daily.Value, list(PM.df$Year), FUN=mean)
+names(meanperyear)[1] <- "Year"
+names(meanperyear)[2] <- "CalgaryPM2.5"
+meanperyear<-meanperyear[meanperyear$Year>2009,]
+head(meanperyear,5)
+nrow(meanperyear)
+#tail(meanperyear,5)
+```
+
+
+```{r}
+worldair = read.csv("https://raw.githubusercontent.com/serenasun999/602/data/filteredRawDataGlob.csv")
+head(worldair, 5)
+tail(worldair, 5)
+```
+
+
+```{r}
+#Clean
+worldair=worldair %>%
+  drop_na(c('PM2.5..μg.m3.','Year'))
+wmeanperyear=aggregate(worldair$PM2.5..μg.m3., list(worldair$Year), FUN=mean)
+names(wmeanperyear)[1] <- "Year"
+names(wmeanperyear)[2] <- "WorldPM2.5"
+head(wmeanperyear,5)
+nrow(wmeanperyear)
+#tail(wmeanperyear,5)
+```
+
+Hypothesis test for PM2.5 for Calgary and World Data
+
+$$
+{\rm H}_{0}: {Null-Hypothesis} =  \mu_{Calgary, PM 2.5} - \mu_{World, PM 2.5} \ = 0 \\
+{\rm H}_{A}: {Alternate-Hypothesis} =  \mu_{Calgary, PM 2.5} - \mu_{World, PM 2.5}\neq 0 \\
+$$
+```{r}
+tpm = c(meanperyear$CalgaryPM2.5, wmeanperyear$WorldPM2.5) #combine the data into a data vector 
+cvsw = c(rep("Calgary", 10), rep("World", 12))   #create airline tags for each data point 
+sampledf = data.frame(cvsw, tpm)  #create the twosampleex1 data frame
+head(sampledf, 3) #inspect the first three rows
+tail(sampledf, 3)
+```
+```{r}
+favstats(~tpm|cvsw, data=sampledf)
+```
+
+```{r}
+pm.diff = 8.71607-21.53765
+pm.diff
+```
+```{r}
+sampledf$tpm
+```
+Permutation test:
+
+```{r}
+nperms= 2000
+perm.outcome= numeric(nperms)
+for(i in 1:nperms){
+  index=sample(22, 10, replace=FALSE)
+  perm.outcome[i]= mean(sampledf$tpm[index]) - mean(sampledf$tpm[-index])
+}
+
+PM2.5permutationtest= data.frame(perm.outcome)
+head(PM2.5permutationtest, 8)
+```
+
+
+```{r}
+hist(perm.outcome, xlab="Difference Between Mean PM2.5 of Calgary and World ", ylab="Frequency", main="Outcome of 2000 Permutation Tests", col='blue') 
+abline(v=pm.diff, col="black")
+```
+
+Empirical P-value
+```{r}
+(sum(PM2.5permutationtest$perm.outcome <= pm.diff))/(nperms)
+```
+The empirical P-value was computed to be 0.243 after 1000 times permutation test of the original data. So it provides evidence in support of null hypothesis. The difference between Mean PM2.5 Calgary  - Mean PM2.5World = -14.70631 from actual non-permutated data. Since the empirical p-value is higher, null hypothesis cannot be rejected, so the PM2.5 in Calgary is less or equal to the PM2.5 in rest of the world , or Calgary is less polluted than the rest of the world.
+
+```{r}
+t.test(~tpm|cvsw, alternative = "two.sided", var.equal=FALSE, data=sampledf)
+```
+
+```{r}
+ggplot(data=sampledf, aes(sample = tpm)) + stat_qq(col="blue") + stat_qqline(col="red") + ggtitle("Normal Probability Plot of PM 2.5 of Calgary and World")
+```
+Second permutation test
+
+
+```{r}
+AQI.df = subset(parameter.df, Parameter == "Air Quality Index")
+favstats(~Average.Daily.Value|Station.Name, data = AQI.df)
+head(AQI.df, 3)
+#tail(PM.df, 10)
+```
+
+```{r}
+noncentral1=AQI.df[AQI.df$Station.Name %in% c("Calgary Southeast", "Calgary Northwest", "Calgary East"),]
+noncentral=aggregate(noncentral1$Average.Daily.Value, list(noncentral1$Year), FUN=mean)
+central1=AQI.df[AQI.df$Station.Name %in% c("Calgary Central ", "Calgary Central 2", "Calgary Central-Inglewood"),]
+central=aggregate(central1$Average.Daily.Value, list(central1$Year), FUN=mean)
+names(noncentral)[1] <- "NonCentral"
+names(noncentral)[2] <- "AQI"
+names(central)[1] <- "Central"
+names(central)[2] <- "AQI"
+#meanperyear<-meanperyear[meanperyear$Year>2009,]
+head(noncentral,5)
+nrow(noncentral)
+```
+```{r}
+head(central,5)
+nrow(central)
+```
+
+
+Hypothesis test for daily AQI for central stations vs North and south stations
+
+$$
+{\rm H}_{0}: {Null-Hypothesis} =  \mu_{Central Stations, AQI} - \mu_{Other Stations, AQI} \leq 0 \\
+{\rm H}_{A}: {Alternate-Hypothesis} =  \mu_{Central Stations, AQI} - \mu_{Other Stations, AQI}\ > 0 \\
+$$
+
+```{r}
+tAQI = c(central$AQI, noncentral$AQI) #combine the data into a data vector 
+cvsnc = c(rep("Central", 12), rep("NonCentral", 18))   #create airline tags for each data point 
+df = data.frame(cvsnc, tAQI)  #create the twosampleex1 data frame
+head(df, 3) #inspect the first three rows
+tail(df, 3)
+```
+
+```{r}
+favstats(~tAQI|cvsnc, data=df)
+```
+
+```{r}
+ggplot(df, aes(x = cvsnc, y = tAQI)) + geom_violin(col="red", fill="blue") + geom_boxplot(width=0.2, fill="orange") + ggtitle("Average daily value of Air Quality Index at different location") + coord_flip()
+```
+
+
+```{r}
+#central-noncentral
+diff = 6.469279-8.146300
+diff
+```
+
+Permutation test:
+
+```{r}
+n= 2000
+outcomep= numeric(n)
+for(i in 1:n){
+  indexp=sample(30, 12, replace=FALSE)
+  outcomep[i]= mean(df$tAQI[indexp]) - mean(df$tAQI[-indexp])
+}
+
+permutationtest= data.frame(outcomep)
+head(permutationtest, 8)
+```
+```{r}
+hist(outcomep, xlab="Difference Between Yearly Mean AQI of Calgary Central and Non-Central Stations", ylab="Frequency", main="Outcome of 2000 Permutation Tests", col='blue') 
+abline(v=diff, col="black")
+```
+
+Empirical P-value
+```{r}
+(sum(permutationtest$outcomep >= diff))/(n)
+```
+The empirical P-value was computed to be 0.243 after 1000 times permutation test of the original data. So it provides evidence in support of null hypothesis. The difference between Mean PM2.5 Calgary  - Mean PM2.5World = -14.70631 from actual non-permutated data. Since the empirical p-value is higher, null hypothesis cannot be rejected, so the PM2.5 in Calgary is less or equal to the PM2.5 in rest of the world , or Calgary is less polluted than the rest of the world.
+
+```{r}
+t.test(~tAQI|cvsnc, alternative = "greater", var.equal=FALSE, data=sampledf)
+```
+```{r}
+ggplot(data=df, aes(sample = tAQI)) + stat_qq(col="blue") + stat_qqline(col="red") + ggtitle("Normal Probability Plot")
+```
+
+
+PM 2.5
+
+```{r}
+pmdf = subset(parameter2.df, Parameter == "PM2.5 Mass")
+head(pmdf, 10)
+tail(pmdf,20)
+```
+
+```{r}
+PM.cal.df = aggregate(pmdf$Average.Daily.Value, list(pmdf$Year), FUN=mean)
+
+head(PM.cal.df, 10)
+tail(PM.cal.df,20)
+```
+
+```{r}
+names(PM.cal.df)[1] <- "Year"
+names(PM.cal.df)[2] <- "PM2.5"
+```
+
+```{r}
+PM.cal.df
+head(PM.cal.df, 10)
+tail(PM.cal.df,20)
+```
+```{r}
+pop.PM = merge(population.df, PM.cal.df, by.x = "Year")
+pop.PM
+```
+
+```{r}
+ggplot(pop.PM, aes(x = Population, y = PM2.5)) + geom_point(col="blue", size = 2) + xlab("Population") + ylab("PM 2.5") + ggtitle("PM 2.5 and Population over years")+ geom_smooth(method="lm", col="red")
+```
+
+PM 2.5 = A + B * Population + e
+
+$$
+{\rm H}_{0}: {Null-Hypothesis} =  B = 0 \ ,\{Ycannot be expressed as a linearfunction of X}\\
+{\rm H}_{A}: {Alternate-Hypothesis} =  B\neq 0\ ,{Ycannot be expressed as a linearfunction of X} \\
+$$
+
+
+H0:B=0(YcannotbeexpressedasalinearfunctionofX)HA:B≠0(YcanbeexpressedasalinearfunctionofX)
+
+
+```{r}
+predict.PM = lm(PM2.5 ~ Population, data=pop.PM) 
+```
+
+```{r}
+options(scipen=999)
+predict.PM$coefficients
+```
+
+A= 11.092034603450
+B= -0.000002256207
+PM 2.5 = A + B * Population + e
+PM 2.5 = 11.092034603450 + (-0.000002256207) * Population + e
+
+
+```{r}
+predicted.PM = predict.PM$fitted.values 
+resdata2 = predict.PM$residuals      
+diagnosticdf.PM = data.frame(predicted.PM, resdata2) 
+```
+
+
+```{r}
+diagnosticdf.PM
+```
+
+
+
+
+```{r}
+ggplot(diagnosticdf.PM, aes(sample = resdata2)) +  stat_qq(col='blue') + stat_qqline(col='red') + ggtitle("Normal Probability Plot of Residuals of PM 2.5 and Population")
+```
+
+```{r}
+
+coef(summary(predict.PM))
+```
+
+```{r}
+summary(aov(predict.PM))
+```
+
+To inspect the homoscedasticity condition, we plot the fitted.values with the residuals
+
+```{r}
+ggplot(diagnosticdf.PM, aes(x = predicted.PM, y = resdata2)) +  geom_point(size=2, col='blue', position="jitter") + xlab("Predicted Particulate Matters PM2.5") + ylab("Residuals") + ggtitle("Plot of Fits to Residuals") + geom_hline(yintercept=0, color="red", linetype="dashed")
+```
+Correlation value
+```{r}
+
+cor(~Population, ~PM2.5, data=pop.PM)
+
+```
+
+Linear Modelling
+
+```{r}
+Nbootstraps = 1000 
+cor.boot = numeric(Nbootstraps) #define a vector to be filled by the cor boot stat
+a.boot = numeric(Nbootstraps) #define a vector to be filled by the a boot stat
+b.boot = numeric(Nbootstraps) #define a vector to be filled by the b boot stat
+ymean.boot = numeric(Nbootstraps) #define a vector to be filled by the predicted y boot stat
+```
+
+
+```{r}
+nsize = dim(pop.PM)[1]  
+xvalue = 20 
+#start of the for loop
+for(i in 1:Nbootstraps)
+{   #start of the loop
+    index = sample(nsize, replace=TRUE) 
+    PM.boot = pop.PM[index, ] 
+    
+    cor.boot[i] = cor(~Population, ~PM2.5, data=PM.boot)
+    bootdata.lm = lm(PM2.5 ~ Population, data=PM.boot)  
+    a.boot[i] = coef(bootdata.lm)[1] 
+    b.boot[i] = coef(bootdata.lm)[2] 
+    ymean.boot[i] = a.boot[i] + (b.boot[i]*xvalue)
+}
+#end the loop
+    bootstrapresult.pm = data.frame(cor.boot, a.boot, b.boot, ymean.boot)
+```
+
+
+
+```{r}
+head(bootstrapresult.pm, 3)
+tail(bootstrapresult.pm, 3)
+```
+
+
+Bootstrap Distribution of rboot
+```{r}
+ggplot(bootstrapresult.pm, aes(x = cor.boot)) + geom_histogram(col="red", fill="blue", binwidth=0.05) + xlab("Values of the Bootstrap Statistic: Correlation Coefficient for PM 2.5 and Population") + ylab("Count") + ggtitle("Distribution of Bootstrap Statistics: r")
+```
+```{r}
+favstats(~cor.boot, data=bootstrapresult.pm)
+```
+```{r}
+qdata(~cor.boot, c(0.025, 0.975), data=bootstrapresult.pm)
+```
+
+
+Bootstrap Distribution of aboot
+
+```{r}
+ggplot(bootstrapresult.pm, aes(x = a.boot)) + geom_histogram(col="red", fill="blue", binwidth=1) + xlab("Values of the Bootstrap Statistic: y-Intercept Estimate") + ylab("Count") + ggtitle("Distribution of Bootstrap Statistics: a")
+```
+```{r}
+favstats(~a.boot, data=bootstrapresult.pm)
+```
+
+```{r}
+qdata(~a.boot, c(0.025, 0.975), data=bootstrapresult.pm)
+```
+
+Bootstrap Distribution of bboot
+
+```{r}
+ggplot(bootstrapresult.pm, aes(x = b.boot)) + geom_histogram(col="red", fill="blue", binwidth=0.000001) + xlab("Values of the Bootstrap Statistic: Slope Estimate") + ylab("Count") + ggtitle("Distribution of Bootstrap Statistics: b")
+```
+```{r}
+favstats(~b.boot, data=bootstrapresult.pm)
+```
+```{r}
+qdata(~b.boot, c(0.025, 0.975), data=bootstrapresult.pm)
+```
+
+
+Nitrogen Dioxide
+
+
+```{r}
+No2df = subset(parameter2.df, Parameter == "Nitrogen Dioxide")
+head(No2df, 10)
+tail(No2df,20)
+```
+
+
+```{r}
+NO2.cal.df = aggregate(No2df$Average.Daily.Value, list(No2df$Year), FUN=mean)
+
+head(NO2.cal.df, 10)
+tail(NO2.cal.df,20)
+```
+```{r}
+names(NO2.cal.df)[1] <- "Year"
+names(NO2.cal.df)[2] <- "Nitrogen.Dioxide"
+```
+
+
+```{r}
+pop.NO2 = merge(population.df, NO2.cal.df, by.x = "Year")
+pop.NO2
+```
+
+```{r}
+ggplot(pop.NO2, aes(x = Population, y = Nitrogen.Dioxide)) + geom_point(col="blue", size = 2) + xlab("Population") + ylab("Nitrogen Dioxide") + ggtitle("Nitrogen Dioxide with Population")+ geom_smooth(method="lm", col="red")
+```
+
+
+Nitrogen Dioxide = A + B * Population + e
+
+
+```{r}
+predict.NO2 = lm(Nitrogen.Dioxide ~ Population, data=pop.NO2) 
+```
+
+```{r}
+options(scipen=999)
+predict.NO2$coefficients
+```
+
+A= 0.04086983004144
+B= -0.00000001996488
+Nitrogen Dioxide = A + B * Population + e
+Nitrogen Dioxide = 0.04086983004144 + (-0.00000001996488) * Population + e
+
+
+```{r}
+predicted.NO2 = predict.NO2$fitted.values 
+resdata3 = predict.NO2$residuals      
+diagnosticdf.NO2 = data.frame(predicted.NO2, resdata3) 
+```
+
+
+```{r}
+diagnosticdf.NO2
+```
+
+
+
+
+```{r}
+ggplot(diagnosticdf.NO2, aes(sample = resdata3)) +  stat_qq(col='blue') + stat_qqline(col='red') + ggtitle("Normal Probability Plot of Residuals")
+```
+
+
+```{r}
+
+coef(summary(predict.NO2))
+```
+
+```{r}
+summary(aov(predict.NO2))
+```
+
+Correlation value
+```{r}
+
+cor(~Population, ~Nitrogen.Dioxide, data=pop.NO2)
+
+```
+
+To inspect the homoscedasticity condition, we plot the fitted.values with the residuals
+
+```{r}
+ggplot(diagnosticdf.NO2, aes(x = predicted.NO2, y = resdata3)) +  geom_point(size=2, col='blue', position="jitter") + xlab("Predicted Nitrogen Dioxide") + ylab("Residuals") + ggtitle("Plot of Fits to Residuals") + geom_hline(yintercept=0, color="red", linetype="dashed")
+```
+
+
+Linear Modelling
+
+```{r}
+Nbootstraps = 1000 
+cor.boot = numeric(Nbootstraps) #define a vector to be filled by the cor boot stat
+a.boot = numeric(Nbootstraps) #define a vector to be filled by the a boot stat
+b.boot = numeric(Nbootstraps) #define a vector to be filled by the b boot stat
+ymean.boot = numeric(Nbootstraps) #define a vector to be filled by the predicted y boot stat
+```
+
+
+```{r}
+nsize = dim(pop.NO2)[1]  
+xvalue = 20 
+#start of the for loop
+for(i in 1:Nbootstraps)
+{   #start of the loop
+    index = sample(nsize, replace=TRUE) 
+    NO2.boot = pop.NO2[index, ] 
+    
+    cor.boot[i] = cor(~Population, ~Nitrogen.Dioxide, data=NO2.boot)
+    bootdata1.lm = lm(Nitrogen.Dioxide ~ Population, data=NO2.boot)  
+    a.boot[i] = coef(bootdata1.lm)[1] 
+    b.boot[i] = coef(bootdata1.lm)[2] 
+    ymean.boot[i] = a.boot[i] + (b.boot[i]*xvalue)
+}
+#end the loop
+    bootstrapresult.NO2 = data.frame(cor.boot, a.boot, b.boot, ymean.boot)
+```
+
+
+
+```{r}
+head(bootstrapresult.NO2, 3)
+tail(bootstrapresult.NO2, 3)
+```
+
+Bootstrap Disribution of rboot
+```{r}
+ggplot(bootstrapresult.NO2, aes(x = cor.boot)) + geom_histogram(col="red", fill="blue", binwidth=0.009) + xlab("Values of the Bootstrap Statistic: Correlation Coefficient") + ylab("Count") + ggtitle("Distribution of Bootstrap Statistics: r")
+```
+
+```{r}
+favstats(~cor.boot, data=bootstrapresult.NO2)
+```
+```{r}
+qdata(~cor.boot, c(0.025, 0.975), data=bootstrapresult.NO2)
+```
+
+
+Bootstrap Disribution of aboot
+
+```{r}
+ggplot(bootstrapresult.NO2, aes(x = a.boot)) + geom_histogram(col="red", fill="blue", binwidth=0.0005) + xlab("Values of the Bootstrap Statistic: y-Intercept Estimate") + ylab("Count") + ggtitle("Distribution of Bootstrap Statistics: a")
+```
+```{r}
+favstats(~a.boot, data=bootstrapresult.NO2)
+```
+```{r}
+qdata(~a.boot, c(0.025, 0.975), data=bootstrapresult.NO2)
+```
+
+Bootstrap Distribution of bboot
+
+```{r}
+ggplot(bootstrapresult.NO2, aes(x = b.boot)) + geom_histogram(col="red", fill="blue", binwidth=0.000000001) + xlab("Values of the Bootstrap Statistic: Slope Estimate") + ylab("Count") + ggtitle("Distribution of Bootstrap Statistics: b")
+```
+
+
+```{r}
+favstats(~b.boot, data=bootstrapresult.NO2)
+```
+```{r}
+qdata(~b.boot, c(0.025, 0.975), data=bootstrapresult.NO2)
+```
+
+
+
+
+Nitric Oxide
+
+
+
+```{r}
+Nodf = subset(parameter2.df, Parameter == "Nitric Oxide")
+head(Nodf, 10)
+tail(Nodf,20)
+```
+
+```{r}
+NO.cal.df = aggregate(Nodf$Average.Daily.Value, list(Nodf$Year), FUN=mean)
+
+head(NO.cal.df, 10)
+tail(NO.cal.df,20)
+```
+```{r}
+names(NO.cal.df)[1] <- "Year"
+names(NO.cal.df)[2] <- "Nitric.Oxide"
+```
+
+
+```{r}
+pop.NO = merge(population.df, NO.cal.df, by.x = "Year")
+pop.NO
+```
+
+```{r}
+ggplot(pop.NO, aes(x = Population, y = Nitric.Oxide)) + geom_point(col="blue", size = 2) + xlab("Population") + ylab("Nitric Oxide") + ggtitle("Change of Nitric Oxide and Population")+ geom_smooth(method="lm", col="red")
+```
+
+Nitric Oxide = A + B * Population + e
+
+
+```{r}
+predict.NO = lm(Nitric.Oxide ~ Population, data=pop.NO) 
+```
+
+```{r}
+options(scipen=999)
+predict.NO$coefficients
+```
+
+A=  0.0595543100516
+B= -0.000002256207
+Nitric Oxide = A + B * Population + e
+Nitric Oxide =  0.0595543100516 + (-0.0000000373782 ) * Population + e
+
+
+```{r}
+predicted.NO = predict.NO$fitted.values 
+resdata3 = predict.NO$residuals      
+diagnosticdf.NO= data.frame(predicted.NO, resdata3) 
+```
+
+
+```{r}
+diagnosticdf.NO
+```
+
+
+
+
+```{r}
+ggplot(diagnosticdf.NO, aes(sample = resdata3)) +  stat_qq(col='blue') + stat_qqline(col='red') + ggtitle("Normal Probability Plot of Residuals")
+```
+
+
+```{r}
+
+coef(summary(predict.NO))
+```
+
+```{r}
+summary(aov(predict.NO))
+```
+
+Correlation value
+```{r}
+
+cor(~Population, ~Nitric.Oxide, data=pop.NO)
+
+```
+
+To inspect the homoscedasticity condition, we plot the fitted.values with the residuals
+
+```{r}
+ggplot(diagnosticdf.NO, aes(x = predicted.NO, y = resdata3)) +  geom_point(size=2, col='blue', position="jitter") + xlab("Predicted Nitric Oxide") + ylab("Residuals") + ggtitle("Plot of Fits to Residuals") + geom_hline(yintercept=0, color="red", linetype="dashed")
+```
+
+
+Linear Modelling
+
+```{r}
+Nbootstraps = 1000 
+cor.boot = numeric(Nbootstraps) #define a vector to be filled by the cor boot stat
+a.boot = numeric(Nbootstraps) #define a vector to be filled by the a boot stat
+b.boot = numeric(Nbootstraps) #define a vector to be filled by the b boot stat
+ymean.boot = numeric(Nbootstraps) #define a vector to be filled by the predicted y boot stat
+```
+
+
+```{r}
+nsize = dim(pop.NO)[1]  
+xvalue = 20 
+#start of the for loop
+for(i in 1:Nbootstraps)
+{   #start of the loop
+    index = sample(nsize, replace=TRUE) 
+    NO.boot = pop.NO[index, ] 
+    
+    cor.boot[i] = cor(~Population, ~Nitric.Oxide, data=NO.boot)
+    bootdata3.lm = lm(Nitric.Oxide ~ Population, data=NO.boot)  
+    a.boot[i] = coef(bootdata3.lm)[1] 
+    b.boot[i] = coef(bootdata3.lm)[2] 
+    ymean.boot[i] = a.boot[i] + (b.boot[i]*xvalue)
+}
+#end the loop
+    bootstrapresult.NO = data.frame(cor.boot, a.boot, b.boot, ymean.boot)
+```
+
+
+
+```{r}
+head(bootstrapresult.NO, 3)
+tail(bootstrapresult.NO, 3)
+```
+
+Bootstrap Distribution of rboot
+```{r}
+ggplot(bootstrapresult.NO, aes(x = cor.boot)) + geom_histogram(col="red", fill="blue", binwidth=0.01) + xlab("Values of the Bootstrap Statistic: Correlation Coefficient") + ylab("Count") + ggtitle("Distribution of Bootstrap Statistics: r")
+```
+```{r}
+favstats(~cor.boot, data=bootstrapresult.NO)
+```
+```{r}
+qdata(~cor.boot, c(0.025, 0.975), data=bootstrapresult.NO)
+```
+
+Bootstrap Distribution of aboot
+
+```{r}
+ggplot(bootstrapresult.NO, aes(x = a.boot)) + geom_histogram(col="red", fill="blue", binwidth=0.001) + xlab("Values of the Bootstrap Statistic: y-Intercept Estimate") + ylab("Count") + ggtitle("Distribution of Bootstrap Statistics: a")
+```
+```{r}
+favstats(~a.boot, data=bootstrapresult.NO)
+```
+```{r}
+qdata(~a.boot, c(0.025, 0.975), data=bootstrapresult.NO)
+```
+
+
+Bootstrap Distribution of bboot
+
+```{r}
+ggplot(bootstrapresult.NO, aes(x = b.boot)) + geom_histogram(col="red", fill="blue", binwidth=0.000000001) + xlab("Values of the Bootstrap Statistic: Slope Estimate") + ylab("Count") + ggtitle("Distribution of Bootstrap Statistics: b")
+```
+```{r}
+favstats(~b.boot, data=bootstrapresult.NO)
+```
+
+```{r}
+qdata(~b.boot, c(0.025, 0.975), data=bootstrapresult.NO)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
