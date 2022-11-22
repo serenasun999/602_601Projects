@@ -1,0 +1,3151 @@
+Time,GeoType,GeoID,GeoRank,Geography,Number,Percent,Rank
+2015-19,NTA,501,7,Claremont-Bathgate,14898,43.22,
+2015-19,NTA,503,7,Eastchester-Edenwald-Baychester,6551,17.35,
+2015-19,NTA,505,7,Bedford Park-Fordham North,17992,31,
+2015-19,NTA,506,7,Belmont,10489,40.04,
+2015-19,NTA,507,7,Bronxdale,9334,24.46,
+2015-19,NTA,508,7,West Farms-Bronx River,11240,31.95,
+2015-19,NTA,509,7,Soundview-Castle Hill-Clason Point-Harding Park,15098,27.73,
+2015-19,NTA,510,7,Pelham Bay-Country Club-City Island,2964,10.96,
+2015-19,NTA,513,7,Co-op City,5052,11.29,
+2015-19,NTA,514,7,East Concourse-Concourse Village,20779,32.81,
+2015-19,NTA,517,7,East Tremont,17159,39.5,
+2015-19,NTA,522,7,North Riverdale-Fieldston-Riverdale,1834,7.44,
+2015-19,NTA,526,7,Highbridge,14087,36.7,
+2015-19,NTA,527,7,Hunts Point,10312,40.8,
+2015-19,NTA,528,7,Van Cortlandt Village,12607,25.43,
+2015-19,NTA,529,7,Spuyten Duyvil-Kingsbridge,3934,13.13,
+2015-19,NTA,530,7,Kingsbridge Heights,9151,27.83,
+2015-19,NTA,531,7,Allerton-Pelham Gardens,3633,12.34,
+2015-19,NTA,533,7,Longwood,9842,35.78,
+2015-19,NTA,534,7,Melrose South-Mott Haven North,16592,38.91,
+2015-19,NTA,535,7,Morrisania-Melrose,13547,33.35,
+2015-19,NTA,536,7,University Heights-Morris Heights,21497,37.95,
+2015-19,NTA,537,7,Van Nest-Morris Park-Westchester Square,4778,20.04,
+2015-19,NTA,539,7,Mott Haven-Port Morris,20768,43.28,
+2015-19,NTA,540,7,Fordham South,11421,40.57,
+2015-19,NTA,541,7,Mount Hope,17895,33.34,
+2015-19,NTA,543,7,Norwood,11275,28.6,
+2015-19,NTA,544,7,Williamsbridge-Olinville,14306,21.39,
+2015-19,NTA,546,7,Parkchester,5590,18.46,
+2015-19,NTA,549,7,Pelham Parkway,4154,14.73,
+2015-19,NTA,552,7,Schuylerville-Throgs Neck-Edgewater Park,5764,13.12,
+2015-19,NTA,555,7,Soundview-Bruckner,11235,31.24,
+2015-19,NTA,559,7,Westchester-Unionport,6088,21.68,
+2015-19,NTA,562,7,Woodlawn-Wakefield,5654,12.72,
+2015-19,NTA,563,7,West Concourse,13297,34.94,
+2015-19,NTA,575,7,Crotona Park East,8306,37.23,
+2015-19,NTA,4709,7,Brooklyn Heights-Cobble Hill,1504,6.88,
+2015-19,NTA,4717,7,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,8699,13.49,
+2015-19,NTA,4719,7,Brighton Beach,8009,23.23,
+2015-19,NTA,4721,7,Seagate-Coney Island,10369,34.33,
+2015-19,NTA,4723,7,West Brighton,2471,14.32,
+2015-19,NTA,4725,7,Homecrest,7339,16.41,
+2015-19,NTA,4726,7,Gravesend,5884,19.47,
+2015-19,NTA,4727,7,Bath Beach,4763,14.28,
+2015-19,NTA,4728,7,Bensonhurst West,14810,16.59,
+2015-19,NTA,4729,7,Bensonhurst East,12028,18.38,
+2015-19,NTA,4730,7,Dyker Heights,7668,17.61,
+2015-19,NTA,4731,7,Bay Ridge,9772,12.45,
+2015-19,NTA,4732,7,Sunset Park West,12428,24.45,
+2015-19,NTA,4733,7,Carroll Gardens-Columbia Street-Red Hook,5811,13.48,
+2015-19,NTA,4734,7,Sunset Park East,17602,27.62,
+2015-19,NTA,4735,7,Stuyvesant Heights,16016,22.91,
+2015-19,NTA,4737,7,Park Slope-Gowanus,5354,7.26,
+2015-19,NTA,4738,7,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,8617,18.76,
+2015-19,NTA,4740,7,Windsor Terrace,1813,7.99,
+2015-19,NTA,4741,7,Kensington-Ocean Parkway,6844,19.8,
+2015-19,NTA,4742,7,Flatbush,17449,16.85,
+2015-19,NTA,4743,7,Midwood,9947,18.74,
+2015-19,NTA,4744,7,Madison,4966,12.11,
+2015-19,NTA,4745,7,Georgetown-Marine Park-Bergen Beach-Mill Basin,2796,6.06,
+2015-19,NTA,4746,7,Ocean Parkway South,3521,17.32,
+2015-19,NTA,4750,7,Canarsie,11479,13.03,
+2015-19,NTA,4758,7,Flatlands,6103,8.68,
+2015-19,NTA,4760,7,Prospect Lefferts Gardens-Wingate,12171,18.29,
+2015-19,NTA,4761,7,Crown Heights North,25871,23.42,
+2015-19,NTA,4763,7,Crown Heights South,6912,17.65,
+2015-19,NTA,4764,7,Prospect Heights,2219,9.96,
+2015-19,NTA,4768,7,Fort Greene,5941,19.17,
+2015-19,NTA,4769,7,Clinton Hill,5334,14.14,
+2015-19,NTA,4772,7,Williamsburg,16849,50.32,
+2015-19,NTA,4773,7,North Side-South Side,9120,15.81,
+2015-19,NTA,4775,7,Bedford,23981,30.49,
+2015-19,NTA,4776,7,Greenpoint,3577,10.38,
+2015-19,NTA,4777,7,Bushwick North,15772,28.12,
+2015-19,NTA,4778,7,Bushwick South,18630,25.76,
+2015-19,NTA,4779,7,Ocean Hill,9709,26.59,
+2015-19,NTA,4781,7,Brownsville,20969,41.37,
+2015-19,NTA,4782,7,East New York,28986,29.26,
+2015-19,NTA,4783,7,Cypress Hills-City Line,10101,20.83,
+2015-19,NTA,4785,7,East New York (Pennsylvania Ave),8556,30.54,
+2015-19,NTA,4788,7,Borough Park,34333,34.85,
+2015-19,NTA,4790,7,East Williamsburg,7184,19.68,
+2015-19,NTA,4791,7,East Flatbush-Farragut,6830,13.27,
+2015-19,NTA,4793,7,Starrett City,3161,25.27,
+2015-19,NTA,4795,7,Erasmus,3758,13.41,
+2015-19,NTA,4796,7,Rugby-Remsen Village,7562,13.95,
+2015-19,NTA,6101,7,Marble Hill-Inwood,10450,19.97,
+2015-19,NTA,6103,7,Central Harlem North-Polo Grounds,21776,25.42,
+2015-19,NTA,6104,7,Hamilton Heights,11916,22.76,
+2015-19,NTA,6106,7,Manhattanville,7022,29.66,
+2015-19,NTA,6109,7,Morningside Heights,8614,19.41,
+2015-19,NTA,6111,7,Central Harlem South,10747,21.72,
+2015-19,NTA,6112,7,Upper West Side,13292,10.31,
+2015-19,NTA,6113,7,Hudson Yards-Chelsea-Flatiron-Union Square,8265,10.88,
+2015-19,NTA,6114,7,Lincoln Square,4998,8.02,
+2015-19,NTA,6115,7,Clinton,7824,14.81,
+2015-19,NTA,6117,7,Midtown-Midtown South,2995,11.44,
+2015-19,NTA,6119,7,Turtle Bay-East Midtown,2341,4.72,
+2015-19,NTA,6120,7,Murray Hill-Kips Bay,5025,10.42,
+2015-19,NTA,6121,7,Gramercy,2024,8.53,
+2015-19,NTA,6122,7,East Village,6865,18.02,
+2015-19,NTA,6123,7,West Village,3972,6.51,
+2015-19,NTA,6124,7,SoHo-TriBeCa-Civic Center-Little Italy,3386,8.03,
+2015-19,NTA,6125,7,Battery Park City-Lower Manhattan,2987,6.57,
+2015-19,NTA,6127,7,Chinatown,10510,25.7,
+2015-19,NTA,6128,7,Lower East Side,21636,31.59,
+2015-19,NTA,6131,7,Lenox Hill-Roosevelt Island,4698,5.88,
+2015-19,NTA,6132,7,Yorkville,4575,5.87,
+2015-19,NTA,6133,7,East Harlem South,16309,29.19,
+2015-19,NTA,6134,7,East Harlem North,21818,35.93,
+2015-19,NTA,6135,7,Washington Heights North,13116,18.77,
+2015-19,NTA,6136,7,Washington Heights South,18294,20.19,
+2015-19,NTA,6140,7,Upper East Side-Carnegie Hill,2357,4.35,
+2015-19,NTA,6150,7,Stuyvesant Town-Cooper Village,1943,8.7,
+2015-19,NTA,8101,7,South Jamaica,6544,15.01,
+2015-19,NTA,8102,7,Springfield Gardens North,1768,6.6,
+2015-19,NTA,8103,7,Springfield Gardens South-Brookville,2259,10.63,
+2015-19,NTA,8105,7,Rosedale,1685,6.36,
+2015-19,NTA,8106,7,Jamaica Estates-Holliswood,1738,6.55,
+2015-19,NTA,8107,7,Hollis,2014,9.96,
+2015-19,NTA,8108,7,St. Albans,4371,8.34,
+2015-19,NTA,8110,7,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,2670,9.92,
+2015-19,NTA,8112,7,Hammels-Arverne-Edgemere,9787,23.65,
+2015-19,NTA,8115,7,Far Rockaway-Bayswater,10048,17.99,
+2015-19,NTA,8117,7,Forest Hills,7988,9.17,
+2015-19,NTA,8118,7,Rego Park,4051,14.37,
+2015-19,NTA,8119,7,Glendale,2848,7.99,
+2015-19,NTA,8120,7,Ridgewood,9148,12.06,
+2015-19,NTA,8121,7,Middle Village,3008,7.34,
+2015-19,NTA,8122,7,Flushing,16416,24.29,
+2015-19,NTA,8123,7,College Point,2556,10.62,
+2015-19,NTA,8125,7,Corona,11871,21.14,
+2015-19,NTA,8126,7,North Corona,9923,18.32,
+2015-19,NTA,8127,7,East Elmhurst,2925,16.13,
+2015-19,NTA,8128,7,Jackson Heights,12650,13.02,
+2015-19,NTA,8129,7,Elmhurst,10489,12.83,
+2015-19,NTA,8130,7,Maspeth,2859,8.66,
+2015-19,NTA,8131,7,Hunters Point-Sunnyside-West Maspeth,6294,9.11,
+2015-19,NTA,8133,7,Cambria Heights,763,3.63,
+2015-19,NTA,8134,7,Queens Village,4287,7.92,
+2015-19,NTA,8135,7,Briarwood-Jamaica Hills,5887,13.76,
+2015-19,NTA,8137,7,Kew Gardens Hills,4738,13.07,
+2015-19,NTA,8138,7,Pomonok-Flushing Heights-Hillcrest,5712,16.96,
+2015-19,NTA,8141,7,Fresh Meadows-Utopia,2029,10.41,
+2015-19,NTA,8142,7,Oakland Gardens,2455,8.25,
+2015-19,NTA,8143,7,Bellerose,2405,8.88,
+2015-19,NTA,8144,7,Glen Oaks-Floral Park-New Hyde Park,1491,6.31,
+2015-19,NTA,8145,7,Douglas Manor-Douglaston-Little Neck,1566,6.21,
+2015-19,NTA,8146,7,Bayside-Bayside Hills,3062,7.25,
+2015-19,NTA,8147,7,Ft. Totten-Bay Terrace-Clearview,1369,6.23,
+2015-19,NTA,8148,7,Auburndale,1874,9.27,
+2015-19,NTA,8149,7,Whitestone,1618,5.13,
+2015-19,NTA,8150,7,Elmhurst-Maspeth,2619,11.03,
+2015-19,NTA,8151,7,Murray Hill,7543,15.28,
+2015-19,NTA,8152,7,East Flushing,3902,15.48,
+2015-19,NTA,8153,7,Woodhaven,7293,12.13,
+2015-19,NTA,8154,7,Richmond Hill,9447,14.58,
+2015-19,NTA,8155,7,South Ozone Park,8514,10.6,
+2015-19,NTA,8156,7,Ozone Park,3186,13.32,
+2015-19,NTA,8157,7,Lindenwood-Howard Beach,2718,9.68,
+2015-19,NTA,8160,7,Kew Gardens,2156,9.68,
+2015-19,NTA,8161,7,Jamaica,9103,16.85,
+2015-19,NTA,8162,7,Queensboro Hill,2727,13.57,
+2015-19,NTA,8163,7,Woodside,4346,10.44,
+2015-19,NTA,8166,7,Laurelton,1523,5.91,
+2015-19,NTA,8168,7,Queensbridge-Ravenswood-Long Island City,5125,27.1,
+2015-19,NTA,8170,7,Astoria,8768,11.87,
+2015-19,NTA,8171,7,Old Astoria,4093,17.48,
+2015-19,NTA,8172,7,Steinway,4180,8.87,
+2015-19,NTA,8176,7,Baisley Park,4014,10.68,
+2015-19,NTA,8501,7,Annadale-Huguenot-Prince's Bay-Eltingville,1695,5.7,
+2015-19,NTA,8505,7,New Springville-Bloomfield-Travis,4025,9.71,
+2015-19,NTA,8507,7,Westerleigh,2010,8.22,
+2015-19,NTA,8508,7,Grymes Hill-Clifton-Fox Hills,4341,21.35,
+2015-19,NTA,8511,7,Charleston-Richmond Valley-Tottenville,936,3.95,
+2015-19,NTA,8512,7,Mariner's Harbor-Arlington-Port Ivory-Graniteville,6728,20.63,
+2015-19,NTA,8514,7,Grasmere-Arrochar-Ft. Wadsworth,2428,14.96,
+2015-19,NTA,8522,7,West New Brighton-New Brighton-St. George,6513,21.15,
+2015-19,NTA,8524,7,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,2685,8.57,
+2015-19,NTA,8525,7,Oakwood-Oakwood Beach,1616,7.91,
+2015-19,NTA,8528,7,Port Richmond,2855,14.85,
+2015-19,NTA,8532,7,Rossville-Woodrow,1820,8.35,
+2015-19,NTA,8535,7,New Brighton-Silver Lake,2544,15.26,
+2015-19,NTA,8536,7,Old Town-Dongan Hills-South Beach,3141,12.15,
+2015-19,NTA,8537,7,Stapleton-Rosebank,5529,22.57,
+2015-19,NTA,8545,7,New Dorp-Midland Beach,2133,10.06,
+2015-19,NTA,8548,7,Arden Heights,1425,5.32,
+2015-19,NTA,8554,7,Great Kills,2197,5.27,
+2015-19,CD,101,6,Financial District (CD1),10345,6.96,
+2015-19,CD,102,6,Greenwich Village and Soho (CD2),10345,6.96,
+2015-19,CD,103,6,Lower East Side and Chinatown (CD3),39011,26.45,
+2015-19,CD,104,6,Clinton and Chelsea (CD4),19084,12.31,
+2015-19,CD,105,6,Midtown (CD5),19084,12.31,
+2015-19,CD,106,6,Stuyvesant Town and Turtle Bay (CD6),11333,7.88,
+2015-19,CD,107,6,Upper West Side (CD7),18291,9.56,
+2015-19,CD,108,6,Upper East Side (CD8),11630,5.49,
+2015-19,CD,109,6,Morningside Heights and Hamilton Heights (CD9),27552,22.88,
+2015-19,CD,110,6,Central Harlem (CD10),32523,24.07,
+2015-19,CD,111,6,East Harlem (CD11),39284,33.28,
+2015-19,CD,112,6,Washington Heights and Inwood (CD12),41860,19.67,
+2015-19,CD,201,6,Mott Haven and Melrose (CD1),59209,40.08,
+2015-19,CD,202,6,Hunts Point and Longwood (CD2),59209,40.08,
+2015-19,CD,203,6,Morrisania and Crotona (CD3),64402,38.55,
+2015-19,CD,204,6,Highbridge and Concourse (CD4),48163,34.46,
+2015-19,CD,205,6,Fordham and University Heights (CD5),50813,36.69,
+2015-19,CD,206,6,Belmont and East Tremont (CD6),64402,38.55,
+2015-19,CD,207,6,Kingsbridge Heights and Bedford (CD7),38418,29.47,
+2015-19,CD,208,6,Riverdale and Fieldston (CD8),18375,17.63,
+2015-19,CD,209,6,Parkchester and Soundview (CD9),49251,26.75,
+2015-19,CD,210,6,Throgs Neck and Co-op City (CD10),13780,11.91,
+2015-19,CD,211,6,Morris Park and Bronxdale (CD11),23008,18.65,
+2015-19,CD,212,6,Williamsbridge and Baychester (CD12),26753,17.88,
+2015-19,CD,301,6,Greenpoint and Williamsburg (CD1),36730,22.65,
+2015-19,CD,302,6,Fort Greene and Brooklyn Heights (CD2),21428,15.66,
+2015-19,CD,303,6,Bedford Stuyvesant (CD3),39997,26.92,
+2015-19,CD,304,6,Bushwick (CD4),34402,26.79,
+2015-19,CD,305,6,East New York and Starrett City (CD5),42248,26.4,
+2015-19,CD,306,6,Park Slope and Carroll Gardens (CD6),11165,9.56,
+2015-19,CD,307,6,Sunset Park (CD7),31843,23.2,
+2015-19,CD,308,6,Crown Heights and Prospect Heights (CD8),28090,21.16,
+2015-19,CD,309,6,South Crown Heights and Lefferts Gardens (CD9),19083,18.05,
+2015-19,CD,310,6,Bay Ridge and Dyker Heights (CD10),17451,14.3,
+2015-19,CD,311,6,Bensonhurst (CD11),31601,16.8,
+2015-19,CD,312,6,Borough Park (CD12),44698,29.14,
+2015-19,CD,313,6,Coney Island (CD13),26733,23.84,
+2015-19,CD,314,6,Flatbush and Midwood (CD14),27396,17.49,
+2015-19,CD,315,6,Sheepshead Bay (CD15),21004,13.98,
+2015-19,CD,316,6,Brownsville (CD16),39234,34.05,
+2015-19,CD,317,6,East Flatbush (CD17),18150,13.57,
+2015-19,CD,318,6,Flatlands and Canarsie (CD18),20378,9.96,
+2015-19,CD,401,6,Long Island City and Astoria (CD1),22166,13.57,
+2015-19,CD,402,6,Woodside and Sunnyside (CD2),13259,9.86,
+2015-19,CD,403,6,Jackson Heights (CD3),25498,15.05,
+2015-19,CD,404,6,Elmhurst and Corona (CD4),22360,16.21,
+2015-19,CD,405,6,Ridgewood and Maspeth (CD5),17863,9.63,
+2015-19,CD,406,6,Rego Park and Forest Hills (CD6),12039,10.44,
+2015-19,CD,407,6,Flushing and Whitestone (CD7),36131,15.06,
+2015-19,CD,408,6,Hillcrest and Fresh Meadows (CD8),20104,12.66,
+2015-19,CD,409,6,Kew Gardens and Woodhaven (CD9),18896,12.84,
+2015-19,CD,410,6,South Ozone Park and Howard Beach (CD10),14418,10.89,
+2015-19,CD,411,6,Bayside and Little Neck (CD11),8981,7.64,
+2015-19,CD,412,6,Jamaica and Hollis (CD12),27814,11.85,
+2015-19,CD,413,6,Queens Village (CD13),14413,7.23,
+2015-19,CD,414,6,Rockaway and Broad Channel (CD14),22505,18.13,
+2015-19,CD,501,6,St. George and Stapleton (CD1),30520,18.1,
+2015-19,CD,502,6,South Beach and Willowbrook (CD2),14412,10.59,
+2015-19,CD,503,6,Tottenville and Great Kills (CD3),9689,5.9,
+2015-19,Subboro,1,5,Mott Haven/Hunts Point,59209,40.08,
+2015-19,Subboro,2,5,Morrisania/East Tremont,64402,38.55,
+2015-19,Subboro,3,5,Highbridge/South Concourse,48163,34.46,
+2015-19,Subboro,4,5,University Heights/Fordham,50813,36.69,
+2015-19,Subboro,5,5,Kingsbridge Heights/Mosholu,38418,29.47,
+2015-19,Subboro,6,5,Riverdale/Kingsbridge,18375,17.63,
+2015-19,Subboro,7,5,Soundview/Parkchester,49251,26.75,
+2015-19,Subboro,8,5,Throgs Neck/Co-op City,13780,11.91,
+2015-19,Subboro,9,5,Pelham Parkway,23008,18.65,
+2015-19,Subboro,10,5,Williamsbridge/Baychester,26753,17.88,
+2015-19,Subboro,11,5,Williamsburg/Greenpoint,36730,22.65,
+2015-19,Subboro,12,5,Brooklyn Heights/Fort Greene,21428,15.66,
+2015-19,Subboro,13,5,Bedford Stuyvesant,39997,26.92,
+2015-19,Subboro,14,5,Bushwick,34402,26.79,
+2015-19,Subboro,15,5,East New York/Starret City,42248,26.4,
+2015-19,Subboro,16,5,Park Slope/Carroll Gardens,11165,9.56,
+2015-19,Subboro,17,5,Sunset Park,31843,23.2,
+2015-19,Subboro,18,5,N. Crown Heights/Prospect Heights,28090,21.16,
+2015-19,Subboro,19,5,South Crown Heights,19083,18.05,
+2015-19,Subboro,20,5,Bay Ridge,17451,14.3,
+2015-19,Subboro,21,5,Bensonhurst,31601,16.8,
+2015-19,Subboro,22,5,Borough Park,44698,29.14,
+2015-19,Subboro,23,5,Coney Island,26733,23.84,
+2015-19,Subboro,24,5,Flatbush,27396,17.49,
+2015-19,Subboro,25,5,Sheepshead Bay/Gravesend,21004,13.98,
+2015-19,Subboro,26,5,Brownsville/Ocean Hill,39234,34.05,
+2015-19,Subboro,27,5,East Flatbush,18150,13.57,
+2015-19,Subboro,28,5,Flatlands/Canarsie,20378,9.96,
+2015-19,Subboro,29,5,Greenwich Village/Financial District,10345,6.96,
+2015-19,Subboro,30,5,Lower East Side/Chinatown,39011,26.45,
+2015-19,Subboro,31,5,Chelsea/Clinton/Midtown,19084,12.31,
+2015-19,Subboro,32,5,Stuyvesant Town/Turtle Bay,11333,7.88,
+2015-19,Subboro,33,5,Upper West Side,18291,9.56,
+2015-19,Subboro,34,5,Upper East Side,11630,5.49,
+2015-19,Subboro,35,5,Morningside Heights/Hamilton Heights,27552,22.88,
+2015-19,Subboro,36,5,Central Harlem,32523,24.07,
+2015-19,Subboro,37,5,East Harlem,39284,33.28,
+2015-19,Subboro,38,5,Washington Heights/Inwood,41860,19.67,
+2015-19,Subboro,39,5,Astoria,22166,13.57,
+2015-19,Subboro,40,5,Sunnyside/Woodside,13259,9.86,
+2015-19,Subboro,41,5,Jackson Heights,25498,15.05,
+2015-19,Subboro,42,5,Elmhurst/Corona,22360,16.21,
+2015-19,Subboro,43,5,Middle Village/Ridgewood,17863,9.63,
+2015-19,Subboro,44,5,Forest Hills/Rego Park,12039,10.44,
+2015-19,Subboro,45,5,Flushing/Whitestone,36131,15.06,
+2015-19,Subboro,46,5,Hillcrest/Fresh Meadows,20104,12.66,
+2015-19,Subboro,47,5,Kew Gardens/Woodhaven,18896,12.84,
+2015-19,Subboro,48,5,Howard Beach/South Ozone Park,14418,10.89,
+2015-19,Subboro,49,5,Bayside/Little Neck,8981,7.64,
+2015-19,Subboro,50,5,Jamaica,27814,11.85,
+2015-19,Subboro,51,5,Bellerose/Rosedale,14413,7.23,
+2015-19,Subboro,52,5,Rockaways,22505,18.13,
+2015-19,Subboro,53,5,North Shore,30520,18.1,
+2015-19,Subboro,54,5,Mid Island,14412,10.59,
+2015-19,Subboro,55,5,South Shore,9689,5.9,
+2015-19,UHF42,101,4,Kingsbridge - Riverdale,13257,15.08,
+2015-19,UHF42,102,4,Northeast Bronx,30712,15.29,
+2015-19,UHF42,103,4,Fordham - Bronx Pk,76345,29.36,
+2015-19,UHF42,104,4,Pelham - Throgs Neck,64115,21.61,
+2015-19,UHF42,105,4,Crotona -Tremont,78876,36.96,
+2015-19,UHF42,106,4,High Bridge - Morrisania,78362,36.6,
+2015-19,UHF42,107,4,Hunts Point - Mott Haven,53312,38.65,
+2015-19,UHF42,201,4,Greenpoint,29626,21.25,
+2015-19,UHF42,202,4,Downtown - Heights - Slope,35828,14.14,
+2015-19,UHF42,203,4,Bedford Stuyvesant - Crown Heights,78228,23.6,
+2015-19,UHF42,204,4,East New York,51563,27.01,
+2015-19,UHF42,205,4,Sunset Park,30082,25.78,
+2015-19,UHF42,206,4,Borough Park,77144,23.94,
+2015-19,UHF42,207,4,East Flatbush - Flatbush,43789,14.86,
+2015-19,UHF42,208,4,Canarsie - Flatlands,22713,11.02,
+2015-19,UHF42,209,4,Bensonhurst - Bay Ridge,27692,13.61,
+2015-19,UHF42,210,4,Coney Island - Sheepshead Bay,52396,18.27,
+2015-19,UHF42,211,4,Williamsburg - Bushwick,62570,28.51,
+2015-19,UHF42,301,4,Washington Heights,52857,19.99,
+2015-19,UHF42,302,4,Central Harlem - Morningside Heights,44232,25.23,
+2015-19,UHF42,303,4,East Harlem,37153,34.11,
+2015-19,UHF42,304,4,Upper West Side,22201,10.46,
+2015-19,UHF42,305,4,Upper East Side,11673,5.5,
+2015-19,UHF42,306,4,Chelsea - Clinton,18987,12.28,
+2015-19,UHF42,307,4,Gramercy Park - Murray Hill,10090,7.68,
+2015-19,UHF42,308,4,Greenwich Village - SoHo,7076,8.95,
+2015-19,UHF42,309,4,Union Square - Lower East Side,37986,21.54,
+2015-19,UHF42,310,4,Lower Manhattan,5850,9.86,
+2015-19,UHF42,401,4,Long Island City - Astoria,24983,12.38,
+2015-19,UHF42,402,4,West Queens,61826,13.95,
+2015-19,UHF42,403,4,Flushing - Clearview,36942,14.76,
+2015-19,UHF42,404,4,Bayside - Little Neck,6419,7.28,
+2015-19,UHF42,405,4,Ridgewood - Forest Hills,26376,10.1,
+2015-19,UHF42,406,4,Fresh Meadows,12943,13.07,
+2015-19,UHF42,407,4,Southwest Queens,33167,11.87,
+2015-19,UHF42,408,4,Jamaica,36892,12.09,
+2015-19,UHF42,409,4,Southeast Queens,16232,6,
+2015-19,UHF42,410,4,Rockaways,22505,18.13,
+2015-19,UHF42,501,4,Port Richmond,13192,19.14,
+2015-19,UHF42,502,4,Stapleton - St. George,20571,17.38,
+2015-19,UHF42,503,4,Willowbrook,8097,9.13,
+2015-19,UHF42,504,4,South Beach - Tottenville,12761,6.62,
+2015-19,Borough,1,1,Bronx,392172,28.01,
+2015-19,Borough,2,1,Brooklyn,511631,19.95,
+2015-19,Borough,3,1,Manhattan,250913,15.83,
+2015-19,Borough,4,1,Queens,276447,12.23,
+2015-19,Borough,5,1,Staten Island,54621,11.65,
+2015-19,Citywide,1,0,New York City,1485784,17.95,
+2014-18,NTA,501,7,Claremont-Bathgate,15763,45.61,
+2014-18,NTA,503,7,Eastchester-Edenwald-Baychester,6566,17.57,
+2014-18,NTA,505,7,Bedford Park-Fordham North,18625,32.46,
+2014-18,NTA,506,7,Belmont,10141,38.6,
+2014-18,NTA,507,7,Bronxdale,10503,27.08,
+2014-18,NTA,508,7,West Farms-Bronx River,12424,34.78,
+2014-18,NTA,509,7,Soundview-Castle Hill-Clason Point-Harding Park,14835,27.19,
+2014-18,NTA,510,7,Pelham Bay-Country Club-City Island,2708,10.15,
+2014-18,NTA,513,7,Co-op City,4975,10.94,
+2014-18,NTA,514,7,East Concourse-Concourse Village,21901,34.45,
+2014-18,NTA,517,7,East Tremont,17330,40.14,
+2014-18,NTA,522,7,North Riverdale-Fieldston-Riverdale,2150,8.92,
+2014-18,NTA,526,7,Highbridge,14695,37.86,
+2014-18,NTA,527,7,Hunts Point,10009,39.57,
+2014-18,NTA,528,7,Van Cortlandt Village,13219,26.53,
+2014-18,NTA,529,7,Spuyten Duyvil-Kingsbridge,3985,13.21,
+2014-18,NTA,530,7,Kingsbridge Heights,8560,27.2,
+2014-18,NTA,531,7,Allerton-Pelham Gardens,3434,11.35,
+2014-18,NTA,533,7,Longwood,9912,36.24,
+2014-18,NTA,534,7,Melrose South-Mott Haven North,17040,39.93,
+2014-18,NTA,535,7,Morrisania-Melrose,13766,33.91,
+2014-18,NTA,536,7,University Heights-Morris Heights,23146,41.39,
+2014-18,NTA,537,7,Van Nest-Morris Park-Westchester Square,5006,20.59,
+2014-18,NTA,539,7,Mott Haven-Port Morris,21661,44.15,
+2014-18,NTA,540,7,Fordham South,12485,44.75,
+2014-18,NTA,541,7,Mount Hope,18218,34.6,
+2014-18,NTA,543,7,Norwood,13719,32.97,
+2014-18,NTA,544,7,Williamsbridge-Olinville,14711,22.37,
+2014-18,NTA,546,7,Parkchester,5402,17.81,
+2014-18,NTA,549,7,Pelham Parkway,4720,16.55,
+2014-18,NTA,552,7,Schuylerville-Throgs Neck-Edgewater Park,5807,12.88,
+2014-18,NTA,555,7,Soundview-Bruckner,12091,33,
+2014-18,NTA,559,7,Westchester-Unionport,6198,22.19,
+2014-18,NTA,562,7,Woodlawn-Wakefield,5943,13.61,
+2014-18,NTA,563,7,West Concourse,13192,34.91,
+2014-18,NTA,575,7,Crotona Park East,8938,40.64,
+2014-18,NTA,4709,7,Brooklyn Heights-Cobble Hill,1733,7.76,
+2014-18,NTA,4717,7,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,9350,14.36,
+2014-18,NTA,4719,7,Brighton Beach,9205,27,
+2014-18,NTA,4721,7,Seagate-Coney Island,10858,34.53,
+2014-18,NTA,4723,7,West Brighton,2171,12.94,
+2014-18,NTA,4725,7,Homecrest,8360,18.61,
+2014-18,NTA,4726,7,Gravesend,6262,20.52,
+2014-18,NTA,4727,7,Bath Beach,5232,15.94,
+2014-18,NTA,4728,7,Bensonhurst West,16444,18.19,
+2014-18,NTA,4729,7,Bensonhurst East,12655,19.36,
+2014-18,NTA,4730,7,Dyker Heights,7759,17.78,
+2014-18,NTA,4731,7,Bay Ridge,11774,14.93,
+2014-18,NTA,4732,7,Sunset Park West,13394,25.64,
+2014-18,NTA,4733,7,Carroll Gardens-Columbia Street-Red Hook,6078,14.05,
+2014-18,NTA,4734,7,Sunset Park East,20105,30.4,
+2014-18,NTA,4735,7,Stuyvesant Heights,17035,24.72,
+2014-18,NTA,4737,7,Park Slope-Gowanus,5372,7.23,
+2014-18,NTA,4738,7,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,9332,20.74,
+2014-18,NTA,4740,7,Windsor Terrace,1687,7.42,
+2014-18,NTA,4741,7,Kensington-Ocean Parkway,7424,21.07,
+2014-18,NTA,4742,7,Flatbush,19518,18.34,
+2014-18,NTA,4743,7,Midwood,11523,21.21,
+2014-18,NTA,4744,7,Madison,5330,13.04,
+2014-18,NTA,4745,7,Georgetown-Marine Park-Bergen Beach-Mill Basin,2915,6.11,
+2014-18,NTA,4746,7,Ocean Parkway South,4143,20.07,
+2014-18,NTA,4750,7,Canarsie,11597,13.21,
+2014-18,NTA,4758,7,Flatlands,6931,9.64,
+2014-18,NTA,4760,7,Prospect Lefferts Gardens-Wingate,13562,20.03,
+2014-18,NTA,4761,7,Crown Heights North,27173,24.97,
+2014-18,NTA,4763,7,Crown Heights South,6897,17.23,
+2014-18,NTA,4764,7,Prospect Heights,2328,10.98,
+2014-18,NTA,4768,7,Fort Greene,6166,20.02,
+2014-18,NTA,4769,7,Clinton Hill,5718,15.28,
+2014-18,NTA,4772,7,Williamsburg,17439,51.26,
+2014-18,NTA,4773,7,North Side-South Side,9752,17.12,
+2014-18,NTA,4775,7,Bedford,24886,32.14,
+2014-18,NTA,4776,7,Greenpoint,3633,10.72,
+2014-18,NTA,4777,7,Bushwick North,16456,28.98,
+2014-18,NTA,4778,7,Bushwick South,19439,26.89,
+2014-18,NTA,4779,7,Ocean Hill,9521,26.83,
+2014-18,NTA,4781,7,Brownsville,21848,42.96,
+2014-18,NTA,4782,7,East New York,27497,28.68,
+2014-18,NTA,4783,7,Cypress Hills-City Line,11187,22.91,
+2014-18,NTA,4785,7,East New York (Pennsylvania Ave),8746,30.35,
+2014-18,NTA,4788,7,Borough Park,36835,36.24,
+2014-18,NTA,4790,7,East Williamsburg,7084,19.71,
+2014-18,NTA,4791,7,East Flatbush-Farragut,7044,13.59,
+2014-18,NTA,4793,7,Starrett City,3757,29.05,
+2014-18,NTA,4795,7,Erasmus,4703,16.56,
+2014-18,NTA,4796,7,Rugby-Remsen Village,8742,16.19,
+2014-18,NTA,6101,7,Marble Hill-Inwood,11287,21.4,
+2014-18,NTA,6103,7,Central Harlem North-Polo Grounds,23203,27.08,
+2014-18,NTA,6104,7,Hamilton Heights,12348,23.54,
+2014-18,NTA,6106,7,Manhattanville,6819,28.9,
+2014-18,NTA,6109,7,Morningside Heights,9224,21.47,
+2014-18,NTA,6111,7,Central Harlem South,12101,23.93,
+2014-18,NTA,6112,7,Upper West Side,13410,10.22,
+2014-18,NTA,6113,7,Hudson Yards-Chelsea-Flatiron-Union Square,9129,12.1,
+2014-18,NTA,6114,7,Lincoln Square,5101,8.34,
+2014-18,NTA,6115,7,Clinton,7759,15.63,
+2014-18,NTA,6117,7,Midtown-Midtown South,2886,10.95,
+2014-18,NTA,6119,7,Turtle Bay-East Midtown,2246,4.52,
+2014-18,NTA,6120,7,Murray Hill-Kips Bay,5927,12.84,
+2014-18,NTA,6121,7,Gramercy,2157,8.97,
+2014-18,NTA,6122,7,East Village,6485,17.23,
+2014-18,NTA,6123,7,West Village,4195,6.77,
+2014-18,NTA,6124,7,SoHo-TriBeCa-Civic Center-Little Italy,3532,8.61,
+2014-18,NTA,6125,7,Battery Park City-Lower Manhattan,3044,6.82,
+2014-18,NTA,6127,7,Chinatown,11190,26.49,
+2014-18,NTA,6128,7,Lower East Side,21002,30.85,
+2014-18,NTA,6131,7,Lenox Hill-Roosevelt Island,4950,6.24,
+2014-18,NTA,6132,7,Yorkville,4916,6.32,
+2014-18,NTA,6133,7,East Harlem South,16882,29.53,
+2014-18,NTA,6134,7,East Harlem North,23052,37,
+2014-18,NTA,6135,7,Washington Heights North,13871,19.64,
+2014-18,NTA,6136,7,Washington Heights South,20966,22.72,
+2014-18,NTA,6140,7,Upper East Side-Carnegie Hill,2520,4.55,
+2014-18,NTA,6150,7,Stuyvesant Town-Cooper Village,2027,9.2,
+2014-18,NTA,8101,7,South Jamaica,6907,16.03,
+2014-18,NTA,8102,7,Springfield Gardens North,2130,7.79,
+2014-18,NTA,8103,7,Springfield Gardens South-Brookville,2477,11.49,
+2014-18,NTA,8105,7,Rosedale,1999,7.67,
+2014-18,NTA,8106,7,Jamaica Estates-Holliswood,1564,6.09,
+2014-18,NTA,8107,7,Hollis,2273,10.88,
+2014-18,NTA,8108,7,St. Albans,4316,8.22,
+2014-18,NTA,8110,7,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,2346,8.75,
+2014-18,NTA,8112,7,Hammels-Arverne-Edgemere,9742,24.3,
+2014-18,NTA,8115,7,Far Rockaway-Bayswater,10810,19.83,
+2014-18,NTA,8117,7,Forest Hills,8531,9.72,
+2014-18,NTA,8118,7,Rego Park,3788,13.68,
+2014-18,NTA,8119,7,Glendale,3013,8.48,
+2014-18,NTA,8120,7,Ridgewood,9715,12.92,
+2014-18,NTA,8121,7,Middle Village,3228,8.07,
+2014-18,NTA,8122,7,Flushing,16949,24.51,
+2014-18,NTA,8123,7,College Point,3085,12.79,
+2014-18,NTA,8125,7,Corona,11899,20.59,
+2014-18,NTA,8126,7,North Corona,10533,19.74,
+2014-18,NTA,8127,7,East Elmhurst,3415,17.76,
+2014-18,NTA,8128,7,Jackson Heights,12384,12.64,
+2014-18,NTA,8129,7,Elmhurst,12537,15.44,
+2014-18,NTA,8130,7,Maspeth,2969,9.31,
+2014-18,NTA,8131,7,Hunters Point-Sunnyside-West Maspeth,7251,10.54,
+2014-18,NTA,8133,7,Cambria Heights,810,3.83,
+2014-18,NTA,8134,7,Queens Village,4515,8.36,
+2014-18,NTA,8135,7,Briarwood-Jamaica Hills,6734,15.82,
+2014-18,NTA,8137,7,Kew Gardens Hills,4283,11.78,
+2014-18,NTA,8138,7,Pomonok-Flushing Heights-Hillcrest,6198,17.86,
+2014-18,NTA,8141,7,Fresh Meadows-Utopia,2044,10.93,
+2014-18,NTA,8142,7,Oakland Gardens,2741,9.06,
+2014-18,NTA,8143,7,Bellerose,2399,8.85,
+2014-18,NTA,8144,7,Glen Oaks-Floral Park-New Hyde Park,1534,6.59,
+2014-18,NTA,8145,7,Douglas Manor-Douglaston-Little Neck,1499,5.89,
+2014-18,NTA,8146,7,Bayside-Bayside Hills,3555,8.32,
+2014-18,NTA,8147,7,Ft. Totten-Bay Terrace-Clearview,1651,7.28,
+2014-18,NTA,8148,7,Auburndale,1532,7.45,
+2014-18,NTA,8149,7,Whitestone,1831,5.76,
+2014-18,NTA,8150,7,Elmhurst-Maspeth,3125,12.93,
+2014-18,NTA,8151,7,Murray Hill,7523,15.2,
+2014-18,NTA,8152,7,East Flushing,4308,16.81,
+2014-18,NTA,8153,7,Woodhaven,7381,12.22,
+2014-18,NTA,8154,7,Richmond Hill,9835,15.21,
+2014-18,NTA,8155,7,South Ozone Park,10081,12.19,
+2014-18,NTA,8156,7,Ozone Park,3489,14.27,
+2014-18,NTA,8157,7,Lindenwood-Howard Beach,3370,11.61,
+2014-18,NTA,8160,7,Kew Gardens,2691,11.64,
+2014-18,NTA,8161,7,Jamaica,9396,17.65,
+2014-18,NTA,8162,7,Queensboro Hill,3126,15.46,
+2014-18,NTA,8163,7,Woodside,4499,10.33,
+2014-18,NTA,8166,7,Laurelton,1844,6.98,
+2014-18,NTA,8168,7,Queensbridge-Ravenswood-Long Island City,5862,30.52,
+2014-18,NTA,8170,7,Astoria,9281,12.43,
+2014-18,NTA,8171,7,Old Astoria,4562,18.66,
+2014-18,NTA,8172,7,Steinway,4742,9.84,
+2014-18,NTA,8176,7,Baisley Park,4793,12.29,
+2014-18,NTA,8501,7,Annadale-Huguenot-Prince's Bay-Eltingville,1820,6.31,
+2014-18,NTA,8505,7,New Springville-Bloomfield-Travis,4074,9.9,
+2014-18,NTA,8507,7,Westerleigh,2213,9.2,
+2014-18,NTA,8508,7,Grymes Hill-Clifton-Fox Hills,4284,20.8,
+2014-18,NTA,8511,7,Charleston-Richmond Valley-Tottenville,1461,6.05,
+2014-18,NTA,8512,7,Mariner's Harbor-Arlington-Port Ivory-Graniteville,7116,22.4,
+2014-18,NTA,8514,7,Grasmere-Arrochar-Ft. Wadsworth,2382,14.79,
+2014-18,NTA,8522,7,West New Brighton-New Brighton-St. George,8452,26.66,
+2014-18,NTA,8524,7,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,2689,8.5,
+2014-18,NTA,8525,7,Oakwood-Oakwood Beach,1838,8.98,
+2014-18,NTA,8528,7,Port Richmond,2928,15.03,
+2014-18,NTA,8532,7,Rossville-Woodrow,2406,10.85,
+2014-18,NTA,8535,7,New Brighton-Silver Lake,2687,16.32,
+2014-18,NTA,8536,7,Old Town-Dongan Hills-South Beach,3141,12.66,
+2014-18,NTA,8537,7,Stapleton-Rosebank,5854,23.84,
+2014-18,NTA,8545,7,New Dorp-Midland Beach,2239,10.7,
+2014-18,NTA,8548,7,Arden Heights,1595,5.93,
+2014-18,NTA,8554,7,Great Kills,2847,6.73,
+2014-18,CD,101,6,Financial District (CD1),10771,7.3,
+2014-18,CD,102,6,Greenwich Village and Soho (CD2),10771,7.3,
+2014-18,CD,103,6,Lower East Side and Chinatown (CD3),38677,26.14,
+2014-18,CD,104,6,Clinton and Chelsea (CD4),19774,13.06,
+2014-18,CD,105,6,Midtown (CD5),19774,13.06,
+2014-18,CD,106,6,Stuyvesant Town and Turtle Bay (CD6),12357,8.71,
+2014-18,CD,107,6,Upper West Side (CD7),18512,9.62,
+2014-18,CD,108,6,Upper East Side (CD8),12386,5.83,
+2014-18,CD,109,6,Morningside Heights and Hamilton Heights (CD9),28391,23.85,
+2014-18,CD,110,6,Central Harlem (CD10),35304,25.91,
+2014-18,CD,111,6,East Harlem (CD11),41117,34.02,
+2014-18,CD,112,6,Washington Heights and Inwood (CD12),46124,21.39,
+2014-18,CD,201,6,Mott Haven and Melrose (CD1),60809,40.82,
+2014-18,CD,202,6,Hunts Point and Longwood (CD2),60809,40.82,
+2014-18,CD,203,6,Morrisania and Crotona (CD3),65942,39.57,
+2014-18,CD,204,6,Highbridge and Concourse (CD4),49788,35.52,
+2014-18,CD,205,6,Fordham and University Heights (CD5),53849,39.46,
+2014-18,CD,206,6,Belmont and East Tremont (CD6),65942,39.57,
+2014-18,CD,207,6,Kingsbridge Heights and Bedford (CD7),40904,31.35,
+2014-18,CD,208,6,Riverdale and Fieldston (CD8),19354,18.59,
+2014-18,CD,209,6,Parkchester and Soundview (CD9),50950,27.49,
+2014-18,CD,210,6,Throgs Neck and Co-op City (CD10),13568,11.55,
+2014-18,CD,211,6,Morris Park and Bronxdale (CD11),24945,19.81,
+2014-18,CD,212,6,Williamsbridge and Baychester (CD12),27419,18.63,
+2014-18,CD,301,6,Greenpoint and Williamsburg (CD1),37908,23.57,
+2014-18,CD,302,6,Fort Greene and Brooklyn Heights (CD2),22971,16.9,
+2014-18,CD,303,6,Bedford Stuyvesant (CD3),41921,28.65,
+2014-18,CD,304,6,Bushwick (CD4),35895,27.81,
+2014-18,CD,305,6,East New York and Starrett City (CD5),42441,26.92,
+2014-18,CD,306,6,Park Slope and Carroll Gardens (CD6),11450,9.73,
+2014-18,CD,307,6,Sunset Park (CD7),35186,24.93,
+2014-18,CD,308,6,Crown Heights and Prospect Heights (CD8),29501,22.69,
+2014-18,CD,309,6,South Crown Heights and Lefferts Gardens (CD9),20459,18.99,
+2014-18,CD,310,6,Bay Ridge and Dyker Heights (CD10),19533,15.95,
+2014-18,CD,311,6,Bensonhurst (CD11),34331,18.2,
+2014-18,CD,312,6,Borough Park (CD12),48402,30.73,
+2014-18,CD,313,6,Coney Island (CD13),28496,25.26,
+2014-18,CD,314,6,Flatbush and Midwood (CD14),31041,19.31,
+2014-18,CD,315,6,Sheepshead Bay (CD15),23040,15.27,
+2014-18,CD,316,6,Brownsville (CD16),40115,34.83,
+2014-18,CD,317,6,East Flatbush (CD17),20489,15.27,
+2014-18,CD,318,6,Flatlands and Canarsie (CD18),21443,10.34,
+2014-18,CD,401,6,Long Island City and Astoria (CD1),24447,14.69,
+2014-18,CD,402,6,Woodside and Sunnyside (CD2),14922,10.93,
+2014-18,CD,403,6,Jackson Heights (CD3),26332,15.44,
+2014-18,CD,404,6,Elmhurst and Corona (CD4),24436,17.58,
+2014-18,CD,405,6,Ridgewood and Maspeth (CD5),18925,10.36,
+2014-18,CD,406,6,Rego Park and Forest Hills (CD6),12319,10.67,
+2014-18,CD,407,6,Flushing and Whitestone (CD7),38473,15.83,
+2014-18,CD,408,6,Hillcrest and Fresh Meadows (CD8),20823,13.18,
+2014-18,CD,409,6,Kew Gardens and Woodhaven (CD9),19907,13.44,
+2014-18,CD,410,6,South Ozone Park and Howard Beach (CD10),16940,12.44,
+2014-18,CD,411,6,Bayside and Little Neck (CD11),9350,7.85,
+2014-18,CD,412,6,Jamaica and Hollis (CD12),29815,12.63,
+2014-18,CD,413,6,Queens Village (CD13),15578,7.8,
+2014-18,CD,414,6,Rockaway and Broad Channel (CD14),22898,18.86,
+2014-18,CD,501,6,St. George and Stapleton (CD1),33534,19.89,
+2014-18,CD,502,6,South Beach and Willowbrook (CD2),14525,10.79,
+2014-18,CD,503,6,Tottenville and Great Kills (CD3),11967,7.26,
+2014-18,Subboro,1,5,Mott Haven/Hunts Point,60809,40.82,
+2014-18,Subboro,2,5,Morrisania/East Tremont,65942,39.57,
+2014-18,Subboro,3,5,Highbridge/South Concourse,49788,35.52,
+2014-18,Subboro,4,5,University Heights/Fordham,53849,39.46,
+2014-18,Subboro,5,5,Kingsbridge Heights/Mosholu,40904,31.35,
+2014-18,Subboro,6,5,Riverdale/Kingsbridge,19354,18.59,
+2014-18,Subboro,7,5,Soundview/Parkchester,50950,27.49,
+2014-18,Subboro,8,5,Throgs Neck/Co-op City,13568,11.55,
+2014-18,Subboro,9,5,Pelham Parkway,24945,19.81,
+2014-18,Subboro,10,5,Williamsbridge/Baychester,27419,18.63,
+2014-18,Subboro,11,5,Williamsburg/Greenpoint,37908,23.57,
+2014-18,Subboro,12,5,Brooklyn Heights/Fort Greene,22971,16.9,
+2014-18,Subboro,13,5,Bedford Stuyvesant,41921,28.65,
+2014-18,Subboro,14,5,Bushwick,35895,27.81,
+2014-18,Subboro,15,5,East New York/Starret City,42441,26.92,
+2014-18,Subboro,16,5,Park Slope/Carroll Gardens,11450,9.73,
+2014-18,Subboro,17,5,Sunset Park,35186,24.93,
+2014-18,Subboro,18,5,N. Crown Heights/Prospect Heights,29501,22.69,
+2014-18,Subboro,19,5,South Crown Heights,20459,18.99,
+2014-18,Subboro,20,5,Bay Ridge,19533,15.95,
+2014-18,Subboro,21,5,Bensonhurst,34331,18.2,
+2014-18,Subboro,22,5,Borough Park,48402,30.73,
+2014-18,Subboro,23,5,Coney Island,28496,25.26,
+2014-18,Subboro,24,5,Flatbush,31041,19.31,
+2014-18,Subboro,25,5,Sheepshead Bay/Gravesend,23040,15.27,
+2014-18,Subboro,26,5,Brownsville/Ocean Hill,40115,34.83,
+2014-18,Subboro,27,5,East Flatbush,20489,15.27,
+2014-18,Subboro,28,5,Flatlands/Canarsie,21443,10.34,
+2014-18,Subboro,29,5,Greenwich Village/Financial District,10771,7.3,
+2014-18,Subboro,30,5,Lower East Side/Chinatown,38677,26.14,
+2014-18,Subboro,31,5,Chelsea/Clinton/Midtown,19774,13.06,
+2014-18,Subboro,32,5,Stuyvesant Town/Turtle Bay,12357,8.71,
+2014-18,Subboro,33,5,Upper West Side,18512,9.62,
+2014-18,Subboro,34,5,Upper East Side,12386,5.83,
+2014-18,Subboro,35,5,Morningside Heights/Hamilton Heights,28391,23.85,
+2014-18,Subboro,36,5,Central Harlem,35304,25.91,
+2014-18,Subboro,37,5,East Harlem,41117,34.02,
+2014-18,Subboro,38,5,Washington Heights/Inwood,46124,21.39,
+2014-18,Subboro,39,5,Astoria,24447,14.69,
+2014-18,Subboro,40,5,Sunnyside/Woodside,14922,10.93,
+2014-18,Subboro,41,5,Jackson Heights,26332,15.44,
+2014-18,Subboro,42,5,Elmhurst/Corona,24436,17.58,
+2014-18,Subboro,43,5,Middle Village/Ridgewood,18925,10.36,
+2014-18,Subboro,44,5,Forest Hills/Rego Park,12319,10.67,
+2014-18,Subboro,45,5,Flushing/Whitestone,38473,15.83,
+2014-18,Subboro,46,5,Hillcrest/Fresh Meadows,20823,13.18,
+2014-18,Subboro,47,5,Kew Gardens/Woodhaven,19907,13.44,
+2014-18,Subboro,48,5,Howard Beach/South Ozone Park,16940,12.44,
+2014-18,Subboro,49,5,Bayside/Little Neck,9350,7.85,
+2014-18,Subboro,50,5,Jamaica,29815,12.63,
+2014-18,Subboro,51,5,Bellerose/Rosedale,15578,7.8,
+2014-18,Subboro,52,5,Rockaways,22898,18.86,
+2014-18,Subboro,53,5,North Shore,33534,19.89,
+2014-18,Subboro,54,5,Mid Island,14525,10.79,
+2014-18,Subboro,55,5,South Shore,11967,7.26,
+2014-18,UHF42,101,4,Kingsbridge - Riverdale,13747,15.69,
+2014-18,UHF42,102,4,Northeast Bronx,31154,15.57,
+2014-18,UHF42,103,4,Fordham - Bronx Pk,81969,31.43,
+2014-18,UHF42,104,4,Pelham - Throgs Neck,66307,22.12,
+2014-18,UHF42,105,4,Crotona -Tremont,81339,38.61,
+2014-18,UHF42,106,4,High Bridge - Morrisania,80867,37.48,
+2014-18,UHF42,107,4,Hunts Point - Mott Haven,55127,39.73,
+2014-18,UHF42,201,4,Greenpoint,30641,22.11,
+2014-18,UHF42,202,4,Downtown - Heights - Slope,37383,14.83,
+2014-18,UHF42,203,4,Bedford Stuyvesant - Crown Heights,80598,24.7,
+2014-18,UHF42,204,4,East New York,51618,27.27,
+2014-18,UHF42,205,4,Sunset Park,33453,27.75,
+2014-18,UHF42,206,4,Borough Park,84218,25.61,
+2014-18,UHF42,207,4,East Flatbush - Flatbush,48661,16.26,
+2014-18,UHF42,208,4,Canarsie - Flatlands,24102,11.58,
+2014-18,UHF42,209,4,Bensonhurst - Bay Ridge,31311,15.3,
+2014-18,UHF42,210,4,Coney Island - Sheepshead Bay,56527,19.61,
+2014-18,UHF42,211,4,Williamsburg - Bushwick,66110,30.02,
+2014-18,UHF42,301,4,Washington Heights,57444,21.49,
+2014-18,UHF42,302,4,Central Harlem - Morningside Heights,47533,27.14,
+2014-18,UHF42,303,4,East Harlem,38590,34.56,
+2014-18,UHF42,304,4,Upper West Side,22623,10.62,
+2014-18,UHF42,305,4,Upper East Side,12445,5.84,
+2014-18,UHF42,306,4,Chelsea - Clinton,19488,12.81,
+2014-18,UHF42,307,4,Gramercy Park - Murray Hill,10892,8.56,
+2014-18,UHF42,308,4,Greenwich Village - SoHo,7612,9.58,
+2014-18,UHF42,309,4,Union Square - Lower East Side,37937,21.39,
+2014-18,UHF42,310,4,Lower Manhattan,5866,10.07,
+2014-18,UHF42,401,4,Long Island City - Astoria,27745,13.61,
+2014-18,UHF42,402,4,West Queens,66138,14.78,
+2014-18,UHF42,403,4,Flushing - Clearview,39321,15.52,
+2014-18,UHF42,404,4,Bayside - Little Neck,6875,7.72,
+2014-18,UHF42,405,4,Ridgewood - Forest Hills,27498,10.6,
+2014-18,UHF42,406,4,Fresh Meadows,12878,12.85,
+2014-18,UHF42,407,4,Southwest Queens,36703,12.92,
+2014-18,UHF42,408,4,Jamaica,39543,12.94,
+2014-18,UHF42,409,4,Southeast Queens,17402,6.43,
+2014-18,UHF42,410,4,Rockaways,22898,18.86,
+2014-18,UHF42,501,4,Port Richmond,13943,20.76,
+2014-18,UHF42,502,4,Stapleton - St. George,22406,18.94,
+2014-18,UHF42,503,4,Willowbrook,8558,9.55,
+2014-18,UHF42,504,4,South Beach - Tottenville,15119,7.84,
+2014-18,Borough,1,1,Bronx,407528,29.05,
+2014-18,Borough,2,1,Brooklyn,544622,21.14,
+2014-18,Borough,3,1,Manhattan,263413,16.61,
+2014-18,Borough,4,1,Queens,295165,12.99,
+2014-18,Borough,5,1,Staten Island,60026,12.82,
+2014-18,Citywide,1,0,New York City,1570754,18.91,
+2013-17,NTA,501,7,Claremont-Bathgate,16806,48.17,
+2013-17,NTA,503,7,Eastchester-Edenwald-Baychester,6058,16.43,
+2013-17,NTA,505,7,Bedford Park-Fordham North,19238,33.55,
+2013-17,NTA,506,7,Belmont,11394,41.91,
+2013-17,NTA,507,7,Bronxdale,10254,27.33,
+2013-17,NTA,508,7,West Farms-Bronx River,12431,34.72,
+2013-17,NTA,509,7,Soundview-Castle Hill-Clason Point-Harding Park,16786,29.39,
+2013-17,NTA,510,7,Pelham Bay-Country Club-City Island,3341,12.25,
+2013-17,NTA,513,7,Co-op City,4557,9.84,
+2013-17,NTA,514,7,East Concourse-Concourse Village,23114,36.08,
+2013-17,NTA,517,7,East Tremont,17703,39.78,
+2013-17,NTA,522,7,North Riverdale-Fieldston-Riverdale,2250,9.27,
+2013-17,NTA,526,7,Highbridge,15785,39.14,
+2013-17,NTA,527,7,Hunts Point,10528,40.55,
+2013-17,NTA,528,7,Van Cortlandt Village,13450,26.51,
+2013-17,NTA,529,7,Spuyten Duyvil-Kingsbridge,3475,11.4,
+2013-17,NTA,530,7,Kingsbridge Heights,8841,27.38,
+2013-17,NTA,531,7,Allerton-Pelham Gardens,3737,12.31,
+2013-17,NTA,533,7,Longwood,10536,36.97,
+2013-17,NTA,534,7,Melrose South-Mott Haven North,17274,40.37,
+2013-17,NTA,535,7,Morrisania-Melrose,14270,35.2,
+2013-17,NTA,536,7,University Heights-Morris Heights,23845,41.97,
+2013-17,NTA,537,7,Van Nest-Morris Park-Westchester Square,5320,21,
+2013-17,NTA,539,7,Mott Haven-Port Morris,22205,44.94,
+2013-17,NTA,540,7,Fordham South,12791,45.44,
+2013-17,NTA,541,7,Mount Hope,18985,35.14,
+2013-17,NTA,543,7,Norwood,14690,35.03,
+2013-17,NTA,544,7,Williamsbridge-Olinville,15003,23.13,
+2013-17,NTA,546,7,Parkchester,4874,15.83,
+2013-17,NTA,549,7,Pelham Parkway,5012,17.28,
+2013-17,NTA,552,7,Schuylerville-Throgs Neck-Edgewater Park,5573,12.39,
+2013-17,NTA,555,7,Soundview-Bruckner,12141,33.21,
+2013-17,NTA,559,7,Westchester-Unionport,7167,24.72,
+2013-17,NTA,562,7,Woodlawn-Wakefield,5883,13.37,
+2013-17,NTA,563,7,West Concourse,14030,36.67,
+2013-17,NTA,575,7,Crotona Park East,9169,41.58,
+2013-17,NTA,4709,7,Brooklyn Heights-Cobble Hill,1933,8.63,
+2013-17,NTA,4717,7,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,10363,15.39,
+2013-17,NTA,4719,7,Brighton Beach,9268,26.12,
+2013-17,NTA,4721,7,Seagate-Coney Island,9827,32.32,
+2013-17,NTA,4723,7,West Brighton,2554,15.54,
+2013-17,NTA,4725,7,Homecrest,8447,18.79,
+2013-17,NTA,4726,7,Gravesend,6124,19.91,
+2013-17,NTA,4727,7,Bath Beach,5064,15.53,
+2013-17,NTA,4728,7,Bensonhurst West,16320,17.58,
+2013-17,NTA,4729,7,Bensonhurst East,11846,17.97,
+2013-17,NTA,4730,7,Dyker Heights,8061,18.02,
+2013-17,NTA,4731,7,Bay Ridge,11700,14.69,
+2013-17,NTA,4732,7,Sunset Park West,15328,28.06,
+2013-17,NTA,4733,7,Carroll Gardens-Columbia Street-Red Hook,5708,13.21,
+2013-17,NTA,4734,7,Sunset Park East,22585,32.27,
+2013-17,NTA,4735,7,Stuyvesant Heights,18554,27.39,
+2013-17,NTA,4737,7,Park Slope-Gowanus,5340,7.14,
+2013-17,NTA,4738,7,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,9312,21.25,
+2013-17,NTA,4740,7,Windsor Terrace,1931,8.59,
+2013-17,NTA,4741,7,Kensington-Ocean Parkway,9375,24.96,
+2013-17,NTA,4742,7,Flatbush,21195,19.39,
+2013-17,NTA,4743,7,Midwood,12681,23.45,
+2013-17,NTA,4744,7,Madison,5187,12.58,
+2013-17,NTA,4745,7,Georgetown-Marine Park-Bergen Beach-Mill Basin,2930,6.06,
+2013-17,NTA,4746,7,Ocean Parkway South,4123,19.49,
+2013-17,NTA,4750,7,Canarsie,12294,13.89,
+2013-17,NTA,4758,7,Flatlands,7668,10.35,
+2013-17,NTA,4760,7,Prospect Lefferts Gardens-Wingate,14664,21.64,
+2013-17,NTA,4761,7,Crown Heights North,28445,26.07,
+2013-17,NTA,4763,7,Crown Heights South,7085,17.43,
+2013-17,NTA,4764,7,Prospect Heights,2452,11.55,
+2013-17,NTA,4768,7,Fort Greene,6371,21.04,
+2013-17,NTA,4769,7,Clinton Hill,5662,15.28,
+2013-17,NTA,4772,7,Williamsburg,16831,49.85,
+2013-17,NTA,4773,7,North Side-South Side,10225,18.23,
+2013-17,NTA,4775,7,Bedford,25483,33.26,
+2013-17,NTA,4776,7,Greenpoint,4346,12.71,
+2013-17,NTA,4777,7,Bushwick North,16793,28.22,
+2013-17,NTA,4778,7,Bushwick South,19985,26.63,
+2013-17,NTA,4779,7,Ocean Hill,10125,29.29,
+2013-17,NTA,4781,7,Brownsville,24010,43.08,
+2013-17,NTA,4782,7,East New York,28794,29.95,
+2013-17,NTA,4783,7,Cypress Hills-City Line,11865,24.19,
+2013-17,NTA,4785,7,East New York (Pennsylvania Ave),9698,33.25,
+2013-17,NTA,4788,7,Borough Park,38891,37.12,
+2013-17,NTA,4790,7,East Williamsburg,7042,19.46,
+2013-17,NTA,4791,7,East Flatbush-Farragut,7056,13.36,
+2013-17,NTA,4793,7,Starrett City,3735,29.84,
+2013-17,NTA,4795,7,Erasmus,5437,18.76,
+2013-17,NTA,4796,7,Rugby-Remsen Village,10014,18.12,
+2013-17,NTA,6101,7,Marble Hill-Inwood,12818,23.99,
+2013-17,NTA,6103,7,Central Harlem North-Polo Grounds,24885,28.79,
+2013-17,NTA,6104,7,Hamilton Heights,13437,24.89,
+2013-17,NTA,6106,7,Manhattanville,7301,30.43,
+2013-17,NTA,6109,7,Morningside Heights,9398,21.81,
+2013-17,NTA,6111,7,Central Harlem South,12479,24.45,
+2013-17,NTA,6112,7,Upper West Side,14433,10.88,
+2013-17,NTA,6113,7,Hudson Yards-Chelsea-Flatiron-Union Square,10080,13.3,
+2013-17,NTA,6114,7,Lincoln Square,4952,8.25,
+2013-17,NTA,6115,7,Clinton,6805,14.41,
+2013-17,NTA,6117,7,Midtown-Midtown South,3219,12.29,
+2013-17,NTA,6119,7,Turtle Bay-East Midtown,2544,5.11,
+2013-17,NTA,6120,7,Murray Hill-Kips Bay,5788,12.4,
+2013-17,NTA,6121,7,Gramercy,2112,8.55,
+2013-17,NTA,6122,7,East Village,6110,16.23,
+2013-17,NTA,6123,7,West Village,4531,7.13,
+2013-17,NTA,6124,7,SoHo-TriBeCa-Civic Center-Little Italy,3866,9.19,
+2013-17,NTA,6125,7,Battery Park City-Lower Manhattan,3326,7.41,
+2013-17,NTA,6127,7,Chinatown,11792,26.91,
+2013-17,NTA,6128,7,Lower East Side,21314,29.98,
+2013-17,NTA,6131,7,Lenox Hill-Roosevelt Island,5511,6.92,
+2013-17,NTA,6132,7,Yorkville,5478,6.67,
+2013-17,NTA,6133,7,East Harlem South,16745,28.73,
+2013-17,NTA,6134,7,East Harlem North,23850,38.26,
+2013-17,NTA,6135,7,Washington Heights North,15909,21.92,
+2013-17,NTA,6136,7,Washington Heights South,22677,24.63,
+2013-17,NTA,6140,7,Upper East Side-Carnegie Hill,2615,4.51,
+2013-17,NTA,6150,7,Stuyvesant Town-Cooper Village,2230,9.9,
+2013-17,NTA,8101,7,South Jamaica,7146,16.63,
+2013-17,NTA,8102,7,Springfield Gardens North,2086,7.74,
+2013-17,NTA,8103,7,Springfield Gardens South-Brookville,2485,11.27,
+2013-17,NTA,8105,7,Rosedale,1871,6.89,
+2013-17,NTA,8106,7,Jamaica Estates-Holliswood,2652,10.22,
+2013-17,NTA,8107,7,Hollis,2288,10.78,
+2013-17,NTA,8108,7,St. Albans,4640,8.52,
+2013-17,NTA,8110,7,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,2039,7.63,
+2013-17,NTA,8112,7,Hammels-Arverne-Edgemere,9742,24.91,
+2013-17,NTA,8115,7,Far Rockaway-Bayswater,11328,21.46,
+2013-17,NTA,8117,7,Forest Hills,9098,10.37,
+2013-17,NTA,8118,7,Rego Park,3709,13.13,
+2013-17,NTA,8119,7,Glendale,3179,8.99,
+2013-17,NTA,8120,7,Ridgewood,10693,14.24,
+2013-17,NTA,8121,7,Middle Village,3042,7.76,
+2013-17,NTA,8122,7,Flushing,17674,25.23,
+2013-17,NTA,8123,7,College Point,3401,13.81,
+2013-17,NTA,8125,7,Corona,11743,19.85,
+2013-17,NTA,8126,7,North Corona,11666,21.45,
+2013-17,NTA,8127,7,East Elmhurst,3897,18.5,
+2013-17,NTA,8128,7,Jackson Heights,13887,13.51,
+2013-17,NTA,8129,7,Elmhurst,15084,18.17,
+2013-17,NTA,8130,7,Maspeth,2907,9.43,
+2013-17,NTA,8131,7,Hunters Point-Sunnyside-West Maspeth,8165,12.18,
+2013-17,NTA,8133,7,Cambria Heights,902,4.39,
+2013-17,NTA,8134,7,Queens Village,4868,8.83,
+2013-17,NTA,8135,7,Briarwood-Jamaica Hills,6593,15.49,
+2013-17,NTA,8137,7,Kew Gardens Hills,4175,11.1,
+2013-17,NTA,8138,7,Pomonok-Flushing Heights-Hillcrest,6623,18.84,
+2013-17,NTA,8141,7,Fresh Meadows-Utopia,2104,11.43,
+2013-17,NTA,8142,7,Oakland Gardens,2941,10.09,
+2013-17,NTA,8143,7,Bellerose,2760,10.04,
+2013-17,NTA,8144,7,Glen Oaks-Floral Park-New Hyde Park,1609,6.93,
+2013-17,NTA,8145,7,Douglas Manor-Douglaston-Little Neck,1960,7.63,
+2013-17,NTA,8146,7,Bayside-Bayside Hills,3610,8.05,
+2013-17,NTA,8147,7,Ft. Totten-Bay Terrace-Clearview,1840,8.23,
+2013-17,NTA,8148,7,Auburndale,1280,6.16,
+2013-17,NTA,8149,7,Whitestone,1694,5.17,
+2013-17,NTA,8150,7,Elmhurst-Maspeth,3504,13.73,
+2013-17,NTA,8151,7,Murray Hill,8385,16.23,
+2013-17,NTA,8152,7,East Flushing,4336,16.46,
+2013-17,NTA,8153,7,Woodhaven,8430,13.33,
+2013-17,NTA,8154,7,Richmond Hill,10928,16.31,
+2013-17,NTA,8155,7,South Ozone Park,10305,12.14,
+2013-17,NTA,8156,7,Ozone Park,3844,15.7,
+2013-17,NTA,8157,7,Lindenwood-Howard Beach,3402,11.78,
+2013-17,NTA,8160,7,Kew Gardens,2776,11.51,
+2013-17,NTA,8161,7,Jamaica,10827,19.44,
+2013-17,NTA,8162,7,Queensboro Hill,3377,15.72,
+2013-17,NTA,8163,7,Woodside,5931,13.05,
+2013-17,NTA,8166,7,Laurelton,1928,7.08,
+2013-17,NTA,8168,7,Queensbridge-Ravenswood-Long Island City,6050,30.61,
+2013-17,NTA,8170,7,Astoria,10943,14.13,
+2013-17,NTA,8171,7,Old Astoria,5487,20,
+2013-17,NTA,8172,7,Steinway,4526,9.33,
+2013-17,NTA,8176,7,Baisley Park,4759,11.82,
+2013-17,NTA,8501,7,Annadale-Huguenot-Prince's Bay-Eltingville,1577,5.49,
+2013-17,NTA,8505,7,New Springville-Bloomfield-Travis,3925,9.5,
+2013-17,NTA,8507,7,Westerleigh,2399,9.91,
+2013-17,NTA,8508,7,Grymes Hill-Clifton-Fox Hills,3977,19.67,
+2013-17,NTA,8511,7,Charleston-Richmond Valley-Tottenville,1408,5.84,
+2013-17,NTA,8512,7,Mariner's Harbor-Arlington-Port Ivory-Graniteville,7494,24.04,
+2013-17,NTA,8514,7,Grasmere-Arrochar-Ft. Wadsworth,2449,15.27,
+2013-17,NTA,8522,7,West New Brighton-New Brighton-St. George,8481,26.11,
+2013-17,NTA,8524,7,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,2819,8.92,
+2013-17,NTA,8525,7,Oakwood-Oakwood Beach,1602,7.67,
+2013-17,NTA,8528,7,Port Richmond,3666,18.89,
+2013-17,NTA,8532,7,Rossville-Woodrow,2103,9.5,
+2013-17,NTA,8535,7,New Brighton-Silver Lake,2528,14.92,
+2013-17,NTA,8536,7,Old Town-Dongan Hills-South Beach,3614,14.73,
+2013-17,NTA,8537,7,Stapleton-Rosebank,5729,22.02,
+2013-17,NTA,8545,7,New Dorp-Midland Beach,2172,10.28,
+2013-17,NTA,8548,7,Arden Heights,1852,6.96,
+2013-17,NTA,8554,7,Great Kills,2940,6.88,
+2013-17,CD,101,6,Financial District (CD1),11723,7.79,
+2013-17,CD,102,6,Greenwich Village and Soho (CD2),11723,7.79,
+2013-17,CD,103,6,Lower East Side and Chinatown (CD3),39216,25.7,
+2013-17,CD,104,6,Clinton and Chelsea (CD4),20104,13.47,
+2013-17,CD,105,6,Midtown (CD5),20104,13.47,
+2013-17,CD,106,6,Stuyvesant Town and Turtle Bay (CD6),12674,8.82,
+2013-17,CD,107,6,Upper West Side (CD7),19387,10.06,
+2013-17,CD,108,6,Upper East Side (CD8),13604,6.19,
+2013-17,CD,109,6,Morningside Heights and Hamilton Heights (CD9),30136,24.89,
+2013-17,CD,110,6,Central Harlem (CD10),37364,27.18,
+2013-17,CD,111,6,East Harlem (CD11),41871,34.3,
+2013-17,CD,112,6,Washington Heights and Inwood (CD12),51404,23.57,
+2013-17,CD,201,6,Mott Haven and Melrose (CD1),62860,41.53,
+2013-17,CD,202,6,Hunts Point and Longwood (CD2),62860,41.53,
+2013-17,CD,203,6,Morrisania and Crotona (CD3),69441,40.91,
+2013-17,CD,204,6,Highbridge and Concourse (CD4),52929,37.1,
+2013-17,CD,205,6,Fordham and University Heights (CD5),55621,40.02,
+2013-17,CD,206,6,Belmont and East Tremont (CD6),69441,40.91,
+2013-17,CD,207,6,Kingsbridge Heights and Bedford (CD7),42769,32.51,
+2013-17,CD,208,6,Riverdale and Fieldston (CD8),19175,18.18,
+2013-17,CD,209,6,Parkchester and Soundview (CD9),53399,28.2,
+2013-17,CD,210,6,Throgs Neck and Co-op City (CD10),13535,11.4,
+2013-17,CD,211,6,Morris Park and Bronxdale (CD11),25479,20.21,
+2013-17,CD,212,6,Williamsbridge and Baychester (CD12),26989,18.5,
+2013-17,CD,301,6,Greenpoint and Williamsburg (CD1),38444,23.99,
+2013-17,CD,302,6,Fort Greene and Brooklyn Heights (CD2),23282,17.39,
+2013-17,CD,303,6,Bedford Stuyvesant (CD3),44037,30.51,
+2013-17,CD,304,6,Bushwick (CD4),36778,27.33,
+2013-17,CD,305,6,East New York and Starrett City (CD5),44394,28.15,
+2013-17,CD,306,6,Park Slope and Carroll Gardens (CD6),11048,9.36,
+2013-17,CD,307,6,Sunset Park (CD7),39844,27.09,
+2013-17,CD,308,6,Crown Heights and Prospect Heights (CD8),30897,23.71,
+2013-17,CD,309,6,South Crown Heights and Lefferts Gardens (CD9),21749,20.06,
+2013-17,CD,310,6,Bay Ridge and Dyker Heights (CD10),19761,15.88,
+2013-17,CD,311,6,Bensonhurst (CD11),33230,17.36,
+2013-17,CD,312,6,Borough Park (CD12),52389,32.04,
+2013-17,CD,313,6,Coney Island (CD13),27773,24.56,
+2013-17,CD,314,6,Flatbush and Midwood (CD14),33876,20.73,
+2013-17,CD,315,6,Sheepshead Bay (CD15),23997,15.63,
+2013-17,CD,316,6,Brownsville (CD16),43833,36.69,
+2013-17,CD,317,6,East Flatbush (CD17),22507,16.42,
+2013-17,CD,318,6,Flatlands and Canarsie (CD18),22892,10.85,
+2013-17,CD,401,6,Long Island City and Astoria (CD1),27006,15.6,
+2013-17,CD,402,6,Woodside and Sunnyside (CD2),17600,12.75,
+2013-17,CD,403,6,Jackson Heights (CD3),29450,16.52,
+2013-17,CD,404,6,Elmhurst and Corona (CD4),26827,18.87,
+2013-17,CD,405,6,Ridgewood and Maspeth (CD5),19821,10.98,
+2013-17,CD,406,6,Rego Park and Forest Hills (CD6),12807,11.04,
+2013-17,CD,407,6,Flushing and Whitestone (CD7),40707,16.33,
+2013-17,CD,408,6,Hillcrest and Fresh Meadows (CD8),22147,13.86,
+2013-17,CD,409,6,Kew Gardens and Woodhaven (CD9),22134,14.34,
+2013-17,CD,410,6,South Ozone Park and Howard Beach (CD10),17551,12.69,
+2013-17,CD,411,6,Bayside and Little Neck (CD11),9814,8.15,
+2013-17,CD,412,6,Jamaica and Hollis (CD12),31746,13.14,
+2013-17,CD,413,6,Queens Village (CD13),16423,8.1,
+2013-17,CD,414,6,Rockaway and Broad Channel (CD14),23109,19.48,
+2013-17,CD,501,6,St. George and Stapleton (CD1),34274,20.11,
+2013-17,CD,502,6,South Beach and Willowbrook (CD2),14979,11.13,
+2013-17,CD,503,6,Tottenville and Great Kills (CD3),11482,6.95,
+2013-17,Subboro,1,5,Mott Haven/Hunts Point,62860,41.53,
+2013-17,Subboro,2,5,Morrisania/East Tremont,69441,40.91,
+2013-17,Subboro,3,5,Highbridge/South Concourse,52929,37.1,
+2013-17,Subboro,4,5,University Heights/Fordham,55621,40.02,
+2013-17,Subboro,5,5,Kingsbridge Heights/Mosholu,42769,32.51,
+2013-17,Subboro,6,5,Riverdale/Kingsbridge,19175,18.18,
+2013-17,Subboro,7,5,Soundview/Parkchester,53399,28.2,
+2013-17,Subboro,8,5,Throgs Neck/Co-op City,13535,11.4,
+2013-17,Subboro,9,5,Pelham Parkway,25479,20.21,
+2013-17,Subboro,10,5,Williamsbridge/Baychester,26989,18.5,
+2013-17,Subboro,11,5,Williamsburg/Greenpoint,38444,23.99,
+2013-17,Subboro,12,5,Brooklyn Heights/Fort Greene,23282,17.39,
+2013-17,Subboro,13,5,Bedford Stuyvesant,44037,30.51,
+2013-17,Subboro,14,5,Bushwick,36778,27.33,
+2013-17,Subboro,15,5,East New York/Starret City,44394,28.15,
+2013-17,Subboro,16,5,Park Slope/Carroll Gardens,11048,9.36,
+2013-17,Subboro,17,5,Sunset Park,39844,27.09,
+2013-17,Subboro,18,5,N. Crown Heights/Prospect Heights,30897,23.71,
+2013-17,Subboro,19,5,South Crown Heights,21749,20.06,
+2013-17,Subboro,20,5,Bay Ridge,19761,15.88,
+2013-17,Subboro,21,5,Bensonhurst,33230,17.36,
+2013-17,Subboro,22,5,Borough Park,52389,32.04,
+2013-17,Subboro,23,5,Coney Island,27773,24.56,
+2013-17,Subboro,24,5,Flatbush,33876,20.73,
+2013-17,Subboro,25,5,Sheepshead Bay/Gravesend,23997,15.63,
+2013-17,Subboro,26,5,Brownsville/Ocean Hill,43833,36.69,
+2013-17,Subboro,27,5,East Flatbush,22507,16.42,
+2013-17,Subboro,28,5,Flatlands/Canarsie,22892,10.85,
+2013-17,Subboro,29,5,Greenwich Village/Financial District,11723,7.79,
+2013-17,Subboro,30,5,Lower East Side/Chinatown,39216,25.7,
+2013-17,Subboro,31,5,Chelsea/Clinton/Midtown,20104,13.47,
+2013-17,Subboro,32,5,Stuyvesant Town/Turtle Bay,12674,8.82,
+2013-17,Subboro,33,5,Upper West Side,19387,10.06,
+2013-17,Subboro,34,5,Upper East Side,13604,6.19,
+2013-17,Subboro,35,5,Morningside Heights/Hamilton Heights,30136,24.89,
+2013-17,Subboro,36,5,Central Harlem,37364,27.18,
+2013-17,Subboro,37,5,East Harlem,41871,34.3,
+2013-17,Subboro,38,5,Washington Heights/Inwood,51404,23.57,
+2013-17,Subboro,39,5,Astoria,27006,15.6,
+2013-17,Subboro,40,5,Sunnyside/Woodside,17600,12.75,
+2013-17,Subboro,41,5,Jackson Heights,29450,16.52,
+2013-17,Subboro,42,5,Elmhurst/Corona,26827,18.87,
+2013-17,Subboro,43,5,Middle Village/Ridgewood,19821,10.98,
+2013-17,Subboro,44,5,Forest Hills/Rego Park,12807,11.04,
+2013-17,Subboro,45,5,Flushing/Whitestone,40707,16.33,
+2013-17,Subboro,46,5,Hillcrest/Fresh Meadows,22147,13.86,
+2013-17,Subboro,47,5,Kew Gardens/Woodhaven,22134,14.34,
+2013-17,Subboro,48,5,Howard Beach/South Ozone Park,17551,12.69,
+2013-17,Subboro,49,5,Bayside/Little Neck,9814,8.15,
+2013-17,Subboro,50,5,Jamaica,31746,13.14,
+2013-17,Subboro,51,5,Bellerose/Rosedale,16423,8.1,
+2013-17,Subboro,52,5,Rockaways,23109,19.48,
+2013-17,Subboro,53,5,North Shore,34274,20.11,
+2013-17,Subboro,54,5,Mid Island,14979,11.13,
+2013-17,Subboro,55,5,South Shore,11482,6.95,
+2013-17,UHF42,101,4,Kingsbridge - Riverdale,13553,15.19,
+2013-17,UHF42,102,4,Northeast Bronx,29802,14.87,
+2013-17,UHF42,103,4,Fordham - Bronx Pk,84650,32.56,
+2013-17,UHF42,104,4,Pelham - Throgs Neck,69887,22.84,
+2013-17,UHF42,105,4,Crotona -Tremont,84689,39.31,
+2013-17,UHF42,106,4,High Bridge - Morrisania,84430,38.67,
+2013-17,UHF42,107,4,Hunts Point - Mott Haven,58154,41.37,
+2013-17,UHF42,201,4,Greenpoint,31423,22.79,
+2013-17,UHF42,202,4,Downtown - Heights - Slope,37440,15.02,
+2013-17,UHF42,203,4,Bedford Stuyvesant - Crown Heights,86365,25.92,
+2013-17,UHF42,204,4,East New York,54363,28.56,
+2013-17,UHF42,205,4,Sunset Park,37927,29.97,
+2013-17,UHF42,206,4,Borough Park,90719,26.71,
+2013-17,UHF42,207,4,East Flatbush - Flatbush,51903,17.03,
+2013-17,UHF42,208,4,Canarsie - Flatlands,25642,12.2,
+2013-17,UHF42,209,4,Bensonhurst - Bay Ridge,30716,14.9,
+2013-17,UHF42,210,4,Coney Island - Sheepshead Bay,56078,19.31,
+2013-17,UHF42,211,4,Williamsburg - Bushwick,68155,30.53,
+2013-17,UHF42,301,4,Washington Heights,64013,23.5,
+2013-17,UHF42,302,4,Central Harlem - Morningside Heights,50316,28.5,
+2013-17,UHF42,303,4,East Harlem,38624,34.31,
+2013-17,UHF42,304,4,Upper West Side,23933,11.22,
+2013-17,UHF42,305,4,Upper East Side,13689,6.2,
+2013-17,UHF42,306,4,Chelsea - Clinton,19807,13.15,
+2013-17,UHF42,307,4,Gramercy Park - Murray Hill,11213,8.81,
+2013-17,UHF42,308,4,Greenwich Village - SoHo,8043,9.74,
+2013-17,UHF42,309,4,Union Square - Lower East Side,39009,21.35,
+2013-17,UHF42,310,4,Lower Manhattan,5866,10.09,
+2013-17,UHF42,401,4,Long Island City - Astoria,30384,14.61,
+2013-17,UHF42,402,4,West Queens,74078,16.08,
+2013-17,UHF42,403,4,Flushing - Clearview,41147,15.86,
+2013-17,UHF42,404,4,Bayside - Little Neck,7753,8.6,
+2013-17,UHF42,405,4,Ridgewood - Forest Hills,29049,11.2,
+2013-17,UHF42,406,4,Fresh Meadows,13572,13.3,
+2013-17,UHF42,407,4,Southwest Queens,39546,13.52,
+2013-17,UHF42,408,4,Jamaica,42024,13.46,
+2013-17,UHF42,409,4,Southeast Queens,18547,6.78,
+2013-17,UHF42,410,4,Rockaways,23109,19.48,
+2013-17,UHF42,501,4,Port Richmond,15022,22.13,
+2013-17,UHF42,502,4,Stapleton - St. George,22406,18.67,
+2013-17,UHF42,503,4,Willowbrook,8506,9.57,
+2013-17,UHF42,504,4,South Beach - Tottenville,14801,7.65,
+2013-17,Borough,1,1,Bronx,422197,29.73,
+2013-17,Borough,2,1,Brooklyn,570731,21.85,
+2013-17,Borough,3,1,Manhattan,277483,17.27,
+2013-17,Borough,4,1,Queens,317142,13.71,
+2013-17,Borough,5,1,Staten Island,60735,12.92,
+2013-17,Citywide,1,0,New York City,1648288,19.57,
+2012-16,NTA,501,7,Claremont-Bathgate,16840,49.68,
+2012-16,NTA,503,7,Eastchester-Edenwald-Baychester,5999,17.28,
+2012-16,NTA,505,7,Bedford Park-Fordham North,18637,33.51,
+2012-16,NTA,506,7,Belmont,11804,44.42,
+2012-16,NTA,507,7,Bronxdale,10290,27.79,
+2012-16,NTA,508,7,West Farms-Bronx River,12700,35.75,
+2012-16,NTA,509,7,Soundview-Castle Hill-Clason Point-Harding Park,16997,30.23,
+2012-16,NTA,510,7,Pelham Bay-Country Club-City Island,3095,11.91,
+2012-16,NTA,513,7,Co-op City,4959,10.63,
+2012-16,NTA,514,7,East Concourse-Concourse Village,22626,35.87,
+2012-16,NTA,517,7,East Tremont,19505,44.78,
+2012-16,NTA,522,7,North Riverdale-Fieldston-Riverdale,2229,9.31,
+2012-16,NTA,526,7,Highbridge,15591,40.21,
+2012-16,NTA,527,7,Hunts Point,10343,40.43,
+2012-16,NTA,528,7,Van Cortlandt Village,12966,25.92,
+2012-16,NTA,529,7,Spuyten Duyvil-Kingsbridge,3814,12.54,
+2012-16,NTA,530,7,Kingsbridge Heights,8847,28.97,
+2012-16,NTA,531,7,Allerton-Pelham Gardens,4208,13.73,
+2012-16,NTA,533,7,Longwood,11243,39.44,
+2012-16,NTA,534,7,Melrose South-Mott Haven North,18196,42.46,
+2012-16,NTA,535,7,Morrisania-Melrose,13843,34.94,
+2012-16,NTA,536,7,University Heights-Morris Heights,23953,43.5,
+2012-16,NTA,537,7,Van Nest-Morris Park-Westchester Square,5620,22.25,
+2012-16,NTA,539,7,Mott Haven-Port Morris,22444,45.07,
+2012-16,NTA,540,7,Fordham South,12720,45.15,
+2012-16,NTA,541,7,Mount Hope,19742,37.72,
+2012-16,NTA,543,7,Norwood,13867,33,
+2012-16,NTA,544,7,Williamsbridge-Olinville,15425,24.01,
+2012-16,NTA,546,7,Parkchester,5348,17.35,
+2012-16,NTA,549,7,Pelham Parkway,4614,15.69,
+2012-16,NTA,552,7,Schuylerville-Throgs Neck-Edgewater Park,6203,13.51,
+2012-16,NTA,555,7,Soundview-Bruckner,13095,35.03,
+2012-16,NTA,559,7,Westchester-Unionport,7015,24.99,
+2012-16,NTA,562,7,Woodlawn-Wakefield,6355,14.47,
+2012-16,NTA,563,7,West Concourse,13850,37.32,
+2012-16,NTA,575,7,Crotona Park East,8973,41.37,
+2012-16,NTA,4709,7,Brooklyn Heights-Cobble Hill,2291,10.26,
+2012-16,NTA,4717,7,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,10610,16.05,
+2012-16,NTA,4719,7,Brighton Beach,9099,26.86,
+2012-16,NTA,4721,7,Seagate-Coney Island,9331,32.13,
+2012-16,NTA,4723,7,West Brighton,2480,15.74,
+2012-16,NTA,4725,7,Homecrest,8536,19.22,
+2012-16,NTA,4726,7,Gravesend,6486,21.49,
+2012-16,NTA,4727,7,Bath Beach,4722,14.33,
+2012-16,NTA,4728,7,Bensonhurst West,16707,18.26,
+2012-16,NTA,4729,7,Bensonhurst East,12380,19.3,
+2012-16,NTA,4730,7,Dyker Heights,8005,17.55,
+2012-16,NTA,4731,7,Bay Ridge,12266,15.53,
+2012-16,NTA,4732,7,Sunset Park West,16291,29.69,
+2012-16,NTA,4733,7,Carroll Gardens-Columbia Street-Red Hook,5744,13.68,
+2012-16,NTA,4734,7,Sunset Park East,25560,35.64,
+2012-16,NTA,4735,7,Stuyvesant Heights,19154,28.67,
+2012-16,NTA,4737,7,Park Slope-Gowanus,5331,7.25,
+2012-16,NTA,4738,7,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,8606,20.62,
+2012-16,NTA,4740,7,Windsor Terrace,1872,8.53,
+2012-16,NTA,4741,7,Kensington-Ocean Parkway,9333,24.86,
+2012-16,NTA,4742,7,Flatbush,21379,19.73,
+2012-16,NTA,4743,7,Midwood,12571,23.71,
+2012-16,NTA,4744,7,Madison,5778,14.43,
+2012-16,NTA,4745,7,Georgetown-Marine Park-Bergen Beach-Mill Basin,3155,6.58,
+2012-16,NTA,4746,7,Ocean Parkway South,4005,18.86,
+2012-16,NTA,4750,7,Canarsie,12877,14.68,
+2012-16,NTA,4758,7,Flatlands,7974,11.03,
+2012-16,NTA,4760,7,Prospect Lefferts Gardens-Wingate,14671,21.49,
+2012-16,NTA,4761,7,Crown Heights North,29523,27.8,
+2012-16,NTA,4763,7,Crown Heights South,8390,20.18,
+2012-16,NTA,4764,7,Prospect Heights,2323,11.35,
+2012-16,NTA,4768,7,Fort Greene,6790,23.55,
+2012-16,NTA,4769,7,Clinton Hill,6490,17.48,
+2012-16,NTA,4772,7,Williamsburg,17882,53.51,
+2012-16,NTA,4773,7,North Side-South Side,10713,19.73,
+2012-16,NTA,4775,7,Bedford,25742,34.42,
+2012-16,NTA,4776,7,Greenpoint,4089,12.27,
+2012-16,NTA,4777,7,Bushwick North,18191,30.08,
+2012-16,NTA,4778,7,Bushwick South,20334,27.34,
+2012-16,NTA,4779,7,Ocean Hill,9869,29.23,
+2012-16,NTA,4781,7,Brownsville,23424,39.94,
+2012-16,NTA,4782,7,East New York,28905,30.85,
+2012-16,NTA,4783,7,Cypress Hills-City Line,12502,25.64,
+2012-16,NTA,4785,7,East New York (Pennsylvania Ave),10468,35.96,
+2012-16,NTA,4788,7,Borough Park,40318,38.29,
+2012-16,NTA,4790,7,East Williamsburg,7140,19.88,
+2012-16,NTA,4791,7,East Flatbush-Farragut,7169,13.41,
+2012-16,NTA,4793,7,Starrett City,3837,31.08,
+2012-16,NTA,4795,7,Erasmus,5772,20.01,
+2012-16,NTA,4796,7,Rugby-Remsen Village,10428,18.77,
+2012-16,NTA,6101,7,Marble Hill-Inwood,13770,26.27,
+2012-16,NTA,6103,7,Central Harlem North-Polo Grounds,25250,29.55,
+2012-16,NTA,6104,7,Hamilton Heights,13272,25.4,
+2012-16,NTA,6106,7,Manhattanville,7664,32.45,
+2012-16,NTA,6109,7,Morningside Heights,10143,23.23,
+2012-16,NTA,6111,7,Central Harlem South,13491,27.16,
+2012-16,NTA,6112,7,Upper West Side,14481,10.91,
+2012-16,NTA,6113,7,Hudson Yards-Chelsea-Flatiron-Union Square,9508,12.55,
+2012-16,NTA,6114,7,Lincoln Square,4459,7.65,
+2012-16,NTA,6115,7,Clinton,5585,12.64,
+2012-16,NTA,6117,7,Midtown-Midtown South,3656,13.86,
+2012-16,NTA,6119,7,Turtle Bay-East Midtown,2613,5.32,
+2012-16,NTA,6120,7,Murray Hill-Kips Bay,5617,12.19,
+2012-16,NTA,6121,7,Gramercy,2054,8.25,
+2012-16,NTA,6122,7,East Village,6247,16.43,
+2012-16,NTA,6123,7,West Village,4005,6.42,
+2012-16,NTA,6124,7,SoHo-TriBeCa-Civic Center-Little Italy,3605,8.74,
+2012-16,NTA,6125,7,Battery Park City-Lower Manhattan,3557,8.02,
+2012-16,NTA,6127,7,Chinatown,11521,26.72,
+2012-16,NTA,6128,7,Lower East Side,21846,30.17,
+2012-16,NTA,6131,7,Lenox Hill-Roosevelt Island,5974,7.48,
+2012-16,NTA,6132,7,Yorkville,5553,6.86,
+2012-16,NTA,6133,7,East Harlem South,15937,27.94,
+2012-16,NTA,6134,7,East Harlem North,23011,38.01,
+2012-16,NTA,6135,7,Washington Heights North,15373,21.63,
+2012-16,NTA,6136,7,Washington Heights South,24999,27.38,
+2012-16,NTA,6140,7,Upper East Side-Carnegie Hill,3061,5.25,
+2012-16,NTA,6150,7,Stuyvesant Town-Cooper Village,2289,10.67,
+2012-16,NTA,8101,7,South Jamaica,7678,18.51,
+2012-16,NTA,8102,7,Springfield Gardens North,2403,8.81,
+2012-16,NTA,8103,7,Springfield Gardens South-Brookville,2655,12.39,
+2012-16,NTA,8105,7,Rosedale,2205,8.05,
+2012-16,NTA,8106,7,Jamaica Estates-Holliswood,2516,9.71,
+2012-16,NTA,8107,7,Hollis,2337,11.3,
+2012-16,NTA,8108,7,St. Albans,4929,9.16,
+2012-16,NTA,8110,7,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,1856,6.81,
+2012-16,NTA,8112,7,Hammels-Arverne-Edgemere,9683,25.73,
+2012-16,NTA,8115,7,Far Rockaway-Bayswater,10901,20.88,
+2012-16,NTA,8117,7,Forest Hills,9601,11.16,
+2012-16,NTA,8118,7,Rego Park,3823,13.62,
+2012-16,NTA,8119,7,Glendale,3106,9.14,
+2012-16,NTA,8120,7,Ridgewood,12223,16.79,
+2012-16,NTA,8121,7,Middle Village,3055,8.13,
+2012-16,NTA,8122,7,Flushing,18044,25.92,
+2012-16,NTA,8123,7,College Point,3492,13.86,
+2012-16,NTA,8125,7,Corona,12049,20.76,
+2012-16,NTA,8126,7,North Corona,12220,22.67,
+2012-16,NTA,8127,7,East Elmhurst,4197,19.69,
+2012-16,NTA,8128,7,Jackson Heights,17436,16.83,
+2012-16,NTA,8129,7,Elmhurst,17374,20.84,
+2012-16,NTA,8130,7,Maspeth,3253,11.28,
+2012-16,NTA,8131,7,Hunters Point-Sunnyside-West Maspeth,8947,13.51,
+2012-16,NTA,8133,7,Cambria Heights,751,3.85,
+2012-16,NTA,8134,7,Queens Village,5842,10.73,
+2012-16,NTA,8135,7,Briarwood-Jamaica Hills,6426,15.57,
+2012-16,NTA,8137,7,Kew Gardens Hills,4402,11.83,
+2012-16,NTA,8138,7,Pomonok-Flushing Heights-Hillcrest,6440,18.9,
+2012-16,NTA,8141,7,Fresh Meadows-Utopia,2427,13.05,
+2012-16,NTA,8142,7,Oakland Gardens,2512,8.77,
+2012-16,NTA,8143,7,Bellerose,2952,11.19,
+2012-16,NTA,8144,7,Glen Oaks-Floral Park-New Hyde Park,1401,6.26,
+2012-16,NTA,8145,7,Douglas Manor-Douglaston-Little Neck,1921,7.51,
+2012-16,NTA,8146,7,Bayside-Bayside Hills,3256,7.33,
+2012-16,NTA,8147,7,Ft. Totten-Bay Terrace-Clearview,1562,7.12,
+2012-16,NTA,8148,7,Auburndale,1293,6.28,
+2012-16,NTA,8149,7,Whitestone,1544,5,
+2012-16,NTA,8150,7,Elmhurst-Maspeth,3539,13.4,
+2012-16,NTA,8151,7,Murray Hill,8670,16.71,
+2012-16,NTA,8152,7,East Flushing,4108,15.57,
+2012-16,NTA,8153,7,Woodhaven,8651,13.82,
+2012-16,NTA,8154,7,Richmond Hill,11745,17.31,
+2012-16,NTA,8155,7,South Ozone Park,12117,14.23,
+2012-16,NTA,8156,7,Ozone Park,3642,15.58,
+2012-16,NTA,8157,7,Lindenwood-Howard Beach,2998,10.65,
+2012-16,NTA,8160,7,Kew Gardens,2872,12.13,
+2012-16,NTA,8161,7,Jamaica,12150,22.23,
+2012-16,NTA,8162,7,Queensboro Hill,3041,14.21,
+2012-16,NTA,8163,7,Woodside,6513,14.34,
+2012-16,NTA,8166,7,Laurelton,1547,5.78,
+2012-16,NTA,8168,7,Queensbridge-Ravenswood-Long Island City,6297,33.3,
+2012-16,NTA,8170,7,Astoria,11426,14.82,
+2012-16,NTA,8171,7,Old Astoria,5610,20.17,
+2012-16,NTA,8172,7,Steinway,5010,10.41,
+2012-16,NTA,8176,7,Baisley Park,5428,13.97,
+2012-16,NTA,8501,7,Annadale-Huguenot-Prince's Bay-Eltingville,1572,5.5,
+2012-16,NTA,8505,7,New Springville-Bloomfield-Travis,3954,9.87,
+2012-16,NTA,8507,7,Westerleigh,2164,8.98,
+2012-16,NTA,8508,7,Grymes Hill-Clifton-Fox Hills,4688,22.93,
+2012-16,NTA,8511,7,Charleston-Richmond Valley-Tottenville,1511,6.15,
+2012-16,NTA,8512,7,Mariner's Harbor-Arlington-Port Ivory-Graniteville,6619,22.16,
+2012-16,NTA,8514,7,Grasmere-Arrochar-Ft. Wadsworth,1962,12.5,
+2012-16,NTA,8522,7,West New Brighton-New Brighton-St. George,8769,26.7,
+2012-16,NTA,8524,7,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,2695,8.51,
+2012-16,NTA,8525,7,Oakwood-Oakwood Beach,1474,7.16,
+2012-16,NTA,8528,7,Port Richmond,3958,20.74,
+2012-16,NTA,8532,7,Rossville-Woodrow,2449,11.45,
+2012-16,NTA,8535,7,New Brighton-Silver Lake,2661,15.24,
+2012-16,NTA,8536,7,Old Town-Dongan Hills-South Beach,3343,13.69,
+2012-16,NTA,8537,7,Stapleton-Rosebank,5735,22.44,
+2012-16,NTA,8545,7,New Dorp-Midland Beach,1972,9.23,
+2012-16,NTA,8548,7,Arden Heights,1838,6.95,
+2012-16,NTA,8554,7,Great Kills,3166,7.26,
+2012-16,CD,101,6,Financial District (CD1),11167,7.55,
+2012-16,CD,102,6,Greenwich Village and Soho (CD2),11167,7.55,
+2012-16,CD,103,6,Lower East Side and Chinatown (CD3),39614,25.8,
+2012-16,CD,104,6,Clinton and Chelsea (CD4),18749,12.82,
+2012-16,CD,105,6,Midtown (CD5),18749,12.82,
+2012-16,CD,106,6,Stuyvesant Town and Turtle Bay (CD6),12573,8.88,
+2012-16,CD,107,6,Upper West Side (CD7),18943,9.92,
+2012-16,CD,108,6,Upper East Side (CD8),14588,6.66,
+2012-16,CD,109,6,Morningside Heights and Hamilton Heights (CD9),31079,26,
+2012-16,CD,110,6,Central Harlem (CD10),38741,28.67,
+2012-16,CD,111,6,East Harlem (CD11),40251,33.81,
+2012-16,CD,112,6,Washington Heights and Inwood (CD12),54142,25.21,
+2012-16,CD,201,6,Mott Haven and Melrose (CD1),64547,42.59,
+2012-16,CD,202,6,Hunts Point and Longwood (CD2),64547,42.59,
+2012-16,CD,203,6,Morrisania and Crotona (CD3),71267,42.73,
+2012-16,CD,204,6,Highbridge and Concourse (CD4),52067,37.47,
+2012-16,CD,205,6,Fordham and University Heights (CD5),56415,41.61,
+2012-16,CD,206,6,Belmont and East Tremont (CD6),71267,42.73,
+2012-16,CD,207,6,Kingsbridge Heights and Bedford (CD7),41351,32.26,
+2012-16,CD,208,6,Riverdale and Fieldston (CD8),19009,18.21,
+2012-16,CD,209,6,Parkchester and Soundview (CD9),55155,29.31,
+2012-16,CD,210,6,Throgs Neck and Co-op City (CD10),14265,12.02,
+2012-16,CD,211,6,Morris Park and Bronxdale (CD11),25852,20.54,
+2012-16,CD,212,6,Williamsbridge and Baychester (CD12),27787,19.44,
+2012-16,CD,301,6,Greenpoint and Williamsburg (CD1),39824,25.37,
+2012-16,CD,302,6,Fort Greene and Brooklyn Heights (CD2),24182,18.54,
+2012-16,CD,303,6,Bedford Stuyvesant (CD3),44896,31.7,
+2012-16,CD,304,6,Bushwick (CD4),38525,28.57,
+2012-16,CD,305,6,East New York and Starrett City (CD5),45244,29.22,
+2012-16,CD,306,6,Park Slope and Carroll Gardens (CD6),11075,9.59,
+2012-16,CD,307,6,Sunset Park (CD7),43723,29.43,
+2012-16,CD,308,6,Crown Heights and Prospect Heights (CD8),31846,25.14,
+2012-16,CD,309,6,South Crown Heights and Lefferts Gardens (CD9),23061,21,
+2012-16,CD,310,6,Bay Ridge and Dyker Heights (CD10),20271,16.27,
+2012-16,CD,311,6,Bensonhurst (CD11),33809,17.93,
+2012-16,CD,312,6,Borough Park (CD12),53656,32.7,
+2012-16,CD,313,6,Coney Island (CD13),27396,25.17,
+2012-16,CD,314,6,Flatbush and Midwood (CD14),33950,21.04,
+2012-16,CD,315,6,Sheepshead Bay (CD15),24924,16.55,
+2012-16,CD,316,6,Brownsville (CD16),43761,36.01,
+2012-16,CD,317,6,East Flatbush (CD17),23369,16.95,
+2012-16,CD,318,6,Flatlands and Canarsie (CD18),24006,11.54,
+2012-16,CD,401,6,Long Island City and Astoria (CD1),28343,16.48,
+2012-16,CD,402,6,Woodside and Sunnyside (CD2),18999,13.76,
+2012-16,CD,403,6,Jackson Heights (CD3),33853,18.93,
+2012-16,CD,404,6,Elmhurst and Corona (CD4),29423,20.81,
+2012-16,CD,405,6,Ridgewood and Maspeth (CD5),21637,12.48,
+2012-16,CD,406,6,Rego Park and Forest Hills (CD6),13424,11.77,
+2012-16,CD,407,6,Flushing and Whitestone (CD7),40461,16.36,
+2012-16,CD,408,6,Hillcrest and Fresh Meadows (CD8),22211,14.14,
+2012-16,CD,409,6,Kew Gardens and Woodhaven (CD9),23325,15.12,
+2012-16,CD,410,6,South Ozone Park and Howard Beach (CD10),18757,13.72,
+2012-16,CD,411,6,Bayside and Little Neck (CD11),8998,7.55,
+2012-16,CD,412,6,Jamaica and Hollis (CD12),34925,14.75,
+2012-16,CD,413,6,Queens Village (CD13),17353,8.75,
+2012-16,CD,414,6,Rockaway and Broad Channel (CD14),22440,19.16,
+2012-16,CD,501,6,St. George and Stapleton (CD1),34594,20.43,
+2012-16,CD,502,6,South Beach and Willowbrook (CD2),13926,10.46,
+2012-16,CD,503,6,Tottenville and Great Kills (CD3),12010,7.27,
+2012-16,Subboro,1,5,Mott Haven/Hunts Point,64547,42.59,
+2012-16,Subboro,2,5,Morrisania/East Tremont,71267,42.73,
+2012-16,Subboro,3,5,Highbridge/South Concourse,52067,37.47,
+2012-16,Subboro,4,5,University Heights/Fordham,56415,41.61,
+2012-16,Subboro,5,5,Kingsbridge Heights/Mosholu,41351,32.26,
+2012-16,Subboro,6,5,Riverdale/Kingsbridge,19009,18.21,
+2012-16,Subboro,7,5,Soundview/Parkchester,55155,29.31,
+2012-16,Subboro,8,5,Throgs Neck/Co-op City,14265,12.02,
+2012-16,Subboro,9,5,Pelham Parkway,25852,20.54,
+2012-16,Subboro,10,5,Williamsbridge/Baychester,27787,19.44,
+2012-16,Subboro,11,5,Williamsburg/Greenpoint,39824,25.37,
+2012-16,Subboro,12,5,Brooklyn Heights/Fort Greene,24182,18.54,
+2012-16,Subboro,13,5,Bedford Stuyvesant,44896,31.7,
+2012-16,Subboro,14,5,Bushwick,38525,28.57,
+2012-16,Subboro,15,5,East New York/Starret City,45244,29.22,
+2012-16,Subboro,16,5,Park Slope/Carroll Gardens,11075,9.59,
+2012-16,Subboro,17,5,Sunset Park,43723,29.43,
+2012-16,Subboro,18,5,N. Crown Heights/Prospect Heights,31846,25.14,
+2012-16,Subboro,19,5,South Crown Heights,23061,21,
+2012-16,Subboro,20,5,Bay Ridge,20271,16.27,
+2012-16,Subboro,21,5,Bensonhurst,33809,17.93,
+2012-16,Subboro,22,5,Borough Park,53656,32.7,
+2012-16,Subboro,23,5,Coney Island,27396,25.17,
+2012-16,Subboro,24,5,Flatbush,33950,21.04,
+2012-16,Subboro,25,5,Sheepshead Bay/Gravesend,24924,16.55,
+2012-16,Subboro,26,5,Brownsville/Ocean Hill,43761,36.01,
+2012-16,Subboro,27,5,East Flatbush,23369,16.95,
+2012-16,Subboro,28,5,Flatlands/Canarsie,24006,11.54,
+2012-16,Subboro,29,5,Greenwich Village/Financial District,11167,7.55,
+2012-16,Subboro,30,5,Lower East Side/Chinatown,39614,25.8,
+2012-16,Subboro,31,5,Chelsea/Clinton/Midtown,18749,12.82,
+2012-16,Subboro,32,5,Stuyvesant Town/Turtle Bay,12573,8.88,
+2012-16,Subboro,33,5,Upper West Side,18943,9.92,
+2012-16,Subboro,34,5,Upper East Side,14588,6.66,
+2012-16,Subboro,35,5,Morningside Heights/Hamilton Heights,31079,26,
+2012-16,Subboro,36,5,Central Harlem,38741,28.67,
+2012-16,Subboro,37,5,East Harlem,40251,33.81,
+2012-16,Subboro,38,5,Washington Heights/Inwood,54142,25.21,
+2012-16,Subboro,39,5,Astoria,28343,16.48,
+2012-16,Subboro,40,5,Sunnyside/Woodside,18999,13.76,
+2012-16,Subboro,41,5,Jackson Heights,33853,18.93,
+2012-16,Subboro,42,5,Elmhurst/Corona,29423,20.81,
+2012-16,Subboro,43,5,Middle Village/Ridgewood,21637,12.48,
+2012-16,Subboro,44,5,Forest Hills/Rego Park,13424,11.77,
+2012-16,Subboro,45,5,Flushing/Whitestone,40461,16.36,
+2012-16,Subboro,46,5,Hillcrest/Fresh Meadows,22211,14.14,
+2012-16,Subboro,47,5,Kew Gardens/Woodhaven,23325,15.12,
+2012-16,Subboro,48,5,Howard Beach/South Ozone Park,18757,13.72,
+2012-16,Subboro,49,5,Bayside/Little Neck,8998,7.55,
+2012-16,Subboro,50,5,Jamaica,34925,14.75,
+2012-16,Subboro,51,5,Bellerose/Rosedale,17353,8.75,
+2012-16,Subboro,52,5,Rockaways,22440,19.16,
+2012-16,Subboro,53,5,North Shore,34594,20.43,
+2012-16,Subboro,54,5,Mid Island,13926,10.46,
+2012-16,Subboro,55,5,South Shore,12010,7.27,
+2012-16,UHF42,101,4,Kingsbridge - Riverdale,14265,16.26,
+2012-16,UHF42,102,4,Northeast Bronx,30701,15.53,
+2012-16,UHF42,103,4,Fordham - Bronx Pk,83367,32.71,
+2012-16,UHF42,104,4,Pelham - Throgs Neck,71485,23.47,
+2012-16,UHF42,105,4,Crotona -Tremont,87581,41.42,
+2012-16,UHF42,106,4,High Bridge - Morrisania,83918,39.28,
+2012-16,UHF42,107,4,Hunts Point - Mott Haven,59251,42.21,
+2012-16,UHF42,201,4,Greenpoint,33192,24.55,
+2012-16,UHF42,202,4,Downtown - Heights - Slope,38733,15.9,
+2012-16,UHF42,203,4,Bedford Stuyvesant - Crown Heights,87306,26.45,
+2012-16,UHF42,204,4,East New York,56000,29.82,
+2012-16,UHF42,205,4,Sunset Park,41333,32.37,
+2012-16,UHF42,206,4,Borough Park,92085,27.25,
+2012-16,UHF42,207,4,East Flatbush - Flatbush,54119,17.76,
+2012-16,UHF42,208,4,Canarsie - Flatlands,26268,12.69,
+2012-16,UHF42,209,4,Bensonhurst - Bay Ridge,31647,15.43,
+2012-16,UHF42,210,4,Coney Island - Sheepshead Bay,56718,20.05,
+2012-16,UHF42,211,4,Williamsburg - Bushwick,70117,31.49,
+2012-16,UHF42,301,4,Washington Heights,67084,25,
+2012-16,UHF42,302,4,Central Harlem - Morningside Heights,51919,29.95,
+2012-16,UHF42,303,4,East Harlem,37230,33.82,
+2012-16,UHF42,304,4,Upper West Side,23848,11.23,
+2012-16,UHF42,305,4,Upper East Side,14667,6.67,
+2012-16,UHF42,306,4,Chelsea - Clinton,18111,12.35,
+2012-16,UHF42,307,4,Gramercy Park - Murray Hill,11131,8.86,
+2012-16,UHF42,308,4,Greenwich Village - SoHo,7100,8.8,
+2012-16,UHF42,309,4,Union Square - Lower East Side,39683,21.55,
+2012-16,UHF42,310,4,Lower Manhattan,6218,10.85,
+2012-16,UHF42,401,4,Long Island City - Astoria,31974,15.53,
+2012-16,UHF42,402,4,West Queens,82514,17.97,
+2012-16,UHF42,403,4,Flushing - Clearview,41130,15.93,
+2012-16,UHF42,404,4,Bayside - Little Neck,7010,7.83,
+2012-16,UHF42,405,4,Ridgewood - Forest Hills,31191,12.35,
+2012-16,UHF42,406,4,Fresh Meadows,13598,13.6,
+2012-16,UHF42,407,4,Southwest Queens,41930,14.42,
+2012-16,UHF42,408,4,Jamaica,45282,14.81,
+2012-16,UHF42,409,4,Southeast Queens,18949,7.07,
+2012-16,UHF42,410,4,Rockaways,22440,19.16,
+2012-16,UHF42,501,4,Port Richmond,14591,21.97,
+2012-16,UHF42,502,4,Stapleton - St. George,22706,18.99,
+2012-16,UHF42,503,4,Willowbrook,8225,9.39,
+2012-16,UHF42,504,4,South Beach - Tottenville,15008,7.73,
+2012-16,Borough,1,1,Bronx,427715,30.53,
+2012-16,Borough,2,1,Brooklyn,587518,22.73,
+2012-16,Borough,3,1,Manhattan,279847,17.62,
+2012-16,Borough,4,1,Queens,334149,14.63,
+2012-16,Borough,5,1,Staten Island,60530,12.94,
+2012-16,Citywide,1,0,New York City,1689759,20.3,
+2011-15,NTA,501,7,Claremont-Bathgate,16858,50.96,3
+2011-15,NTA,503,7,Eastchester-Edenwald-Baychester,5873,16.71,2
+2011-15,NTA,505,7,Bedford Park-Fordham North,17862,32.54,3
+2011-15,NTA,506,7,Belmont,11556,44.99,3
+2011-15,NTA,507,7,Bronxdale,10493,29.06,3
+2011-15,NTA,508,7,West Farms-Bronx River,12820,35.3,3
+2011-15,NTA,509,7,Soundview-Castle Hill-Clason Point-Harding Park,15838,29.24,3
+2011-15,NTA,510,7,Pelham Bay-Country Club-City Island,2953,10.82,1
+2011-15,NTA,513,7,Co-op City,4373,9.49,1
+2011-15,NTA,514,7,East Concourse-Concourse Village,23109,36.58,3
+2011-15,NTA,517,7,East Tremont,19858,45.56,3
+2011-15,NTA,522,7,North Riverdale-Fieldston-Riverdale,2070,8.52,1
+2011-15,NTA,526,7,Highbridge,16459,42.33,3
+2011-15,NTA,527,7,Hunts Point,10914,41.89,3
+2011-15,NTA,528,7,Van Cortlandt Village,12626,25.59,3
+2011-15,NTA,529,7,Spuyten Duyvil-Kingsbridge,3766,12.35,1
+2011-15,NTA,530,7,Kingsbridge Heights,10135,33.44,3
+2011-15,NTA,531,7,Allerton-Pelham Gardens,4205,13.23,2
+2011-15,NTA,533,7,Longwood,10525,38.81,3
+2011-15,NTA,534,7,Melrose South-Mott Haven North,17526,42.45,3
+2011-15,NTA,535,7,Morrisania-Melrose,14505,36.07,3
+2011-15,NTA,536,7,University Heights-Morris Heights,23106,42.69,3
+2011-15,NTA,537,7,Van Nest-Morris Park-Westchester Square,6190,23.55,3
+2011-15,NTA,539,7,Mott Haven-Port Morris,22632,45.56,3
+2011-15,NTA,540,7,Fordham South,12536,46.33,3
+2011-15,NTA,541,7,Mount Hope,20270,38.31,3
+2011-15,NTA,543,7,Norwood,12706,30.53,3
+2011-15,NTA,544,7,Williamsbridge-Olinville,15505,24.66,3
+2011-15,NTA,546,7,Parkchester,5492,17.96,2
+2011-15,NTA,549,7,Pelham Parkway,4479,15.41,2
+2011-15,NTA,552,7,Schuylerville-Throgs Neck-Edgewater Park,7170,15.31,2
+2011-15,NTA,555,7,Soundview-Bruckner,12498,34.52,3
+2011-15,NTA,559,7,Westchester-Unionport,6311,22.97,2
+2011-15,NTA,562,7,Woodlawn-Wakefield,6844,15.67,2
+2011-15,NTA,563,7,West Concourse,14037,37.79,3
+2011-15,NTA,575,7,Crotona Park East,9514,44.46,3
+2011-15,NTA,4709,7,Brooklyn Heights-Cobble Hill,2342,10.59,1
+2011-15,NTA,4717,7,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,10442,16.29,2
+2011-15,NTA,4719,7,Brighton Beach,9067,27.3,3
+2011-15,NTA,4721,7,Seagate-Coney Island,9998,34.71,3
+2011-15,NTA,4723,7,West Brighton,2385,15.28,2
+2011-15,NTA,4725,7,Homecrest,7961,17.82,2
+2011-15,NTA,4726,7,Gravesend,6844,23.33,3
+2011-15,NTA,4727,7,Bath Beach,5557,16.91,2
+2011-15,NTA,4728,7,Bensonhurst West,17833,19.33,2
+2011-15,NTA,4729,7,Bensonhurst East,11307,17.73,2
+2011-15,NTA,4730,7,Dyker Heights,8006,17.06,2
+2011-15,NTA,4731,7,Bay Ridge,12992,15.76,2
+2011-15,NTA,4732,7,Sunset Park West,15973,28.78,3
+2011-15,NTA,4733,7,Carroll Gardens-Columbia Street-Red Hook,5954,14.7,2
+2011-15,NTA,4734,7,Sunset Park East,25468,35.41,3
+2011-15,NTA,4735,7,Stuyvesant Heights,19316,29.18,3
+2011-15,NTA,4737,7,Park Slope-Gowanus,5363,7.19,1
+2011-15,NTA,4738,7,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,8357,20.68,2
+2011-15,NTA,4740,7,Windsor Terrace,2351,10.44,1
+2011-15,NTA,4741,7,Kensington-Ocean Parkway,9454,25.4,3
+2011-15,NTA,4742,7,Flatbush,21488,19.98,2
+2011-15,NTA,4743,7,Midwood,13094,24.72,3
+2011-15,NTA,4744,7,Madison,6126,15.13,2
+2011-15,NTA,4745,7,Georgetown-Marine Park-Bergen Beach-Mill Basin,3849,7.99,1
+2011-15,NTA,4746,7,Ocean Parkway South,4293,20.58,2
+2011-15,NTA,4750,7,Canarsie,13699,15.8,2
+2011-15,NTA,4758,7,Flatlands,7871,10.88,1
+2011-15,NTA,4760,7,Prospect Lefferts Gardens-Wingate,15157,22.08,2
+2011-15,NTA,4761,7,Crown Heights North,30248,29.03,3
+2011-15,NTA,4763,7,Crown Heights South,8347,20.01,2
+2011-15,NTA,4764,7,Prospect Heights,1987,9.72,1
+2011-15,NTA,4768,7,Fort Greene,6637,24.45,3
+2011-15,NTA,4769,7,Clinton Hill,6932,18.93,2
+2011-15,NTA,4772,7,Williamsburg,17986,55.88,3
+2011-15,NTA,4773,7,North Side-South Side,11208,21.2,2
+2011-15,NTA,4775,7,Bedford,25576,35.25,3
+2011-15,NTA,4776,7,Greenpoint,4197,12.82,1
+2011-15,NTA,4777,7,Bushwick North,18319,29.72,3
+2011-15,NTA,4778,7,Bushwick South,21507,29,3
+2011-15,NTA,4779,7,Ocean Hill,10145,30.75,3
+2011-15,NTA,4781,7,Brownsville,24213,40.08,3
+2011-15,NTA,4782,7,East New York,29225,31.6,3
+2011-15,NTA,4783,7,Cypress Hills-City Line,12688,26.4,3
+2011-15,NTA,4785,7,East New York (Pennsylvania Ave),11090,36.82,3
+2011-15,NTA,4788,7,Borough Park,39801,37.29,3
+2011-15,NTA,4790,7,East Williamsburg,6979,19.8,2
+2011-15,NTA,4791,7,East Flatbush-Farragut,6811,12.98,1
+2011-15,NTA,4793,7,Starrett City,4268,33.42,3
+2011-15,NTA,4795,7,Erasmus,6060,21.65,2
+2011-15,NTA,4796,7,Rugby-Remsen Village,10594,19.11,2
+2011-15,NTA,6101,7,Marble Hill-Inwood,13911,26.87,3
+2011-15,NTA,6103,7,Central Harlem North-Polo Grounds,24021,29.13,3
+2011-15,NTA,6104,7,Hamilton Heights,13935,26.96,3
+2011-15,NTA,6106,7,Manhattanville,8056,33.82,3
+2011-15,NTA,6109,7,Morningside Heights,11075,24.52,3
+2011-15,NTA,6111,7,Central Harlem South,13364,27.47,3
+2011-15,NTA,6112,7,Upper West Side,14337,10.78,1
+2011-15,NTA,6113,7,Hudson Yards-Chelsea-Flatiron-Union Square,10003,13.1,2
+2011-15,NTA,6114,7,Lincoln Square,4780,8.15,1
+2011-15,NTA,6115,7,Clinton,5441,12.57,1
+2011-15,NTA,6117,7,Midtown-Midtown South,3707,13.89,2
+2011-15,NTA,6119,7,Turtle Bay-East Midtown,2951,5.99,1
+2011-15,NTA,6120,7,Murray Hill-Kips Bay,5778,12.52,1
+2011-15,NTA,6121,7,Gramercy,2317,9.3,1
+2011-15,NTA,6122,7,East Village,6068,15.83,2
+2011-15,NTA,6123,7,West Village,3953,6.35,1
+2011-15,NTA,6124,7,SoHo-TriBeCa-Civic Center-Little Italy,3720,9.19,1
+2011-15,NTA,6125,7,Battery Park City-Lower Manhattan,3147,7.32,1
+2011-15,NTA,6127,7,Chinatown,12727,29.17,3
+2011-15,NTA,6128,7,Lower East Side,23803,31.74,3
+2011-15,NTA,6131,7,Lenox Hill-Roosevelt Island,5926,7.56,1
+2011-15,NTA,6132,7,Yorkville,5434,6.67,1
+2011-15,NTA,6133,7,East Harlem South,15381,27.48,3
+2011-15,NTA,6134,7,East Harlem North,22621,37.15,3
+2011-15,NTA,6135,7,Washington Heights North,14774,21,2
+2011-15,NTA,6136,7,Washington Heights South,25401,28.06,3
+2011-15,NTA,6140,7,Upper East Side-Carnegie Hill,2988,5.16,1
+2011-15,NTA,6150,7,Stuyvesant Town-Cooper Village,2689,12.65,1
+2011-15,NTA,8101,7,South Jamaica,8639,21.31,2
+2011-15,NTA,8102,7,Springfield Gardens North,2934,10.96,1
+2011-15,NTA,8103,7,Springfield Gardens South-Brookville,2553,12.09,1
+2011-15,NTA,8105,7,Rosedale,2386,8.71,1
+2011-15,NTA,8106,7,Jamaica Estates-Holliswood,3020,11.9,1
+2011-15,NTA,8107,7,Hollis,2194,10.41,1
+2011-15,NTA,8108,7,St. Albans,4925,9.23,1
+2011-15,NTA,8110,7,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,1827,6.77,1
+2011-15,NTA,8112,7,Hammels-Arverne-Edgemere,8650,24.14,3
+2011-15,NTA,8115,7,Far Rockaway-Bayswater,11324,21.81,2
+2011-15,NTA,8117,7,Forest Hills,8867,10.36,1
+2011-15,NTA,8118,7,Rego Park,3732,13.19,2
+2011-15,NTA,8119,7,Glendale,2710,8.23,1
+2011-15,NTA,8120,7,Ridgewood,14120,19.56,2
+2011-15,NTA,8121,7,Middle Village,3260,8.77,1
+2011-15,NTA,8122,7,Flushing,16898,24.58,3
+2011-15,NTA,8123,7,College Point,3478,13.88,2
+2011-15,NTA,8125,7,Corona,13923,24.45,3
+2011-15,NTA,8126,7,North Corona,12648,23.31,3
+2011-15,NTA,8127,7,East Elmhurst,4483,20.4,2
+2011-15,NTA,8128,7,Jackson Heights,18726,17.76,2
+2011-15,NTA,8129,7,Elmhurst,18028,21.07,2
+2011-15,NTA,8130,7,Maspeth,3270,11.89,1
+2011-15,NTA,8131,7,Hunters Point-Sunnyside-West Maspeth,9571,14.59,2
+2011-15,NTA,8133,7,Cambria Heights,828,4.25,1
+2011-15,NTA,8134,7,Queens Village,5879,10.87,1
+2011-15,NTA,8135,7,Briarwood-Jamaica Hills,6488,16.29,2
+2011-15,NTA,8137,7,Kew Gardens Hills,4637,12.19,1
+2011-15,NTA,8138,7,Pomonok-Flushing Heights-Hillcrest,6474,19.71,2
+2011-15,NTA,8141,7,Fresh Meadows-Utopia,2244,12.12,1
+2011-15,NTA,8142,7,Oakland Gardens,2477,8.67,1
+2011-15,NTA,8143,7,Bellerose,2700,10.05,1
+2011-15,NTA,8144,7,Glen Oaks-Floral Park-New Hyde Park,1432,6.7,1
+2011-15,NTA,8145,7,Douglas Manor-Douglaston-Little Neck,1892,7.39,1
+2011-15,NTA,8146,7,Bayside-Bayside Hills,3767,8.32,1
+2011-15,NTA,8147,7,Ft. Totten-Bay Terrace-Clearview,1481,6.6,1
+2011-15,NTA,8148,7,Auburndale,1470,7.06,1
+2011-15,NTA,8149,7,Whitestone,1996,6.3,1
+2011-15,NTA,8150,7,Elmhurst-Maspeth,3719,14.26,2
+2011-15,NTA,8151,7,Murray Hill,7802,15.28,2
+2011-15,NTA,8152,7,East Flushing,4215,15.87,2
+2011-15,NTA,8153,7,Woodhaven,9575,15.4,2
+2011-15,NTA,8154,7,Richmond Hill,11660,17.61,2
+2011-15,NTA,8155,7,South Ozone Park,12015,14.26,2
+2011-15,NTA,8156,7,Ozone Park,3873,16.51,2
+2011-15,NTA,8157,7,Lindenwood-Howard Beach,2617,9.15,1
+2011-15,NTA,8160,7,Kew Gardens,2619,10.97,1
+2011-15,NTA,8161,7,Jamaica,11824,21.89,2
+2011-15,NTA,8162,7,Queensboro Hill,3058,14.09,2
+2011-15,NTA,8163,7,Woodside,6940,15.13,2
+2011-15,NTA,8166,7,Laurelton,1632,6.04,1
+2011-15,NTA,8168,7,Queensbridge-Ravenswood-Long Island City,6523,35.14,3
+2011-15,NTA,8170,7,Astoria,12601,16.27,2
+2011-15,NTA,8171,7,Old Astoria,5921,20.65,2
+2011-15,NTA,8172,7,Steinway,5628,11.56,1
+2011-15,NTA,8176,7,Baisley Park,5658,14.84,2
+2011-15,NTA,8501,7,Annadale-Huguenot-Prince's Bay-Eltingville,1562,5.36,1
+2011-15,NTA,8505,7,New Springville-Bloomfield-Travis,3460,8.87,1
+2011-15,NTA,8507,7,Westerleigh,2225,9.36,1
+2011-15,NTA,8508,7,Grymes Hill-Clifton-Fox Hills,4393,21.37,2
+2011-15,NTA,8511,7,Charleston-Richmond Valley-Tottenville,1196,4.95,1
+2011-15,NTA,8512,7,Mariner's Harbor-Arlington-Port Ivory-Graniteville,6720,22.68,2
+2011-15,NTA,8514,7,Grasmere-Arrochar-Ft. Wadsworth,1955,12.46,1
+2011-15,NTA,8522,7,West New Brighton-New Brighton-St. George,8324,25.9,3
+2011-15,NTA,8524,7,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,2346,7.45,1
+2011-15,NTA,8525,7,Oakwood-Oakwood Beach,1270,5.92,1
+2011-15,NTA,8528,7,Port Richmond,4083,20.89,2
+2011-15,NTA,8532,7,Rossville-Woodrow,2704,12.92,1
+2011-15,NTA,8535,7,New Brighton-Silver Lake,2917,16.32,2
+2011-15,NTA,8536,7,Old Town-Dongan Hills-South Beach,3199,13.06,2
+2011-15,NTA,8537,7,Stapleton-Rosebank,5231,20.43,2
+2011-15,NTA,8545,7,New Dorp-Midland Beach,1769,8.44,1
+2011-15,NTA,8548,7,Arden Heights,1824,6.95,1
+2011-15,NTA,8554,7,Great Kills,3292,7.47,1
+2011-15,CD,101,6,Financial District (CD1),10820,7.42,1
+2011-15,CD,102,6,Greenwich Village and Soho (CD2),10820,7.42,1
+2011-15,CD,103,6,Lower East Side and Chinatown (CD3),42598,27.14,3
+2011-15,CD,104,6,Clinton and Chelsea (CD4),19151,13.09,1
+2011-15,CD,105,6,Midtown (CD5),19151,13.09,1
+2011-15,CD,106,6,Stuyvesant Town and Turtle Bay (CD6),13735,9.7,1
+2011-15,CD,107,6,Upper West Side (CD7),19121,9.98,1
+2011-15,CD,108,6,Upper East Side (CD8),14348,6.59,1
+2011-15,CD,109,6,Morningside Heights and Hamilton Heights (CD9),33066,27.4,3
+2011-15,CD,110,6,Central Harlem (CD10),37385,28.51,3
+2011-15,CD,111,6,East Harlem (CD11),39280,33.2,3
+2011-15,CD,112,6,Washington Heights and Inwood (CD12),54086,25.43,2
+2011-15,CD,201,6,Mott Haven and Melrose (CD1),64169,43.1,3
+2011-15,CD,202,6,Hunts Point and Longwood (CD2),64169,43.1,3
+2011-15,CD,203,6,Morrisania and Crotona (CD3),72564,43.88,3
+2011-15,CD,204,6,Highbridge and Concourse (CD4),53605,38.51,3
+2011-15,CD,205,6,Fordham and University Heights (CD5),55912,41.7,3
+2011-15,CD,206,6,Belmont and East Tremont (CD6),72564,43.88,3
+2011-15,CD,207,6,Kingsbridge Heights and Bedford (CD7),40703,32.1,3
+2011-15,CD,208,6,Riverdale and Fieldston (CD8),18462,17.73,2
+2011-15,CD,209,6,Parkchester and Soundview (CD9),52959,28.64,3
+2011-15,CD,210,6,Throgs Neck and Co-op City (CD10),14504,12.05,1
+2011-15,CD,211,6,Morris Park and Bronxdale (CD11),26474,20.84,2
+2011-15,CD,212,6,Williamsbridge and Baychester (CD12),28222,19.91,2
+2011-15,CD,301,6,Greenpoint and Williamsburg (CD1),40370,26.38,3
+2011-15,CD,302,6,Fort Greene and Brooklyn Heights (CD2),24307,19.19,2
+2011-15,CD,303,6,Bedford Stuyvesant (CD3),44892,32.36,3
+2011-15,CD,304,6,Bushwick (CD4),39826,29.33,3
+2011-15,CD,305,6,East New York and Starrett City (CD5),46181,30.12,3
+2011-15,CD,306,6,Park Slope and Carroll Gardens (CD6),11317,9.83,1
+2011-15,CD,307,6,Sunset Park (CD7),43792,29.21,3
+2011-15,CD,308,6,Crown Heights and Prospect Heights (CD8),32235,25.86,3
+2011-15,CD,309,6,South Crown Heights and Lefferts Gardens (CD9),23504,21.3,2
+2011-15,CD,310,6,Bay Ridge and Dyker Heights (CD10),20998,16.23,2
+2011-15,CD,311,6,Bensonhurst (CD11),34697,18.37,2
+2011-15,CD,312,6,Borough Park (CD12),53548,32.49,3
+2011-15,CD,313,6,Coney Island (CD13),28294,26.46,3
+2011-15,CD,314,6,Flatbush and Midwood (CD14),34582,21.54,2
+2011-15,CD,315,6,Sheepshead Bay (CD15),24529,16.43,2
+2011-15,CD,316,6,Brownsville (CD16),45448,36.79,3
+2011-15,CD,317,6,East Flatbush (CD17),23465,17.26,2
+2011-15,CD,318,6,Flatlands and Canarsie (CD18),25419,12.26,1
+2011-15,CD,401,6,Long Island City and Astoria (CD1),30673,17.69,2
+2011-15,CD,402,6,Woodside and Sunnyside (CD2),20230,14.71,1
+2011-15,CD,403,6,Jackson Heights (CD3),35857,19.74,2
+2011-15,CD,404,6,Elmhurst and Corona (CD4),31951,22.42,2
+2011-15,CD,405,6,Ridgewood and Maspeth (CD5),23360,13.75,1
+2011-15,CD,406,6,Rego Park and Forest Hills (CD6),12599,11.06,1
+2011-15,CD,407,6,Flushing and Whitestone (CD7),38928,15.75,2
+2011-15,CD,408,6,Hillcrest and Fresh Meadows (CD8),22863,14.78,1
+2011-15,CD,409,6,Kew Gardens and Woodhaven (CD9),23854,15.65,2
+2011-15,CD,410,6,South Ozone Park and Howard Beach (CD10),18505,13.57,1
+2011-15,CD,411,6,Bayside and Little Neck (CD11),9629,8,1
+2011-15,CD,412,6,Jamaica and Hollis (CD12),36174,15.47,1
+2011-15,CD,413,6,Queens Village (CD13),17410,8.82,1
+2011-15,CD,414,6,Rockaway and Broad Channel (CD14),21801,19,2
+2011-15,CD,501,6,St. George and Stapleton (CD1),33893,20.04,2
+2011-15,CD,502,6,South Beach and Willowbrook (CD2),12729,9.67,1
+2011-15,CD,503,6,Tottenville and Great Kills (CD3),11848,7.14,1
+2011-15,Subboro,1,5,Mott Haven/Hunts Point,64169,43.1,3
+2011-15,Subboro,2,5,Morrisania/East Tremont,72564,43.88,3
+2011-15,Subboro,3,5,Highbridge/South Concourse,53605,38.51,3
+2011-15,Subboro,4,5,University Heights/Fordham,55912,41.7,3
+2011-15,Subboro,5,5,Kingsbridge Heights/Mosholu,40703,32.1,3
+2011-15,Subboro,6,5,Riverdale/Kingsbridge,18462,17.73,2
+2011-15,Subboro,7,5,Soundview/Parkchester,52959,28.64,3
+2011-15,Subboro,8,5,Throgs Neck/Co-op City,14504,12.05,1
+2011-15,Subboro,9,5,Pelham Parkway,26474,20.84,2
+2011-15,Subboro,10,5,Williamsbridge/Baychester,28222,19.91,2
+2011-15,Subboro,11,5,Williamsburg/Greenpoint,40370,26.38,3
+2011-15,Subboro,12,5,Brooklyn Heights/Fort Greene,24307,19.19,2
+2011-15,Subboro,13,5,Bedford Stuyvesant,44892,32.36,3
+2011-15,Subboro,14,5,Bushwick,39826,29.33,3
+2011-15,Subboro,15,5,East New York/Starret City,46181,30.12,3
+2011-15,Subboro,16,5,Park Slope/Carroll Gardens,11317,9.83,1
+2011-15,Subboro,17,5,Sunset Park,43792,29.21,3
+2011-15,Subboro,18,5,N. Crown Heights/Prospect Heights,32235,25.86,3
+2011-15,Subboro,19,5,South Crown Heights,23504,21.3,2
+2011-15,Subboro,20,5,Bay Ridge,20998,16.23,2
+2011-15,Subboro,21,5,Bensonhurst,34697,18.37,2
+2011-15,Subboro,22,5,Borough Park,53548,32.49,3
+2011-15,Subboro,23,5,Coney Island,28294,26.46,3
+2011-15,Subboro,24,5,Flatbush,34582,21.54,2
+2011-15,Subboro,25,5,Sheepshead Bay/Gravesend,24529,16.43,2
+2011-15,Subboro,26,5,Brownsville/Ocean Hill,45448,36.79,3
+2011-15,Subboro,27,5,East Flatbush,23465,17.26,2
+2011-15,Subboro,28,5,Flatlands/Canarsie,25419,12.26,1
+2011-15,Subboro,29,5,Greenwich Village/Financial District,10820,7.42,1
+2011-15,Subboro,30,5,Lower East Side/Chinatown,42598,27.14,3
+2011-15,Subboro,31,5,Chelsea/Clinton/Midtown,19151,13.09,1
+2011-15,Subboro,32,5,Stuyvesant Town/Turtle Bay,13735,9.7,1
+2011-15,Subboro,33,5,Upper West Side,19121,9.98,1
+2011-15,Subboro,34,5,Upper East Side,14348,6.59,1
+2011-15,Subboro,35,5,Morningside Heights/Hamilton Heights,33066,27.4,3
+2011-15,Subboro,36,5,Central Harlem,37385,28.51,3
+2011-15,Subboro,37,5,East Harlem,39280,33.2,3
+2011-15,Subboro,38,5,Washington Heights/Inwood,54086,25.43,2
+2011-15,Subboro,39,5,Astoria,30673,17.69,2
+2011-15,Subboro,40,5,Sunnyside/Woodside,20230,14.71,1
+2011-15,Subboro,41,5,Jackson Heights,35857,19.74,2
+2011-15,Subboro,42,5,Elmhurst/Corona,31951,22.42,2
+2011-15,Subboro,43,5,Middle Village/Ridgewood,23360,13.75,1
+2011-15,Subboro,44,5,Forest Hills/Rego Park,12599,11.06,1
+2011-15,Subboro,45,5,Flushing/Whitestone,38928,15.75,2
+2011-15,Subboro,46,5,Hillcrest/Fresh Meadows,22863,14.78,1
+2011-15,Subboro,47,5,Kew Gardens/Woodhaven,23854,15.65,2
+2011-15,Subboro,48,5,Howard Beach/South Ozone Park,18505,13.57,1
+2011-15,Subboro,49,5,Bayside/Little Neck,9629,8,1
+2011-15,Subboro,50,5,Jamaica,36174,15.47,1
+2011-15,Subboro,51,5,Bellerose/Rosedale,17410,8.82,1
+2011-15,Subboro,52,5,Rockaways,21801,19,2
+2011-15,Subboro,53,5,North Shore,33893,20.04,2
+2011-15,Subboro,54,5,Mid Island,12729,9.67,1
+2011-15,Subboro,55,5,South Shore,11848,7.14,1
+2011-15,UHF42,101,4,Kingsbridge - Riverdale,14059,15.91,2
+2011-15,UHF42,102,4,Northeast Bronx,30305,15.31,2
+2011-15,UHF42,103,4,Fordham - Bronx Pk,82470,33.1,3
+2011-15,UHF42,104,4,Pelham - Throgs Neck,70757,23.24,3
+2011-15,UHF42,105,4,Crotona -Tremont,87376,41.58,3
+2011-15,UHF42,106,4,High Bridge - Morrisania,85490,40.17,3
+2011-15,UHF42,107,4,Hunts Point - Mott Haven,59924,43.09,3
+2011-15,UHF42,201,4,Greenpoint,34188,25.82,3
+2011-15,UHF42,202,4,Downtown - Heights - Slope,38997,16.24,2
+2011-15,UHF42,203,4,Bedford Stuyvesant - Crown Heights,89354,27.25,3
+2011-15,UHF42,204,4,East New York,58202,31.06,3
+2011-15,UHF42,205,4,Sunset Park,41214,31.97,3
+2011-15,UHF42,206,4,Borough Park,92821,27.2,3
+2011-15,UHF42,207,4,East Flatbush - Flatbush,54564,18.13,2
+2011-15,UHF42,208,4,Canarsie - Flatlands,27775,13.48,1
+2011-15,UHF42,209,4,Bensonhurst - Bay Ridge,33668,16.14,2
+2011-15,UHF42,210,4,Coney Island - Sheepshead Bay,56608,20.24,2
+2011-15,UHF42,211,4,Williamsburg - Bushwick,70013,31.7,3
+2011-15,UHF42,301,4,Washington Heights,67893,25.57,3
+2011-15,UHF42,302,4,Central Harlem - Morningside Heights,51123,30,3
+2011-15,UHF42,303,4,East Harlem,36518,33.26,3
+2011-15,UHF42,304,4,Upper West Side,24355,11.39,1
+2011-15,UHF42,305,4,Upper East Side,14449,6.61,1
+2011-15,UHF42,306,4,Chelsea - Clinton,18320,12.43,1
+2011-15,UHF42,307,4,Gramercy Park - Murray Hill,11899,9.52,1
+2011-15,UHF42,308,4,Greenwich Village - SoHo,7315,9.28,1
+2011-15,UHF42,309,4,Union Square - Lower East Side,42963,22.8,2
+2011-15,UHF42,310,4,Lower Manhattan,5944,10.66,1
+2011-15,UHF42,401,4,Long Island City - Astoria,34694,16.78,2
+2011-15,UHF42,402,4,West Queens,88169,19.1,2
+2011-15,UHF42,403,4,Flushing - Clearview,39671,15.36,2
+2011-15,UHF42,404,4,Bayside - Little Neck,7543,8.36,1
+2011-15,UHF42,405,4,Ridgewood - Forest Hills,31807,12.69,1
+2011-15,UHF42,406,4,Fresh Meadows,13688,13.75,1
+2011-15,UHF42,407,4,Southwest Queens,42204,14.63,1
+2011-15,UHF42,408,4,Jamaica,46735,15.53,2
+2011-15,UHF42,409,4,Southeast Queens,19339,7.24,1
+2011-15,UHF42,410,4,Rockaways,21801,19,2
+2011-15,UHF42,501,4,Port Richmond,15104,22.73,2
+2011-15,UHF42,502,4,Stapleton - St. George,21193,17.72,2
+2011-15,UHF42,503,4,Willowbrook,7483,8.64,1
+2011-15,UHF42,504,4,South Beach - Tottenville,14690,7.57,1
+2011-15,Borough,1,1,Bronx,427574,30.7,
+2011-15,Borough,2,1,Brooklyn,597404,23.21,
+2011-15,Borough,3,1,Manhattan,283590,17.92,
+2011-15,Borough,4,1,Queens,343834,15.11,
+2011-15,Borough,5,1,Staten Island,58470,12.53,
+2011-15,Citywide,1,0,New York City,1710872,20.63,
+2010-14,NTA,501,7,Claremont-Bathgate,16392,50.56,3
+2010-14,NTA,503,7,Eastchester-Edenwald-Baychester,6311,18.05,2
+2010-14,NTA,505,7,Bedford Park-Fordham North,17780,33.53,3
+2010-14,NTA,506,7,Belmont,11334,46.1,3
+2010-14,NTA,507,7,Bronxdale,9046,25.76,3
+2010-14,NTA,508,7,West Farms-Bronx River,12755,34.81,3
+2010-14,NTA,509,7,Soundview-Castle Hill-Clason Point-Harding Park,15158,27.59,3
+2010-14,NTA,510,7,Pelham Bay-Country Club-City Island,2747,10.27,1
+2010-14,NTA,513,7,Co-op City,4631,10.15,1
+2010-14,NTA,514,7,East Concourse-Concourse Village,22765,35.9,3
+2010-14,NTA,517,7,East Tremont,19464,45.3,3
+2010-14,NTA,522,7,North Riverdale-Fieldston-Riverdale,2059,8.5,1
+2010-14,NTA,526,7,Highbridge,16497,42.99,3
+2010-14,NTA,527,7,Hunts Point,11029,42.74,3
+2010-14,NTA,528,7,Van Cortlandt Village,12736,26.19,3
+2010-14,NTA,529,7,Spuyten Duyvil-Kingsbridge,3497,11.54,1
+2010-14,NTA,530,7,Kingsbridge Heights,9502,32.53,3
+2010-14,NTA,531,7,Allerton-Pelham Gardens,4123,12.87,2
+2010-14,NTA,533,7,Longwood,10374,38.49,3
+2010-14,NTA,534,7,Melrose South-Mott Haven North,16295,40.79,3
+2010-14,NTA,535,7,Morrisania-Melrose,14270,36.17,3
+2010-14,NTA,536,7,University Heights-Morris Heights,21669,41.47,3
+2010-14,NTA,537,7,Van Nest-Morris Park-Westchester Square,6258,24.39,3
+2010-14,NTA,539,7,Mott Haven-Port Morris,22373,45.42,3
+2010-14,NTA,540,7,Fordham South,12549,47.42,3
+2010-14,NTA,541,7,Mount Hope,20278,38.8,3
+2010-14,NTA,543,7,Norwood,12095,29.37,3
+2010-14,NTA,544,7,Williamsbridge-Olinville,14638,23.95,3
+2010-14,NTA,546,7,Parkchester,4997,17.03,2
+2010-14,NTA,549,7,Pelham Parkway,5052,17.28,2
+2010-14,NTA,552,7,Schuylerville-Throgs Neck-Edgewater Park,7642,15.96,2
+2010-14,NTA,555,7,Soundview-Bruckner,12988,35.51,3
+2010-14,NTA,559,7,Westchester-Unionport,6302,22.82,2
+2010-14,NTA,562,7,Woodlawn-Wakefield,6844,15.5,2
+2010-14,NTA,563,7,West Concourse,13732,36.56,3
+2010-14,NTA,575,7,Crotona Park East,9243,44.74,3
+2010-14,NTA,4709,7,Brooklyn Heights-Cobble Hill,2201,9.98,1
+2010-14,NTA,4717,7,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,10488,16.56,2
+2010-14,NTA,4719,7,Brighton Beach,9287,28.15,3
+2010-14,NTA,4721,7,Seagate-Coney Island,10622,37.08,3
+2010-14,NTA,4723,7,West Brighton,2196,14.66,2
+2010-14,NTA,4725,7,Homecrest,7745,17.81,2
+2010-14,NTA,4726,7,Gravesend,6831,23.68,3
+2010-14,NTA,4727,7,Bath Beach,5014,15.77,2
+2010-14,NTA,4728,7,Bensonhurst West,17507,19.32,2
+2010-14,NTA,4729,7,Bensonhurst East,9639,15.61,2
+2010-14,NTA,4730,7,Dyker Heights,7441,16.03,2
+2010-14,NTA,4731,7,Bay Ridge,14354,17.03,2
+2010-14,NTA,4732,7,Sunset Park West,15104,27.98,3
+2010-14,NTA,4733,7,Carroll Gardens-Columbia Street-Red Hook,6014,15.1,2
+2010-14,NTA,4734,7,Sunset Park East,25028,34.65,3
+2010-14,NTA,4735,7,Stuyvesant Heights,18971,28.94,3
+2010-14,NTA,4737,7,Park Slope-Gowanus,5640,7.6,1
+2010-14,NTA,4738,7,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,8224,21.24,2
+2010-14,NTA,4740,7,Windsor Terrace,2243,10.19,1
+2010-14,NTA,4741,7,Kensington-Ocean Parkway,9362,25.42,3
+2010-14,NTA,4742,7,Flatbush,21776,20.62,2
+2010-14,NTA,4743,7,Midwood,12138,23.27,2
+2010-14,NTA,4744,7,Madison,5750,14.18,2
+2010-14,NTA,4745,7,Georgetown-Marine Park-Bergen Beach-Mill Basin,3690,7.67,1
+2010-14,NTA,4746,7,Ocean Parkway South,3983,19.78,2
+2010-14,NTA,4750,7,Canarsie,13198,15.2,2
+2010-14,NTA,4758,7,Flatlands,8272,11.38,1
+2010-14,NTA,4760,7,Prospect Lefferts Gardens-Wingate,16032,23.39,3
+2010-14,NTA,4761,7,Crown Heights North,29954,29.1,3
+2010-14,NTA,4763,7,Crown Heights South,8665,21.23,2
+2010-14,NTA,4764,7,Prospect Heights,1998,9.89,1
+2010-14,NTA,4768,7,Fort Greene,6528,24.07,3
+2010-14,NTA,4769,7,Clinton Hill,7009,19.39,2
+2010-14,NTA,4772,7,Williamsburg,18006,56.48,3
+2010-14,NTA,4773,7,North Side-South Side,11463,22.51,2
+2010-14,NTA,4775,7,Bedford,24416,34.32,3
+2010-14,NTA,4776,7,Greenpoint,4012,12.5,1
+2010-14,NTA,4777,7,Bushwick North,19543,30.96,3
+2010-14,NTA,4778,7,Bushwick South,20717,27.77,3
+2010-14,NTA,4779,7,Ocean Hill,9677,29.97,3
+2010-14,NTA,4781,7,Brownsville,23811,39.99,3
+2010-14,NTA,4782,7,East New York,30061,33.23,3
+2010-14,NTA,4783,7,Cypress Hills-City Line,14232,30.23,3
+2010-14,NTA,4785,7,East New York (Pennsylvania Ave),11881,39.38,3
+2010-14,NTA,4788,7,Borough Park,40631,37.3,3
+2010-14,NTA,4790,7,East Williamsburg,6892,20.24,2
+2010-14,NTA,4791,7,East Flatbush-Farragut,6398,12.38,1
+2010-14,NTA,4793,7,Starrett City,4100,32.02,3
+2010-14,NTA,4795,7,Erasmus,6459,22.97,2
+2010-14,NTA,4796,7,Rugby-Remsen Village,10289,18.59,2
+2010-14,NTA,6101,7,Marble Hill-Inwood,13758,26.88,3
+2010-14,NTA,6103,7,Central Harlem North-Polo Grounds,24423,30.23,3
+2010-14,NTA,6104,7,Hamilton Heights,14812,28.84,3
+2010-14,NTA,6106,7,Manhattanville,7637,33.11,3
+2010-14,NTA,6109,7,Morningside Heights,10946,24.18,3
+2010-14,NTA,6111,7,Central Harlem South,13177,27.28,3
+2010-14,NTA,6112,7,Upper West Side,14540,10.75,1
+2010-14,NTA,6113,7,Hudson Yards-Chelsea-Flatiron-Union Square,9419,12.65,2
+2010-14,NTA,6114,7,Lincoln Square,4647,7.96,1
+2010-14,NTA,6115,7,Clinton,5194,12.41,1
+2010-14,NTA,6117,7,Midtown-Midtown South,3590,13.39,2
+2010-14,NTA,6119,7,Turtle Bay-East Midtown,3005,6.19,1
+2010-14,NTA,6120,7,Murray Hill-Kips Bay,5717,12.46,1
+2010-14,NTA,6121,7,Gramercy,2300,9.19,1
+2010-14,NTA,6122,7,East Village,5708,14.74,2
+2010-14,NTA,6123,7,West Village,4363,6.91,1
+2010-14,NTA,6124,7,SoHo-TriBeCa-Civic Center-Little Italy,4014,9.97,1
+2010-14,NTA,6125,7,Battery Park City-Lower Manhattan,3130,7.6,1
+2010-14,NTA,6127,7,Chinatown,12606,28.99,3
+2010-14,NTA,6128,7,Lower East Side,20984,28.2,3
+2010-14,NTA,6131,7,Lenox Hill-Roosevelt Island,6377,8.24,1
+2010-14,NTA,6132,7,Yorkville,5800,7.2,1
+2010-14,NTA,6133,7,East Harlem South,15080,26.86,3
+2010-14,NTA,6134,7,East Harlem North,22236,37.14,3
+2010-14,NTA,6135,7,Washington Heights North,14231,20,2
+2010-14,NTA,6136,7,Washington Heights South,24235,27.5,3
+2010-14,NTA,6140,7,Upper East Side-Carnegie Hill,3435,5.87,1
+2010-14,NTA,6150,7,Stuyvesant Town-Cooper Village,2418,11.11,1
+2010-14,NTA,8101,7,South Jamaica,8716,19.84,2
+2010-14,NTA,8102,7,Springfield Gardens North,3489,12.94,2
+2010-14,NTA,8103,7,Springfield Gardens South-Brookville,2492,12.01,1
+2010-14,NTA,8105,7,Rosedale,2346,8.7,1
+2010-14,NTA,8106,7,Jamaica Estates-Holliswood,3204,12.81,2
+2010-14,NTA,8107,7,Hollis,2420,11.63,1
+2010-14,NTA,8108,7,St. Albans,4922,9.28,1
+2010-14,NTA,8110,7,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,2122,7.55,1
+2010-14,NTA,8112,7,Hammels-Arverne-Edgemere,9073,26.03,3
+2010-14,NTA,8115,7,Far Rockaway-Bayswater,11677,23.2,2
+2010-14,NTA,8117,7,Forest Hills,8674,10.24,1
+2010-14,NTA,8118,7,Rego Park,2681,10.14,1
+2010-14,NTA,8119,7,Glendale,3933,12.01,1
+2010-14,NTA,8120,7,Ridgewood,14122,20.14,2
+2010-14,NTA,8121,7,Middle Village,3391,8.99,1
+2010-14,NTA,8122,7,Flushing,16318,23.63,3
+2010-14,NTA,8123,7,College Point,3139,12.86,2
+2010-14,NTA,8125,7,Corona,13501,23.93,3
+2010-14,NTA,8126,7,North Corona,13207,25.15,3
+2010-14,NTA,8127,7,East Elmhurst,4597,20.59,2
+2010-14,NTA,8128,7,Jackson Heights,19263,18.42,2
+2010-14,NTA,8129,7,Elmhurst,17836,20.47,2
+2010-14,NTA,8130,7,Maspeth,3161,12.01,1
+2010-14,NTA,8131,7,Hunters Point-Sunnyside-West Maspeth,8975,14.2,2
+2010-14,NTA,8133,7,Cambria Heights,948,4.82,1
+2010-14,NTA,8134,7,Queens Village,6057,10.77,1
+2010-14,NTA,8135,7,Briarwood-Jamaica Hills,6186,15.84,2
+2010-14,NTA,8137,7,Kew Gardens Hills,5090,13.75,2
+2010-14,NTA,8138,7,Pomonok-Flushing Heights-Hillcrest,6524,20.47,2
+2010-14,NTA,8141,7,Fresh Meadows-Utopia,2316,12.89,2
+2010-14,NTA,8142,7,Oakland Gardens,2610,9.29,1
+2010-14,NTA,8143,7,Bellerose,2760,10.54,1
+2010-14,NTA,8144,7,Glen Oaks-Floral Park-New Hyde Park,1622,7.51,1
+2010-14,NTA,8145,7,Douglas Manor-Douglaston-Little Neck,1888,7.45,1
+2010-14,NTA,8146,7,Bayside-Bayside Hills,3374,7.31,1
+2010-14,NTA,8147,7,Ft. Totten-Bay Terrace-Clearview,1578,7.15,1
+2010-14,NTA,8148,7,Auburndale,1680,8,1
+2010-14,NTA,8149,7,Whitestone,2093,6.6,1
+2010-14,NTA,8150,7,Elmhurst-Maspeth,3690,14.05,2
+2010-14,NTA,8151,7,Murray Hill,7994,15.61,2
+2010-14,NTA,8152,7,East Flushing,3982,14.78,2
+2010-14,NTA,8153,7,Woodhaven,9544,15.63,2
+2010-14,NTA,8154,7,Richmond Hill,10312,16.23,2
+2010-14,NTA,8155,7,South Ozone Park,11762,14.15,2
+2010-14,NTA,8156,7,Ozone Park,3668,16.07,2
+2010-14,NTA,8157,7,Lindenwood-Howard Beach,2544,8.87,1
+2010-14,NTA,8160,7,Kew Gardens,2727,11.8,1
+2010-14,NTA,8161,7,Jamaica,13025,24.48,3
+2010-14,NTA,8162,7,Queensboro Hill,3281,15.13,2
+2010-14,NTA,8163,7,Woodside,6748,14.84,2
+2010-14,NTA,8166,7,Laurelton,1461,5.47,1
+2010-14,NTA,8168,7,Queensbridge-Ravenswood-Long Island City,6242,34,3
+2010-14,NTA,8170,7,Astoria,12386,16.08,2
+2010-14,NTA,8171,7,Old Astoria,6019,20.82,2
+2010-14,NTA,8172,7,Steinway,6044,12.6,1
+2010-14,NTA,8176,7,Baisley Park,5491,14.87,2
+2010-14,NTA,8501,7,Annadale-Huguenot-Prince's Bay-Eltingville,2022,7.03,1
+2010-14,NTA,8505,7,New Springville-Bloomfield-Travis,3218,8.31,1
+2010-14,NTA,8507,7,Westerleigh,1852,7.62,1
+2010-14,NTA,8508,7,Grymes Hill-Clifton-Fox Hills,4347,20.87,2
+2010-14,NTA,8511,7,Charleston-Richmond Valley-Tottenville,1328,5.55,1
+2010-14,NTA,8512,7,Mariner's Harbor-Arlington-Port Ivory-Graniteville,6330,21.12,2
+2010-14,NTA,8514,7,Grasmere-Arrochar-Ft. Wadsworth,1858,12.18,1
+2010-14,NTA,8522,7,West New Brighton-New Brighton-St. George,9000,27.68,3
+2010-14,NTA,8524,7,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,2190,7.08,1
+2010-14,NTA,8525,7,Oakwood-Oakwood Beach,1182,5.48,1
+2010-14,NTA,8528,7,Port Richmond,4448,23.23,2
+2010-14,NTA,8532,7,Rossville-Woodrow,2660,12.65,2
+2010-14,NTA,8535,7,New Brighton-Silver Lake,2749,15.44,2
+2010-14,NTA,8536,7,Old Town-Dongan Hills-South Beach,2876,11.7,1
+2010-14,NTA,8537,7,Stapleton-Rosebank,5156,19.84,2
+2010-14,NTA,8545,7,New Dorp-Midland Beach,1315,6.43,1
+2010-14,NTA,8548,7,Arden Heights,1351,5.29,1
+2010-14,NTA,8554,7,Great Kills,3523,8,1
+2010-14,CD,101,6,Financial District (CD1),11507,7.96,1
+2010-14,CD,102,6,Greenwich Village and Soho (CD2),11507,7.96,1
+2010-14,CD,103,6,Lower East Side and Chinatown (CD3),39298,25.09,3
+2010-14,CD,104,6,Clinton and Chelsea (CD4),18203,12.72,1
+2010-14,CD,105,6,Midtown (CD5),18203,12.72,1
+2010-14,CD,106,6,Stuyvesant Town and Turtle Bay (CD6),13440,9.52,1
+2010-14,CD,107,6,Upper West Side (CD7),19190,9.91,1
+2010-14,CD,108,6,Upper East Side (CD8),15612,7.21,1
+2010-14,CD,109,6,Morningside Heights and Hamilton Heights (CD9),33395,27.9,3
+2010-14,CD,110,6,Central Harlem (CD10),37600,29.12,3
+2010-14,CD,111,6,East Harlem (CD11),38489,32.78,3
+2010-14,CD,112,6,Washington Heights and Inwood (CD12),52224,24.82,2
+2010-14,CD,201,6,Mott Haven and Melrose (CD1),62795,42.78,3
+2010-14,CD,202,6,Hunts Point and Longwood (CD2),62795,42.78,3
+2010-14,CD,203,6,Morrisania and Crotona (CD3),71026,43.99,3
+2010-14,CD,204,6,Highbridge and Concourse (CD4),52994,38.03,3
+2010-14,CD,205,6,Fordham and University Heights (CD5),54496,41.61,3
+2010-14,CD,206,6,Belmont and East Tremont (CD6),71026,43.99,3
+2010-14,CD,207,6,Kingsbridge Heights and Bedford (CD7),39377,31.91,3
+2010-14,CD,208,6,Riverdale and Fieldston (CD8),18292,17.73,2
+2010-14,CD,209,6,Parkchester and Soundview (CD9),52200,28.2,3
+2010-14,CD,210,6,Throgs Neck and Co-op City (CD10),15027,12.48,1
+2010-14,CD,211,6,Morris Park and Bronxdale (CD11),25580,20.26,2
+2010-14,CD,212,6,Williamsbridge and Baychester (CD12),27793,19.81,2
+2010-14,CD,301,6,Greenpoint and Williamsburg (CD1),40373,27.1,3
+2010-14,CD,302,6,Fort Greene and Brooklyn Heights (CD2),24001,19.29,2
+2010-14,CD,303,6,Bedford Stuyvesant (CD3),43387,31.74,3
+2010-14,CD,304,6,Bushwick (CD4),40260,29.23,3
+2010-14,CD,305,6,East New York and Starrett City (CD5),48393,32.19,3
+2010-14,CD,306,6,Park Slope and Carroll Gardens (CD6),11654,10.21,1
+2010-14,CD,307,6,Sunset Park (CD7),42375,28.59,3
+2010-14,CD,308,6,Crown Heights and Prospect Heights (CD8),31952,25.95,3
+2010-14,CD,309,6,South Crown Heights and Lefferts Gardens (CD9),24697,22.58,2
+2010-14,CD,310,6,Bay Ridge and Dyker Heights (CD10),21795,16.67,2
+2010-14,CD,311,6,Bensonhurst (CD11),32160,17.46,2
+2010-14,CD,312,6,Borough Park (CD12),53976,32.54,3
+2010-14,CD,313,6,Coney Island (CD13),28936,27.44,3
+2010-14,CD,314,6,Flatbush and Midwood (CD14),33914,21.5,2
+2010-14,CD,315,6,Sheepshead Bay (CD15),23983,16.27,2
+2010-14,CD,316,6,Brownsville (CD16),45369,37.19,3
+2010-14,CD,317,6,East Flatbush (CD17),23146,17.13,2
+2010-14,CD,318,6,Flatlands and Canarsie (CD18),25160,12.12,1
+2010-14,CD,401,6,Long Island City and Astoria (CD1),30691,17.82,2
+2010-14,CD,402,6,Woodside and Sunnyside (CD2),19413,14.39,1
+2010-14,CD,403,6,Jackson Heights (CD3),37067,20.66,2
+2010-14,CD,404,6,Elmhurst and Corona (CD4),31337,21.83,2
+2010-14,CD,405,6,Ridgewood and Maspeth (CD5),24607,14.73,1
+2010-14,CD,406,6,Rego Park and Forest Hills (CD6),11355,10.22,1
+2010-14,CD,407,6,Flushing and Whitestone (CD7),38385,15.53,2
+2010-14,CD,408,6,Hillcrest and Fresh Meadows (CD8),23320,15.45,1
+2010-14,CD,409,6,Kew Gardens and Woodhaven (CD9),22583,15.27,1
+2010-14,CD,410,6,South Ozone Park and Howard Beach (CD10),17974,13.35,1
+2010-14,CD,411,6,Bayside and Little Neck (CD11),9567,7.93,1
+2010-14,CD,412,6,Jamaica and Hollis (CD12),38063,16.2,2
+2010-14,CD,413,6,Queens Village (CD13),17686,8.93,1
+2010-14,CD,414,6,Rockaway and Broad Channel (CD14),22872,20.19,2
+2010-14,CD,501,6,St. George and Stapleton (CD1),33882,19.86,2
+2010-14,CD,502,6,South Beach and Willowbrook (CD2),11457,8.83,1
+2010-14,CD,503,6,Tottenville and Great Kills (CD3),12066,7.31,1
+2010-14,Subboro,1,5,Mott Haven/Hunts Point,62795,42.78,3
+2010-14,Subboro,2,5,Morrisania/East Tremont,71026,43.99,3
+2010-14,Subboro,3,5,Highbridge/South Concourse,52994,38.03,3
+2010-14,Subboro,4,5,University Heights/Fordham,54496,41.61,3
+2010-14,Subboro,5,5,Kingsbridge Heights/Mosholu,39377,31.91,3
+2010-14,Subboro,6,5,Riverdale/Kingsbridge,18292,17.73,2
+2010-14,Subboro,7,5,Soundview/Parkchester,52200,28.2,3
+2010-14,Subboro,8,5,Throgs Neck/Co-op City,15027,12.48,1
+2010-14,Subboro,9,5,Pelham Parkway,25580,20.26,2
+2010-14,Subboro,10,5,Williamsbridge/Baychester,27793,19.81,2
+2010-14,Subboro,11,5,Williamsburg/Greenpoint,40373,27.1,3
+2010-14,Subboro,12,5,Brooklyn Heights/Fort Greene,24001,19.29,2
+2010-14,Subboro,13,5,Bedford Stuyvesant,43387,31.74,3
+2010-14,Subboro,14,5,Bushwick,40260,29.23,3
+2010-14,Subboro,15,5,East New York/Starret City,48393,32.19,3
+2010-14,Subboro,16,5,Park Slope/Carroll Gardens,11654,10.21,1
+2010-14,Subboro,17,5,Sunset Park,42375,28.59,3
+2010-14,Subboro,18,5,N. Crown Heights/Prospect Heights,31952,25.95,3
+2010-14,Subboro,19,5,South Crown Heights,24697,22.58,2
+2010-14,Subboro,20,5,Bay Ridge,21795,16.67,2
+2010-14,Subboro,21,5,Bensonhurst,32160,17.46,2
+2010-14,Subboro,22,5,Borough Park,53976,32.54,3
+2010-14,Subboro,23,5,Coney Island,28936,27.44,3
+2010-14,Subboro,24,5,Flatbush,33914,21.5,2
+2010-14,Subboro,25,5,Sheepshead Bay/Gravesend,23983,16.27,2
+2010-14,Subboro,26,5,Brownsville/Ocean Hill,45369,37.19,3
+2010-14,Subboro,27,5,East Flatbush,23146,17.13,2
+2010-14,Subboro,28,5,Flatlands/Canarsie,25160,12.12,1
+2010-14,Subboro,29,5,Greenwich Village/Financial District,11507,7.96,1
+2010-14,Subboro,30,5,Lower East Side/Chinatown,39298,25.09,3
+2010-14,Subboro,31,5,Chelsea/Clinton/Midtown,18203,12.72,1
+2010-14,Subboro,32,5,Stuyvesant Town/Turtle Bay,13440,9.52,1
+2010-14,Subboro,33,5,Upper West Side,19190,9.91,1
+2010-14,Subboro,34,5,Upper East Side,15612,7.21,1
+2010-14,Subboro,35,5,Morningside Heights/Hamilton Heights,33395,27.9,3
+2010-14,Subboro,36,5,Central Harlem,37600,29.12,3
+2010-14,Subboro,37,5,East Harlem,38489,32.78,3
+2010-14,Subboro,38,5,Washington Heights/Inwood,52224,24.82,2
+2010-14,Subboro,39,5,Astoria,30691,17.82,2
+2010-14,Subboro,40,5,Sunnyside/Woodside,19413,14.39,1
+2010-14,Subboro,41,5,Jackson Heights,37067,20.66,2
+2010-14,Subboro,42,5,Elmhurst/Corona,31337,21.83,2
+2010-14,Subboro,43,5,Middle Village/Ridgewood,24607,14.73,1
+2010-14,Subboro,44,5,Forest Hills/Rego Park,11355,10.22,1
+2010-14,Subboro,45,5,Flushing/Whitestone,38385,15.53,2
+2010-14,Subboro,46,5,Hillcrest/Fresh Meadows,23320,15.45,1
+2010-14,Subboro,47,5,Kew Gardens/Woodhaven,22583,15.27,1
+2010-14,Subboro,48,5,Howard Beach/South Ozone Park,17974,13.35,1
+2010-14,Subboro,49,5,Bayside/Little Neck,9567,7.93,1
+2010-14,Subboro,50,5,Jamaica,38063,16.2,2
+2010-14,Subboro,51,5,Bellerose/Rosedale,17686,8.93,1
+2010-14,Subboro,52,5,Rockaways,22872,20.19,2
+2010-14,Subboro,53,5,North Shore,33882,19.86,2
+2010-14,Subboro,54,5,Mid Island,11457,8.83,1
+2010-14,Subboro,55,5,South Shore,12066,7.31,1
+2010-14,UHF42,101,4,Kingsbridge - Riverdale,14110,16.07,2
+2010-14,UHF42,102,4,Northeast Bronx,30249,15.38,2
+2010-14,UHF42,103,4,Fordham - Bronx Pk,79822,32.91,3
+2010-14,UHF42,104,4,Pelham - Throgs Neck,70738,23.21,2
+2010-14,UHF42,105,4,Crotona -Tremont,84329,41.04,3
+2010-14,UHF42,106,4,High Bridge - Morrisania,84219,39.74,3
+2010-14,UHF42,107,4,Hunts Point - Mott Haven,59012,43.05,3
+2010-14,UHF42,201,4,Greenpoint,34141,26.5,3
+2010-14,UHF42,202,4,Downtown - Heights - Slope,38815,16.38,2
+2010-14,UHF42,203,4,Bedford Stuyvesant - Crown Heights,87679,27.16,3
+2010-14,UHF42,204,4,East New York,61579,33.38,3
+2010-14,UHF42,205,4,Sunset Park,39927,31.12,3
+2010-14,UHF42,206,4,Borough Park,91508,26.92,3
+2010-14,UHF42,207,4,East Flatbush - Flatbush,55829,18.6,2
+2010-14,UHF42,208,4,Canarsie - Flatlands,27217,13.26,1
+2010-14,UHF42,209,4,Bensonhurst - Bay Ridge,33060,16.03,2
+2010-14,UHF42,210,4,Coney Island - Sheepshead Bay,56199,20.42,2
+2010-14,UHF42,211,4,Williamsburg - Bushwick,69577,31.51,3
+2010-14,UHF42,301,4,Washington Heights,66700,25.42,3
+2010-14,UHF42,302,4,Central Harlem - Morningside Heights,49942,29.76,3
+2010-14,UHF42,303,4,East Harlem,35961,32.87,3
+2010-14,UHF42,304,4,Upper West Side,25121,11.62,1
+2010-14,UHF42,305,4,Upper East Side,15708,7.23,1
+2010-14,UHF42,306,4,Chelsea - Clinton,17361,12.07,1
+2010-14,UHF42,307,4,Gramercy Park - Murray Hill,11754,9.56,1
+2010-14,UHF42,308,4,Greenwich Village - SoHo,7910,9.87,1
+2010-14,UHF42,309,4,Union Square - Lower East Side,39567,20.9,2
+2010-14,UHF42,310,4,Lower Manhattan,6001,11.16,1
+2010-14,UHF42,401,4,Long Island City - Astoria,34042,16.69,2
+2010-14,UHF42,402,4,West Queens,88185,19.24,2
+2010-14,UHF42,403,4,Flushing - Clearview,39272,15.15,2
+2010-14,UHF42,404,4,Bayside - Little Neck,7353,8.16,1
+2010-14,UHF42,405,4,Ridgewood - Forest Hills,32243,13.1,1
+2010-14,UHF42,406,4,Fresh Meadows,14433,14.92,1
+2010-14,UHF42,407,4,Southwest Queens,40414,14.31,1
+2010-14,UHF42,408,4,Jamaica,48131,15.97,2
+2010-14,UHF42,409,4,Southeast Queens,20134,7.56,1
+2010-14,UHF42,410,4,Rockaways,22872,20.19,2
+2010-14,UHF42,501,4,Port Richmond,15736,23.52,3
+2010-14,UHF42,502,4,Stapleton - St. George,20584,17.3,2
+2010-14,UHF42,503,4,Willowbrook,6818,7.89,1
+2010-14,UHF42,504,4,South Beach - Tottenville,14267,7.39,1
+2010-14,Borough,1,1,Bronx,419580,30.47,
+2010-14,Borough,2,1,Brooklyn,595531,23.36,
+2010-14,Borough,3,1,Manhattan,278958,17.74,
+2010-14,Borough,4,1,Queens,344920,15.29,
+2010-14,Borough,5,1,Staten Island,57405,12.33,
+2010-14,Citywide,1,0,New York City,1696394,20.64,
+2009-13,NTA,501,7,Claremont-Bathgate,14504,46.85,3
+2009-13,NTA,503,7,Eastchester-Edenwald-Baychester,6620,18.35,2
+2009-13,NTA,505,7,Bedford Park-Fordham North,17660,33.5,3
+2009-13,NTA,506,7,Belmont,10690,45.65,3
+2009-13,NTA,507,7,Bronxdale,8367,24.57,3
+2009-13,NTA,508,7,West Farms-Bronx River,12774,35.75,3
+2009-13,NTA,509,7,Soundview-Castle Hill-Clason Point-Harding Park,14428,26.92,3
+2009-13,NTA,510,7,Pelham Bay-Country Club-City Island,3164,11.99,1
+2009-13,NTA,513,7,Co-op City,4906,11.09,1
+2009-13,NTA,514,7,East Concourse-Concourse Village,21432,34.84,3
+2009-13,NTA,517,7,East Tremont,19047,44.97,3
+2009-13,NTA,522,7,North Riverdale-Fieldston-Riverdale,1805,7.61,1
+2009-13,NTA,526,7,Highbridge,14739,39.9,3
+2009-13,NTA,527,7,Hunts Point,11162,41.89,3
+2009-13,NTA,528,7,Van Cortlandt Village,12342,25.15,3
+2009-13,NTA,529,7,Spuyten Duyvil-Kingsbridge,2937,10.15,1
+2009-13,NTA,530,7,Kingsbridge Heights,9325,32.04,3
+2009-13,NTA,531,7,Allerton-Pelham Gardens,4283,13.53,2
+2009-13,NTA,533,7,Longwood,9851,37.56,3
+2009-13,NTA,534,7,Melrose South-Mott Haven North,15970,41.13,3
+2009-13,NTA,535,7,Morrisania-Melrose,13785,36.7,3
+2009-13,NTA,536,7,University Heights-Morris Heights,21704,40.61,3
+2009-13,NTA,537,7,Van Nest-Morris Park-Westchester Square,5756,22.84,2
+2009-13,NTA,539,7,Mott Haven-Port Morris,21148,44.24,3
+2009-13,NTA,540,7,Fordham South,12106,45.48,3
+2009-13,NTA,541,7,Mount Hope,20103,38.83,3
+2009-13,NTA,543,7,Norwood,12006,29.34,3
+2009-13,NTA,544,7,Williamsbridge-Olinville,14071,22.88,2
+2009-13,NTA,546,7,Parkchester,5057,16.63,2
+2009-13,NTA,549,7,Pelham Parkway,4669,15.76,2
+2009-13,NTA,552,7,Schuylerville-Throgs Neck-Edgewater Park,7132,15.38,2
+2009-13,NTA,555,7,Soundview-Bruckner,12929,36.01,3
+2009-13,NTA,559,7,Westchester-Unionport,6980,25.18,3
+2009-13,NTA,562,7,Woodlawn-Wakefield,6680,14.99,2
+2009-13,NTA,563,7,West Concourse,13504,34.58,3
+2009-13,NTA,575,7,Crotona Park East,8383,41.97,3
+2009-13,NTA,4709,7,Brooklyn Heights-Cobble Hill,2345,10.3,1
+2009-13,NTA,4717,7,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,10427,16.6,2
+2009-13,NTA,4719,7,Brighton Beach,8713,26.95,3
+2009-13,NTA,4721,7,Seagate-Coney Island,10343,36.75,3
+2009-13,NTA,4723,7,West Brighton,2054,13.42,2
+2009-13,NTA,4725,7,Homecrest,6898,16,2
+2009-13,NTA,4726,7,Gravesend,5596,19.67,2
+2009-13,NTA,4727,7,Bath Beach,4441,15.24,2
+2009-13,NTA,4728,7,Bensonhurst West,15988,18.03,2
+2009-13,NTA,4729,7,Bensonhurst East,9559,15.95,2
+2009-13,NTA,4730,7,Dyker Heights,6833,14.95,2
+2009-13,NTA,4731,7,Bay Ridge,13703,16.19,2
+2009-13,NTA,4732,7,Sunset Park West,14923,27.79,3
+2009-13,NTA,4733,7,Carroll Gardens-Columbia Street-Red Hook,5870,15.01,2
+2009-13,NTA,4734,7,Sunset Park East,23929,33.17,3
+2009-13,NTA,4735,7,Stuyvesant Heights,18683,29.07,3
+2009-13,NTA,4737,7,Park Slope-Gowanus,5696,7.75,1
+2009-13,NTA,4738,7,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,7994,21.75,2
+2009-13,NTA,4740,7,Windsor Terrace,2547,11.6,1
+2009-13,NTA,4741,7,Kensington-Ocean Parkway,9850,26.82,3
+2009-13,NTA,4742,7,Flatbush,23240,22.12,2
+2009-13,NTA,4743,7,Midwood,11033,21.83,2
+2009-13,NTA,4744,7,Madison,5096,12.61,2
+2009-13,NTA,4745,7,Georgetown-Marine Park-Bergen Beach-Mill Basin,3685,7.71,1
+2009-13,NTA,4746,7,Ocean Parkway South,3180,16,2
+2009-13,NTA,4750,7,Canarsie,11945,13.91,2
+2009-13,NTA,4758,7,Flatlands,7422,10.48,1
+2009-13,NTA,4760,7,Prospect Lefferts Gardens-Wingate,15080,22.23,2
+2009-13,NTA,4761,7,Crown Heights North,30317,29.86,3
+2009-13,NTA,4763,7,Crown Heights South,9661,23.6,3
+2009-13,NTA,4764,7,Prospect Heights,2416,11.58,1
+2009-13,NTA,4768,7,Fort Greene,6283,23.84,3
+2009-13,NTA,4769,7,Clinton Hill,6813,19.54,2
+2009-13,NTA,4772,7,Williamsburg,18221,57.81,3
+2009-13,NTA,4773,7,North Side-South Side,12315,24.91,3
+2009-13,NTA,4775,7,Bedford,25120,35.59,3
+2009-13,NTA,4776,7,Greenpoint,4286,13.48,2
+2009-13,NTA,4777,7,Bushwick North,20492,32.24,3
+2009-13,NTA,4778,7,Bushwick South,20932,28.54,3
+2009-13,NTA,4779,7,Ocean Hill,9719,30.92,3
+2009-13,NTA,4781,7,Brownsville,22430,38.83,3
+2009-13,NTA,4782,7,East New York,30672,33.27,3
+2009-13,NTA,4783,7,Cypress Hills-City Line,13911,29.98,3
+2009-13,NTA,4785,7,East New York (Pennsylvania Ave),11298,38.38,3
+2009-13,NTA,4788,7,Borough Park,37969,35.9,3
+2009-13,NTA,4790,7,East Williamsburg,7215,21.43,2
+2009-13,NTA,4791,7,East Flatbush-Farragut,5919,11.24,1
+2009-13,NTA,4793,7,Starrett City,4039,31.52,3
+2009-13,NTA,4795,7,Erasmus,6033,20.9,2
+2009-13,NTA,4796,7,Rugby-Remsen Village,10097,18.06,2
+2009-13,NTA,6101,7,Marble Hill-Inwood,13563,27.32,3
+2009-13,NTA,6103,7,Central Harlem North-Polo Grounds,22767,28.86,3
+2009-13,NTA,6104,7,Hamilton Heights,13643,26.87,3
+2009-13,NTA,6106,7,Manhattanville,8327,35.56,3
+2009-13,NTA,6109,7,Morningside Heights,10855,23.68,3
+2009-13,NTA,6111,7,Central Harlem South,12863,26.91,3
+2009-13,NTA,6112,7,Upper West Side,14488,10.74,1
+2009-13,NTA,6113,7,Hudson Yards-Chelsea-Flatiron-Union Square,8383,11.77,1
+2009-13,NTA,6114,7,Lincoln Square,5078,8.68,1
+2009-13,NTA,6115,7,Clinton,5447,13.13,2
+2009-13,NTA,6117,7,Midtown-Midtown South,3746,14.1,2
+2009-13,NTA,6119,7,Turtle Bay-East Midtown,2782,5.76,1
+2009-13,NTA,6120,7,Murray Hill-Kips Bay,5254,11.3,1
+2009-13,NTA,6121,7,Gramercy,2540,10.15,1
+2009-13,NTA,6122,7,East Village,6217,15.84,2
+2009-13,NTA,6123,7,West Village,4349,7.02,1
+2009-13,NTA,6124,7,SoHo-TriBeCa-Civic Center-Little Italy,4115,10.3,1
+2009-13,NTA,6125,7,Battery Park City-Lower Manhattan,2893,7.37,1
+2009-13,NTA,6127,7,Chinatown,13775,30.79,3
+2009-13,NTA,6128,7,Lower East Side,21456,28.53,3
+2009-13,NTA,6131,7,Lenox Hill-Roosevelt Island,5756,7.51,1
+2009-13,NTA,6132,7,Yorkville,5541,7.14,1
+2009-13,NTA,6133,7,East Harlem South,14136,24.95,3
+2009-13,NTA,6134,7,East Harlem North,21270,36.53,3
+2009-13,NTA,6135,7,Washington Heights North,16012,22.66,2
+2009-13,NTA,6136,7,Washington Heights South,24283,27.86,3
+2009-13,NTA,6140,7,Upper East Side-Carnegie Hill,3141,5.36,1
+2009-13,NTA,6150,7,Stuyvesant Town-Cooper Village,2302,10.01,1
+2009-13,NTA,8101,7,South Jamaica,9302,23.99,3
+2009-13,NTA,8102,7,Springfield Gardens North,3108,11.87,1
+2009-13,NTA,8103,7,Springfield Gardens South-Brookville,2395,12.18,1
+2009-13,NTA,8105,7,Rosedale,1718,6.16,1
+2009-13,NTA,8106,7,Jamaica Estates-Holliswood,3233,12.82,2
+2009-13,NTA,8107,7,Hollis,2499,12.47,2
+2009-13,NTA,8108,7,St. Albans,4487,8.6,1
+2009-13,NTA,8110,7,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,2147,7.5,1
+2009-13,NTA,8112,7,Hammels-Arverne-Edgemere,10080,28.86,3
+2009-13,NTA,8115,7,Far Rockaway-Bayswater,11134,22.98,2
+2009-13,NTA,8117,7,Forest Hills,8062,9.62,1
+2009-13,NTA,8118,7,Rego Park,2854,10.24,1
+2009-13,NTA,8119,7,Glendale,3861,12.1,1
+2009-13,NTA,8120,7,Ridgewood,14430,20.66,2
+2009-13,NTA,8121,7,Middle Village,2937,7.62,1
+2009-13,NTA,8122,7,Flushing,15375,22.68,2
+2009-13,NTA,8123,7,College Point,2617,11.01,1
+2009-13,NTA,8125,7,Corona,13244,23.87,3
+2009-13,NTA,8126,7,North Corona,12761,24.92,3
+2009-13,NTA,8127,7,East Elmhurst,4446,19,2
+2009-13,NTA,8128,7,Jackson Heights,19558,18.65,2
+2009-13,NTA,8129,7,Elmhurst,18331,21.4,2
+2009-13,NTA,8130,7,Maspeth,3129,11.36,1
+2009-13,NTA,8131,7,Hunters Point-Sunnyside-West Maspeth,7784,12.8,2
+2009-13,NTA,8133,7,Cambria Heights,1035,5.29,1
+2009-13,NTA,8134,7,Queens Village,6100,10.61,1
+2009-13,NTA,8135,7,Briarwood-Jamaica Hills,5850,15.53,2
+2009-13,NTA,8137,7,Kew Gardens Hills,5063,13.56,2
+2009-13,NTA,8138,7,Pomonok-Flushing Heights-Hillcrest,6525,20.8,2
+2009-13,NTA,8141,7,Fresh Meadows-Utopia,2373,13.02,2
+2009-13,NTA,8142,7,Oakland Gardens,2413,8.63,1
+2009-13,NTA,8143,7,Bellerose,2499,9.37,1
+2009-13,NTA,8144,7,Glen Oaks-Floral Park-New Hyde Park,1328,5.99,1
+2009-13,NTA,8145,7,Douglas Manor-Douglaston-Little Neck,1764,7.04,1
+2009-13,NTA,8146,7,Bayside-Bayside Hills,3789,8.28,1
+2009-13,NTA,8147,7,Ft. Totten-Bay Terrace-Clearview,1299,5.85,1
+2009-13,NTA,8148,7,Auburndale,1634,7.9,1
+2009-13,NTA,8149,7,Whitestone,1735,5.35,1
+2009-13,NTA,8150,7,Elmhurst-Maspeth,3454,13.31,2
+2009-13,NTA,8151,7,Murray Hill,8077,15.72,2
+2009-13,NTA,8152,7,East Flushing,3859,14.13,2
+2009-13,NTA,8153,7,Woodhaven,9190,15.07,2
+2009-13,NTA,8154,7,Richmond Hill,10043,15.65,2
+2009-13,NTA,8155,7,South Ozone Park,9933,12.2,1
+2009-13,NTA,8156,7,Ozone Park,3333,14.86,2
+2009-13,NTA,8157,7,Lindenwood-Howard Beach,2170,7.74,1
+2009-13,NTA,8160,7,Kew Gardens,2273,9.82,1
+2009-13,NTA,8161,7,Jamaica,12899,24.28,3
+2009-13,NTA,8162,7,Queensboro Hill,2985,14.07,2
+2009-13,NTA,8163,7,Woodside,6174,14.2,2
+2009-13,NTA,8166,7,Laurelton,1542,5.94,1
+2009-13,NTA,8168,7,Queensbridge-Ravenswood-Long Island City,6100,32.65,3
+2009-13,NTA,8170,7,Astoria,12844,17.08,2
+2009-13,NTA,8171,7,Old Astoria,5450,19.39,2
+2009-13,NTA,8172,7,Steinway,6071,12.84,2
+2009-13,NTA,8176,7,Baisley Park,4606,12.99,2
+2009-13,NTA,8501,7,Annadale-Huguenot-Prince's Bay-Eltingville,1942,6.79,1
+2009-13,NTA,8505,7,New Springville-Bloomfield-Travis,3495,8.87,1
+2009-13,NTA,8507,7,Westerleigh,2161,8.89,1
+2009-13,NTA,8508,7,Grymes Hill-Clifton-Fox Hills,4463,20.6,2
+2009-13,NTA,8511,7,Charleston-Richmond Valley-Tottenville,1157,4.89,1
+2009-13,NTA,8512,7,Mariner's Harbor-Arlington-Port Ivory-Graniteville,5835,19.55,2
+2009-13,NTA,8514,7,Grasmere-Arrochar-Ft. Wadsworth,1805,12.11,1
+2009-13,NTA,8522,7,West New Brighton-New Brighton-St. George,8335,26.49,3
+2009-13,NTA,8524,7,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,2276,7.4,1
+2009-13,NTA,8525,7,Oakwood-Oakwood Beach,927,4.26,1
+2009-13,NTA,8528,7,Port Richmond,4343,23.36,2
+2009-13,NTA,8532,7,Rossville-Woodrow,1770,8.73,1
+2009-13,NTA,8535,7,New Brighton-Silver Lake,3254,17.88,2
+2009-13,NTA,8536,7,Old Town-Dongan Hills-South Beach,2812,11.34,1
+2009-13,NTA,8537,7,Stapleton-Rosebank,4934,18.76,2
+2009-13,NTA,8545,7,New Dorp-Midland Beach,1671,7.91,1
+2009-13,NTA,8548,7,Arden Heights,1406,5.72,1
+2009-13,NTA,8554,7,Great Kills,2370,5.45,1
+2009-13,CD,101,6,Financial District (CD1),11357,8.05,1
+2009-13,CD,102,6,Greenwich Village and Soho (CD2),11357,8.05,1
+2009-13,CD,103,6,Lower East Side and Chinatown (CD3),41448,26.03,3
+2009-13,CD,104,6,Clinton and Chelsea (CD4),17576,12.62,1
+2009-13,CD,105,6,Midtown (CD5),17576,12.62,1
+2009-13,CD,106,6,Stuyvesant Town and Turtle Bay (CD6),12878,9.02,1
+2009-13,CD,107,6,Upper West Side (CD7),19569,10.12,1
+2009-13,CD,108,6,Upper East Side (CD8),14438,6.78,1
+2009-13,CD,109,6,Morningside Heights and Hamilton Heights (CD9),32825,27.35,3
+2009-13,CD,110,6,Central Harlem (CD10),35630,28.12,3
+2009-13,CD,111,6,East Harlem (CD11),36569,31.46,3
+2009-13,CD,112,6,Washington Heights and Inwood (CD12),53858,25.96,3
+2009-13,CD,201,6,Mott Haven and Melrose (CD1),60491,41.97,3
+2009-13,CD,202,6,Hunts Point and Longwood (CD2),60491,41.97,3
+2009-13,CD,203,6,Morrisania and Crotona (CD3),66693,42.87,3
+2009-13,CD,204,6,Highbridge and Concourse (CD4),49676,36.13,3
+2009-13,CD,205,6,Fordham and University Heights (CD5),53913,40.89,3
+2009-13,CD,206,6,Belmont and East Tremont (CD6),66693,42.87,3
+2009-13,CD,207,6,Kingsbridge Heights and Bedford (CD7),38991,31.77,3
+2009-13,CD,208,6,Riverdale and Fieldston (CD8),17084,16.8,2
+2009-13,CD,209,6,Parkchester and Soundview (CD9),52168,28.45,3
+2009-13,CD,210,6,Throgs Neck and Co-op City (CD10),15202,12.98,1
+2009-13,CD,211,6,Morris Park and Bronxdale (CD11),23876,19.2,2
+2009-13,CD,212,6,Williamsbridge and Baychester (CD12),27371,19.26,2
+2009-13,CD,301,6,Greenpoint and Williamsburg (CD1),42037,28.71,3
+2009-13,CD,302,6,Fort Greene and Brooklyn Heights (CD2),23474,19.41,2
+2009-13,CD,303,6,Bedford Stuyvesant (CD3),43803,32.48,3
+2009-13,CD,304,6,Bushwick (CD4),41424,30.26,3
+2009-13,CD,305,6,East New York and Starrett City (CD5),48622,32.11,3
+2009-13,CD,306,6,Park Slope and Carroll Gardens (CD6),11566,10.27,1
+2009-13,CD,307,6,Sunset Park (CD7),41399,28.01,3
+2009-13,CD,308,6,Crown Heights and Prospect Heights (CD8),32733,26.74,3
+2009-13,CD,309,6,South Crown Heights and Lefferts Gardens (CD9),24741,22.75,2
+2009-13,CD,310,6,Bay Ridge and Dyker Heights (CD10),20536,15.75,2
+2009-13,CD,311,6,Bensonhurst (CD11),29988,16.87,2
+2009-13,CD,312,6,Borough Park (CD12),50999,31.41,3
+2009-13,CD,313,6,Coney Island (CD13),26706,25.62,2
+2009-13,CD,314,6,Flatbush and Midwood (CD14),34273,22.02,2
+2009-13,CD,315,6,Sheepshead Bay (CD15),22421,15.32,2
+2009-13,CD,316,6,Brownsville (CD16),43447,36.63,3
+2009-13,CD,317,6,East Flatbush (CD17),22049,16.05,2
+2009-13,CD,318,6,Flatlands and Canarsie (CD18),23160,11.32,1
+2009-13,CD,401,6,Long Island City and Astoria (CD1),30465,18,2
+2009-13,CD,402,6,Woodside and Sunnyside (CD2),17412,13.37,1
+2009-13,CD,403,6,Jackson Heights (CD3),36765,20.48,2
+2009-13,CD,404,6,Elmhurst and Corona (CD4),31575,22.36,2
+2009-13,CD,405,6,Ridgewood and Maspeth (CD5),24357,14.5,1
+2009-13,CD,406,6,Rego Park and Forest Hills (CD6),10916,9.77,1
+2009-13,CD,407,6,Flushing and Whitestone (CD7),35947,14.61,1
+2009-13,CD,408,6,Hillcrest and Fresh Meadows (CD8),23044,15.38,2
+2009-13,CD,409,6,Kew Gardens and Woodhaven (CD9),21506,14.49,1
+2009-13,CD,410,6,South Ozone Park and Howard Beach (CD10),15436,11.71,1
+2009-13,CD,411,6,Bayside and Little Neck (CD11),9608,8.04,1
+2009-13,CD,412,6,Jamaica and Hollis (CD12),36901,16.35,2
+2009-13,CD,413,6,Queens Village (CD13),16617,8.33,1
+2009-13,CD,414,6,Rockaway and Broad Channel (CD14),23361,20.85,2
+2009-13,CD,501,6,St. George and Stapleton (CD1),33325,19.56,2
+2009-13,CD,502,6,South Beach and Willowbrook (CD2),12059,9.22,1
+2009-13,CD,503,6,Tottenville and Great Kills (CD3),9572,5.89,1
+2009-13,Subboro,1,5,Mott Haven/Hunts Point,60491,41.97,3
+2009-13,Subboro,2,5,Morrisania/East Tremont,66693,42.87,3
+2009-13,Subboro,3,5,Highbridge/South Concourse,49676,36.13,3
+2009-13,Subboro,4,5,University Heights/Fordham,53913,40.89,3
+2009-13,Subboro,5,5,Kingsbridge Heights/Mosholu,38991,31.77,3
+2009-13,Subboro,6,5,Riverdale/Kingsbridge,17084,16.8,2
+2009-13,Subboro,7,5,Soundview/Parkchester,52168,28.45,3
+2009-13,Subboro,8,5,Throgs Neck/Co-op City,15202,12.98,1
+2009-13,Subboro,9,5,Pelham Parkway,23876,19.2,2
+2009-13,Subboro,10,5,Williamsbridge/Baychester,27371,19.26,2
+2009-13,Subboro,11,5,Williamsburg/Greenpoint,42037,28.71,3
+2009-13,Subboro,12,5,Brooklyn Heights/Fort Greene,23474,19.41,2
+2009-13,Subboro,13,5,Bedford Stuyvesant,43803,32.48,3
+2009-13,Subboro,14,5,Bushwick,41424,30.26,3
+2009-13,Subboro,15,5,East New York/Starret City,48622,32.11,3
+2009-13,Subboro,16,5,Park Slope/Carroll Gardens,11566,10.27,1
+2009-13,Subboro,17,5,Sunset Park,41399,28.01,3
+2009-13,Subboro,18,5,N. Crown Heights/Prospect Heights,32733,26.74,3
+2009-13,Subboro,19,5,South Crown Heights,24741,22.75,2
+2009-13,Subboro,20,5,Bay Ridge,20536,15.75,2
+2009-13,Subboro,21,5,Bensonhurst,29988,16.87,2
+2009-13,Subboro,22,5,Borough Park,50999,31.41,3
+2009-13,Subboro,23,5,Coney Island,26706,25.62,2
+2009-13,Subboro,24,5,Flatbush,34273,22.02,2
+2009-13,Subboro,25,5,Sheepshead Bay/Gravesend,22421,15.32,2
+2009-13,Subboro,26,5,Brownsville/Ocean Hill,43447,36.63,3
+2009-13,Subboro,27,5,East Flatbush,22049,16.05,2
+2009-13,Subboro,28,5,Flatlands/Canarsie,23160,11.32,1
+2009-13,Subboro,29,5,Greenwich Village/Financial District,11357,8.05,1
+2009-13,Subboro,30,5,Lower East Side/Chinatown,41448,26.03,3
+2009-13,Subboro,31,5,Chelsea/Clinton/Midtown,17576,12.62,1
+2009-13,Subboro,32,5,Stuyvesant Town/Turtle Bay,12878,9.02,1
+2009-13,Subboro,33,5,Upper West Side,19569,10.12,1
+2009-13,Subboro,34,5,Upper East Side,14438,6.78,1
+2009-13,Subboro,35,5,Morningside Heights/Hamilton Heights,32825,27.35,3
+2009-13,Subboro,36,5,Central Harlem,35630,28.12,3
+2009-13,Subboro,37,5,East Harlem,36569,31.46,3
+2009-13,Subboro,38,5,Washington Heights/Inwood,53858,25.96,3
+2009-13,Subboro,39,5,Astoria,30465,18,2
+2009-13,Subboro,40,5,Sunnyside/Woodside,17412,13.37,1
+2009-13,Subboro,41,5,Jackson Heights,36765,20.48,2
+2009-13,Subboro,42,5,Elmhurst/Corona,31575,22.36,2
+2009-13,Subboro,43,5,Middle Village/Ridgewood,24357,14.5,1
+2009-13,Subboro,44,5,Forest Hills/Rego Park,10916,9.77,1
+2009-13,Subboro,45,5,Flushing/Whitestone,35947,14.61,1
+2009-13,Subboro,46,5,Hillcrest/Fresh Meadows,23044,15.38,2
+2009-13,Subboro,47,5,Kew Gardens/Woodhaven,21506,14.49,1
+2009-13,Subboro,48,5,Howard Beach/South Ozone Park,15436,11.71,1
+2009-13,Subboro,49,5,Bayside/Little Neck,9608,8.04,1
+2009-13,Subboro,50,5,Jamaica,36901,16.35,2
+2009-13,Subboro,51,5,Bellerose/Rosedale,16617,8.33,1
+2009-13,Subboro,52,5,Rockaways,23361,20.85,2
+2009-13,Subboro,53,5,North Shore,33325,19.56,2
+2009-13,Subboro,54,5,Mid Island,12059,9.22,1
+2009-13,Subboro,55,5,South Shore,9572,5.89,1
+2009-13,UHF42,101,4,Kingsbridge - Riverdale,13604,15.63,2
+2009-13,UHF42,102,4,Northeast Bronx,30221,15.42,2
+2009-13,UHF42,103,4,Fordham - Bronx Pk,76284,31.81,3
+2009-13,UHF42,104,4,Pelham - Throgs Neck,69708,23.1,3
+2009-13,UHF42,105,4,Crotona -Tremont,82665,40.76,3
+2009-13,UHF42,106,4,High Bridge - Morrisania,79874,38.54,3
+2009-13,UHF42,107,4,Hunts Point - Mott Haven,56177,41.69,3
+2009-13,UHF42,201,4,Greenpoint,35607,28.03,3
+2009-13,UHF42,202,4,Downtown - Heights - Slope,39556,16.93,2
+2009-13,UHF42,203,4,Bedford Stuyvesant - Crown Heights,87731,27.57,3
+2009-13,UHF42,204,4,East New York,61136,33.17,3
+2009-13,UHF42,205,4,Sunset Park,38987,30.25,3
+2009-13,UHF42,206,4,Borough Park,86311,25.73,3
+2009-13,UHF42,207,4,East Flatbush - Flatbush,55807,18.55,2
+2009-13,UHF42,208,4,Canarsie - Flatlands,25749,12.65,1
+2009-13,UHF42,209,4,Bensonhurst - Bay Ridge,29908,15.04,2
+2009-13,UHF42,210,4,Coney Island - Sheepshead Bay,52212,19.22,2
+2009-13,UHF42,211,4,Williamsburg - Bushwick,70374,32.41,3
+2009-13,UHF42,301,4,Washington Heights,67762,26.09,3
+2009-13,UHF42,302,4,Central Harlem - Morningside Heights,47166,28.44,3
+2009-13,UHF42,303,4,East Harlem,34548,32.01,3
+2009-13,UHF42,304,4,Upper West Side,25503,11.8,1
+2009-13,UHF42,305,4,Upper East Side,14516,6.8,1
+2009-13,UHF42,306,4,Chelsea - Clinton,16914,12.1,1
+2009-13,UHF42,307,4,Gramercy Park - Murray Hill,11418,9.21,1
+2009-13,UHF42,308,4,Greenwich Village - SoHo,7764,9.85,1
+2009-13,UHF42,309,4,Union Square - Lower East Side,41829,21.67,2
+2009-13,UHF42,310,4,Lower Manhattan,5609,10.92,1
+2009-13,UHF42,401,4,Long Island City - Astoria,32827,16.47,2
+2009-13,UHF42,402,4,West Queens,86931,19.13,2
+2009-13,UHF42,403,4,Flushing - Clearview,36731,14.2,1
+2009-13,UHF42,404,4,Bayside - Little Neck,7630,8.49,1
+2009-13,UHF42,405,4,Ridgewood - Forest Hills,31732,12.9,1
+2009-13,UHF42,406,4,Fresh Meadows,14398,15.08,2
+2009-13,UHF42,407,4,Southwest Queens,36826,13.14,1
+2009-13,UHF42,408,4,Jamaica,46624,16.05,2
+2009-13,UHF42,409,4,Southeast Queens,18847,7.05,1
+2009-13,UHF42,410,4,Rockaways,23361,20.85,2
+2009-13,UHF42,501,4,Port Richmond,15111,22.77,2
+2009-13,UHF42,502,4,Stapleton - St. George,20398,17,2
+2009-13,UHF42,503,4,Willowbrook,7454,8.65,1
+2009-13,UHF42,504,4,South Beach - Tottenville,11993,6.28,1
+2009-13,Borough,1,1,Bronx,405465,29.8,
+2009-13,Borough,2,1,Brooklyn,583378,23.15,
+2009-13,Borough,3,1,Manhattan,276148,17.71,
+2009-13,Borough,4,1,Queens,333910,14.96,
+2009-13,Borough,5,1,Staten Island,54956,11.85,
+2009-13,Citywide,1,0,New York City,1653857,20.33,
+2008-12,NTA,501,7,Claremont-Bathgate,14089,46.67,
+2008-12,NTA,503,7,Eastchester-Edenwald-Baychester,6771,18.68,
+2008-12,NTA,505,7,Bedford Park-Fordham North,17301,33.03,
+2008-12,NTA,506,7,Belmont,10981,47.74,
+2008-12,NTA,507,7,Bronxdale,7977,23.94,
+2008-12,NTA,508,7,West Farms-Bronx River,11184,31.75,
+2008-12,NTA,509,7,Soundview-Castle Hill-Clason Point-Harding Park,12669,23.69,
+2008-12,NTA,510,7,Pelham Bay-Country Club-City Island,2657,10.27,
+2008-12,NTA,513,7,Co-op City,5235,12.26,
+2008-12,NTA,514,7,East Concourse-Concourse Village,21370,34.38,
+2008-12,NTA,517,7,East Tremont,18400,44.8,
+2008-12,NTA,522,7,North Riverdale-Fieldston-Riverdale,1582,6.64,
+2008-12,NTA,526,7,Highbridge,14117,38.48,
+2008-12,NTA,527,7,Hunts Point,11929,45.05,
+2008-12,NTA,528,7,Van Cortlandt Village,12422,25.55,
+2008-12,NTA,529,7,Spuyten Duyvil-Kingsbridge,3134,10.92,
+2008-12,NTA,530,7,Kingsbridge Heights,9662,32.52,
+2008-12,NTA,531,7,Allerton-Pelham Gardens,4284,13.53,
+2008-12,NTA,533,7,Longwood,10009,39.87,
+2008-12,NTA,534,7,Melrose South-Mott Haven North,15825,41.06,
+2008-12,NTA,535,7,Morrisania-Melrose,13977,37.21,
+2008-12,NTA,536,7,University Heights-Morris Heights,20369,38.32,
+2008-12,NTA,537,7,Van Nest-Morris Park-Westchester Square,5823,23.13,
+2008-12,NTA,539,7,Mott Haven-Port Morris,20270,43.22,
+2008-12,NTA,540,7,Fordham South,11596,44.54,
+2008-12,NTA,541,7,Mount Hope,19362,37.49,
+2008-12,NTA,543,7,Norwood,11083,27.3,
+2008-12,NTA,544,7,Williamsbridge-Olinville,13046,21.5,
+2008-12,NTA,546,7,Parkchester,5096,16.79,
+2008-12,NTA,549,7,Pelham Parkway,4797,16.19,
+2008-12,NTA,552,7,Schuylerville-Throgs Neck-Edgewater Park,7079,15.74,
+2008-12,NTA,555,7,Soundview-Bruckner,12635,35.59,
+2008-12,NTA,559,7,Westchester-Unionport,5920,21.73,
+2008-12,NTA,562,7,Woodlawn-Wakefield,6644,14.54,
+2008-12,NTA,563,7,West Concourse,14327,36.31,
+2008-12,NTA,575,7,Crotona Park East,8520,42.09,
+2008-12,NTA,4709,7,Brooklyn Heights-Cobble Hill,2214,9.79,
+2008-12,NTA,4717,7,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,9866,16.11,
+2008-12,NTA,4719,7,Brighton Beach,8477,26.94,
+2008-12,NTA,4721,7,Seagate-Coney Island,9549,32.49,
+2008-12,NTA,4723,7,West Brighton,1820,11.76,
+2008-12,NTA,4725,7,Homecrest,5853,14.02,
+2008-12,NTA,4726,7,Gravesend,5556,20.05,
+2008-12,NTA,4727,7,Bath Beach,4542,15.61,
+2008-12,NTA,4728,7,Bensonhurst West,15495,17.93,
+2008-12,NTA,4729,7,Bensonhurst East,9822,16.11,
+2008-12,NTA,4730,7,Dyker Heights,6448,14.37,
+2008-12,NTA,4731,7,Bay Ridge,12890,15.41,
+2008-12,NTA,4732,7,Sunset Park West,13848,26.43,
+2008-12,NTA,4733,7,Carroll Gardens-Columbia Street-Red Hook,5814,14.94,
+2008-12,NTA,4734,7,Sunset Park East,22037,31.04,
+2008-12,NTA,4735,7,Stuyvesant Heights,17983,28.09,
+2008-12,NTA,4737,7,Park Slope-Gowanus,5347,7.36,
+2008-12,NTA,4738,7,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,7401,21.45,
+2008-12,NTA,4740,7,Windsor Terrace,2793,12.38,
+2008-12,NTA,4741,7,Kensington-Ocean Parkway,9475,26.34,
+2008-12,NTA,4742,7,Flatbush,23628,22.58,
+2008-12,NTA,4743,7,Midwood,10600,20.74,
+2008-12,NTA,4744,7,Madison,4638,11.6,
+2008-12,NTA,4745,7,Georgetown-Marine Park-Bergen Beach-Mill Basin,3805,7.87,
+2008-12,NTA,4746,7,Ocean Parkway South,2618,13.41,
+2008-12,NTA,4750,7,Canarsie,12573,14.69,
+2008-12,NTA,4758,7,Flatlands,7947,11.24,
+2008-12,NTA,4760,7,Prospect Lefferts Gardens-Wingate,14732,21.47,
+2008-12,NTA,4761,7,Crown Heights North,28565,28.79,
+2008-12,NTA,4763,7,Crown Heights South,9743,23.77,
+2008-12,NTA,4764,7,Prospect Heights,2303,11.29,
+2008-12,NTA,4768,7,Fort Greene,5836,23.05,
+2008-12,NTA,4769,7,Clinton Hill,7204,20.66,
+2008-12,NTA,4772,7,Williamsburg,18239,55.9,
+2008-12,NTA,4773,7,North Side-South Side,12346,26.86,
+2008-12,NTA,4775,7,Bedford,23550,33.83,
+2008-12,NTA,4776,7,Greenpoint,3850,12.23,
+2008-12,NTA,4777,7,Bushwick North,20259,32.85,
+2008-12,NTA,4778,7,Bushwick South,20943,29.67,
+2008-12,NTA,4779,7,Ocean Hill,9529,30.04,
+2008-12,NTA,4781,7,Brownsville,21755,39.73,
+2008-12,NTA,4782,7,East New York,30471,33.35,
+2008-12,NTA,4783,7,Cypress Hills-City Line,13220,27.89,
+2008-12,NTA,4785,7,East New York (Pennsylvania Ave),11453,39,
+2008-12,NTA,4788,7,Borough Park,36334,34.41,
+2008-12,NTA,4790,7,East Williamsburg,7488,22.59,
+2008-12,NTA,4791,7,East Flatbush-Farragut,6055,11.51,
+2008-12,NTA,4793,7,Starrett City,4030,31.45,
+2008-12,NTA,4795,7,Erasmus,5758,19.42,
+2008-12,NTA,4796,7,Rugby-Remsen Village,8900,15.89,
+2008-12,NTA,6101,7,Marble Hill-Inwood,12161,24.24,
+2008-12,NTA,6103,7,Central Harlem North-Polo Grounds,22059,28.4,
+2008-12,NTA,6104,7,Hamilton Heights,14438,28.16,
+2008-12,NTA,6106,7,Manhattanville,8540,36.12,
+2008-12,NTA,6109,7,Morningside Heights,10397,23.65,
+2008-12,NTA,6111,7,Central Harlem South,12352,26.64,
+2008-12,NTA,6112,7,Upper West Side,14605,10.88,
+2008-12,NTA,6113,7,Hudson Yards-Chelsea-Flatiron-Union Square,7845,11.65,
+2008-12,NTA,6114,7,Lincoln Square,5547,9.45,
+2008-12,NTA,6115,7,Clinton,5408,12.64,
+2008-12,NTA,6117,7,Midtown-Midtown South,3423,12.95,
+2008-12,NTA,6119,7,Turtle Bay-East Midtown,2606,5.41,
+2008-12,NTA,6120,7,Murray Hill-Kips Bay,5124,10.75,
+2008-12,NTA,6121,7,Gramercy,2642,10.7,
+2008-12,NTA,6122,7,East Village,6441,16.28,
+2008-12,NTA,6123,7,West Village,4336,6.92,
+2008-12,NTA,6124,7,SoHo-TriBeCa-Civic Center-Little Italy,4443,11.69,
+2008-12,NTA,6125,7,Battery Park City-Lower Manhattan,2686,7.44,
+2008-12,NTA,6127,7,Chinatown,13332,29.67,
+2008-12,NTA,6128,7,Lower East Side,20897,28.32,
+2008-12,NTA,6131,7,Lenox Hill-Roosevelt Island,6110,7.75,
+2008-12,NTA,6132,7,Yorkville,5424,7.02,
+2008-12,NTA,6133,7,East Harlem South,14421,25,
+2008-12,NTA,6134,7,East Harlem North,20716,34.6,
+2008-12,NTA,6135,7,Washington Heights North,15210,22.11,
+2008-12,NTA,6136,7,Washington Heights South,24389,27.6,
+2008-12,NTA,6140,7,Upper East Side-Carnegie Hill,2995,5.1,
+2008-12,NTA,6150,7,Stuyvesant Town-Cooper Village,2273,10.4,
+2008-12,NTA,8101,7,South Jamaica,8249,22.55,
+2008-12,NTA,8102,7,Springfield Gardens North,3435,12.91,
+2008-12,NTA,8103,7,Springfield Gardens South-Brookville,2214,11.39,
+2008-12,NTA,8105,7,Rosedale,1960,6.97,
+2008-12,NTA,8106,7,Jamaica Estates-Holliswood,2084,8.53,
+2008-12,NTA,8107,7,Hollis,2809,13.33,
+2008-12,NTA,8108,7,St. Albans,4059,8.07,
+2008-12,NTA,8110,7,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,1851,6.43,
+2008-12,NTA,8112,7,Hammels-Arverne-Edgemere,10258,29.97,
+2008-12,NTA,8115,7,Far Rockaway-Bayswater,11747,24.25,
+2008-12,NTA,8117,7,Forest Hills,7587,9.02,
+2008-12,NTA,8118,7,Rego Park,2679,9.75,
+2008-12,NTA,8119,7,Glendale,3464,10.92,
+2008-12,NTA,8120,7,Ridgewood,14365,20.5,
+2008-12,NTA,8121,7,Middle Village,2991,7.73,
+2008-12,NTA,8122,7,Flushing,14670,21.48,
+2008-12,NTA,8123,7,College Point,2059,8.76,
+2008-12,NTA,8125,7,Corona,11348,21.32,
+2008-12,NTA,8126,7,North Corona,11955,24,
+2008-12,NTA,8127,7,East Elmhurst,4201,18.45,
+2008-12,NTA,8128,7,Jackson Heights,18935,18.11,
+2008-12,NTA,8129,7,Elmhurst,18172,21.46,
+2008-12,NTA,8130,7,Maspeth,2807,10.24,
+2008-12,NTA,8131,7,Hunters Point-Sunnyside-West Maspeth,7085,11.85,
+2008-12,NTA,8133,7,Cambria Heights,1386,6.87,
+2008-12,NTA,8134,7,Queens Village,5784,10.14,
+2008-12,NTA,8135,7,Briarwood-Jamaica Hills,5193,13.9,
+2008-12,NTA,8137,7,Kew Gardens Hills,5075,14.11,
+2008-12,NTA,8138,7,Pomonok-Flushing Heights-Hillcrest,5544,17.4,
+2008-12,NTA,8141,7,Fresh Meadows-Utopia,2119,11.66,
+2008-12,NTA,8142,7,Oakland Gardens,2726,9.71,
+2008-12,NTA,8143,7,Bellerose,1842,7.19,
+2008-12,NTA,8144,7,Glen Oaks-Floral Park-New Hyde Park,1212,5.51,
+2008-12,NTA,8145,7,Douglas Manor-Douglaston-Little Neck,1502,5.89,
+2008-12,NTA,8146,7,Bayside-Bayside Hills,3257,7.24,
+2008-12,NTA,8147,7,Ft. Totten-Bay Terrace-Clearview,1223,5.33,
+2008-12,NTA,8148,7,Auburndale,1738,8.41,
+2008-12,NTA,8149,7,Whitestone,1726,5.38,
+2008-12,NTA,8150,7,Elmhurst-Maspeth,3027,12.09,
+2008-12,NTA,8151,7,Murray Hill,6688,13.17,
+2008-12,NTA,8152,7,East Flushing,3726,13.39,
+2008-12,NTA,8153,7,Woodhaven,8589,14.47,
+2008-12,NTA,8154,7,Richmond Hill,9317,14.4,
+2008-12,NTA,8155,7,South Ozone Park,10279,12.88,
+2008-12,NTA,8156,7,Ozone Park,3236,14.72,
+2008-12,NTA,8157,7,Lindenwood-Howard Beach,2566,8.93,
+2008-12,NTA,8160,7,Kew Gardens,2566,11.24,
+2008-12,NTA,8161,7,Jamaica,11740,23.41,
+2008-12,NTA,8162,7,Queensboro Hill,2794,13.35,
+2008-12,NTA,8163,7,Woodside,5792,13,
+2008-12,NTA,8166,7,Laurelton,1659,6.63,
+2008-12,NTA,8168,7,Queensbridge-Ravenswood-Long Island City,5899,31.88,
+2008-12,NTA,8170,7,Astoria,12142,16.18,
+2008-12,NTA,8171,7,Old Astoria,4672,17.74,
+2008-12,NTA,8172,7,Steinway,6573,13.42,
+2008-12,NTA,8176,7,Baisley Park,4940,14.48,
+2008-12,NTA,8501,7,Annadale-Huguenot-Prince's Bay-Eltingville,1755,6.12,
+2008-12,NTA,8505,7,New Springville-Bloomfield-Travis,3141,8.15,
+2008-12,NTA,8507,7,Westerleigh,2061,8.53,
+2008-12,NTA,8508,7,Grymes Hill-Clifton-Fox Hills,4716,21.61,
+2008-12,NTA,8511,7,Charleston-Richmond Valley-Tottenville,965,4.17,
+2008-12,NTA,8512,7,Mariner's Harbor-Arlington-Port Ivory-Graniteville,5411,17.83,
+2008-12,NTA,8514,7,Grasmere-Arrochar-Ft. Wadsworth,1708,11.71,
+2008-12,NTA,8522,7,West New Brighton-New Brighton-St. George,8422,27.38,
+2008-12,NTA,8524,7,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,2407,7.68,
+2008-12,NTA,8525,7,Oakwood-Oakwood Beach,999,4.53,
+2008-12,NTA,8528,7,Port Richmond,4478,23.35,
+2008-12,NTA,8532,7,Rossville-Woodrow,1615,8.12,
+2008-12,NTA,8535,7,New Brighton-Silver Lake,2795,15.61,
+2008-12,NTA,8536,7,Old Town-Dongan Hills-South Beach,2139,8.76,
+2008-12,NTA,8537,7,Stapleton-Rosebank,4792,19.16,
+2008-12,NTA,8545,7,New Dorp-Midland Beach,1461,6.89,
+2008-12,NTA,8548,7,Arden Heights,1125,4.54,
+2008-12,NTA,8554,7,Great Kills,2247,5.17,
+2008-12,CD,101,6,Financial District (CD1),11465,8.38,
+2008-12,CD,102,6,Greenwich Village and Soho (CD2),11465,8.38,
+2008-12,CD,103,6,Lower East Side and Chinatown (CD3),40670,25.69,
+2008-12,CD,104,6,Clinton and Chelsea (CD4),16676,12.21,
+2008-12,CD,105,6,Midtown (CD5),16676,12.21,
+2008-12,CD,106,6,Stuyvesant Town and Turtle Bay (CD6),12645,8.88,
+2008-12,CD,107,6,Upper West Side (CD7),20154,10.45,
+2008-12,CD,108,6,Upper East Side (CD8),14529,6.76,
+2008-12,CD,109,6,Morningside Heights and Hamilton Heights (CD9),33375,28.08,
+2008-12,CD,110,6,Central Harlem (CD10),34411,27.75,
+2008-12,CD,111,6,East Harlem (CD11),36311,30.54,
+2008-12,CD,112,6,Washington Heights and Inwood (CD12),51760,24.97,
+2008-12,CD,201,6,Mott Haven and Melrose (CD1),60552,42.7,
+2008-12,CD,202,6,Hunts Point and Longwood (CD2),60552,42.7,
+2008-12,CD,203,6,Morrisania and Crotona (CD3),66242,43.23,
+2008-12,CD,204,6,Highbridge and Concourse (CD4),49816,36.02,
+2008-12,CD,205,6,Fordham and University Heights (CD5),51327,39.23,
+2008-12,CD,206,6,Belmont and East Tremont (CD6),66242,43.23,
+2008-12,CD,207,6,Kingsbridge Heights and Bedford (CD7),38046,31.01,
+2008-12,CD,208,6,Riverdale and Fieldston (CD8),17138,16.95,
+2008-12,CD,209,6,Parkchester and Soundview (CD9),47504,26.13,
+2008-12,CD,210,6,Throgs Neck and Co-op City (CD10),14971,13.17,
+2008-12,CD,211,6,Morris Park and Bronxdale (CD11),23775,19.18,
+2008-12,CD,212,6,Williamsbridge and Baychester (CD12),26461,18.55,
+2008-12,CD,301,6,Greenpoint and Williamsburg (CD1),41923,29.27,
+2008-12,CD,302,6,Fort Greene and Brooklyn Heights (CD2),22711,19.32,
+2008-12,CD,303,6,Bedford Stuyvesant (CD3),41533,31.08,
+2008-12,CD,304,6,Bushwick (CD4),41202,31.15,
+2008-12,CD,305,6,East New York and Starrett City (CD5),47721,31.48,
+2008-12,CD,306,6,Park Slope and Carroll Gardens (CD6),11161,10.01,
+2008-12,CD,307,6,Sunset Park (CD7),38678,26.5,
+2008-12,CD,308,6,Crown Heights and Prospect Heights (CD8),30868,25.8,
+2008-12,CD,309,6,South Crown Heights and Lefferts Gardens (CD9),24475,22.33,
+2008-12,CD,310,6,Bay Ridge and Dyker Heights (CD10),19338,15.05,
+2008-12,CD,311,6,Bensonhurst (CD11),29859,16.92,
+2008-12,CD,312,6,Borough Park (CD12),48427,30.06,
+2008-12,CD,313,6,Coney Island (CD13),25402,24.42,
+2008-12,CD,314,6,Flatbush and Midwood (CD14),34228,21.98,
+2008-12,CD,315,6,Sheepshead Bay (CD15),20357,14.24,
+2008-12,CD,316,6,Brownsville (CD16),42737,36.89,
+2008-12,CD,317,6,East Flatbush (CD17),20713,14.98,
+2008-12,CD,318,6,Flatlands and Canarsie (CD18),24431,11.93,
+2008-12,CD,401,6,Long Island City and Astoria (CD1),29286,17.34,
+2008-12,CD,402,6,Woodside and Sunnyside (CD2),15904,12.29,
+2008-12,CD,403,6,Jackson Heights (CD3),35091,19.81,
+2008-12,CD,404,6,Elmhurst and Corona (CD4),29520,21.4,
+2008-12,CD,405,6,Ridgewood and Maspeth (CD5),23627,14.06,
+2008-12,CD,406,6,Rego Park and Forest Hills (CD6),10266,9.2,
+2008-12,CD,407,6,Flushing and Whitestone (CD7),32886,13.35,
+2008-12,CD,408,6,Hillcrest and Fresh Meadows (CD8),20015,13.54,
+2008-12,CD,409,6,Kew Gardens and Woodhaven (CD9),20472,13.93,
+2008-12,CD,410,6,South Ozone Park and Howard Beach (CD10),16081,12.32,
+2008-12,CD,411,6,Bayside and Little Neck (CD11),9238,7.75,
+2008-12,CD,412,6,Jamaica and Hollis (CD12),35232,16.1,
+2008-12,CD,413,6,Queens Village (CD13),16057,8.13,
+2008-12,CD,414,6,Rockaway and Broad Channel (CD14),23856,21.4,
+2008-12,CD,501,6,St. George and Stapleton (CD1),32675,19.31,
+2008-12,CD,502,6,South Beach and Willowbrook (CD2),10856,8.36,
+2008-12,CD,503,6,Tottenville and Great Kills (CD3),8706,5.37,
+2008-12,Subboro,1,5,Mott Haven/Hunts Point,60552,42.7,
+2008-12,Subboro,2,5,Morrisania/East Tremont,66242,43.23,
+2008-12,Subboro,3,5,Highbridge/South Concourse,49816,36.02,
+2008-12,Subboro,4,5,University Heights/Fordham,51327,39.23,
+2008-12,Subboro,5,5,Kingsbridge Heights/Mosholu,38046,31.01,
+2008-12,Subboro,6,5,Riverdale/Kingsbridge,17138,16.95,
+2008-12,Subboro,7,5,Soundview/Parkchester,47504,26.13,
+2008-12,Subboro,8,5,Throgs Neck/Co-op City,14971,13.17,
+2008-12,Subboro,9,5,Pelham Parkway,23775,19.18,
+2008-12,Subboro,10,5,Williamsbridge/Baychester,26461,18.55,
+2008-12,Subboro,11,5,Williamsburg/Greenpoint,41923,29.27,
+2008-12,Subboro,12,5,Brooklyn Heights/Fort Greene,22711,19.32,
+2008-12,Subboro,13,5,Bedford Stuyvesant,41533,31.08,
+2008-12,Subboro,14,5,Bushwick,41202,31.15,
+2008-12,Subboro,15,5,East New York/Starret City,47721,31.48,
+2008-12,Subboro,16,5,Park Slope/Carroll Gardens,11161,10.01,
+2008-12,Subboro,17,5,Sunset Park,38678,26.5,
+2008-12,Subboro,18,5,N. Crown Heights/Prospect Heights,30868,25.8,
+2008-12,Subboro,19,5,South Crown Heights,24475,22.33,
+2008-12,Subboro,20,5,Bay Ridge,19338,15.05,
+2008-12,Subboro,21,5,Bensonhurst,29859,16.92,
+2008-12,Subboro,22,5,Borough Park,48427,30.06,
+2008-12,Subboro,23,5,Coney Island,25402,24.42,
+2008-12,Subboro,24,5,Flatbush,34228,21.98,
+2008-12,Subboro,25,5,Sheepshead Bay/Gravesend,20357,14.24,
+2008-12,Subboro,26,5,Brownsville/Ocean Hill,42737,36.89,
+2008-12,Subboro,27,5,East Flatbush,20713,14.98,
+2008-12,Subboro,28,5,Flatlands/Canarsie,24431,11.93,
+2008-12,Subboro,29,5,Greenwich Village/Financial District,11465,8.38,
+2008-12,Subboro,30,5,Lower East Side/Chinatown,40670,25.69,
+2008-12,Subboro,31,5,Chelsea/Clinton/Midtown,16676,12.21,
+2008-12,Subboro,32,5,Stuyvesant Town/Turtle Bay,12645,8.88,
+2008-12,Subboro,33,5,Upper West Side,20154,10.45,
+2008-12,Subboro,34,5,Upper East Side,14529,6.76,
+2008-12,Subboro,35,5,Morningside Heights/Hamilton Heights,33375,28.08,
+2008-12,Subboro,36,5,Central Harlem,34411,27.75,
+2008-12,Subboro,37,5,East Harlem,36311,30.54,
+2008-12,Subboro,38,5,Washington Heights/Inwood,51760,24.97,
+2008-12,Subboro,39,5,Astoria,29286,17.34,
+2008-12,Subboro,40,5,Sunnyside/Woodside,15904,12.29,
+2008-12,Subboro,41,5,Jackson Heights,35091,19.81,
+2008-12,Subboro,42,5,Elmhurst/Corona,29520,21.4,
+2008-12,Subboro,43,5,Middle Village/Ridgewood,23627,14.06,
+2008-12,Subboro,44,5,Forest Hills/Rego Park,10266,9.2,
+2008-12,Subboro,45,5,Flushing/Whitestone,32886,13.35,
+2008-12,Subboro,46,5,Hillcrest/Fresh Meadows,20015,13.54,
+2008-12,Subboro,47,5,Kew Gardens/Woodhaven,20472,13.93,
+2008-12,Subboro,48,5,Howard Beach/South Ozone Park,16081,12.32,
+2008-12,Subboro,49,5,Bayside/Little Neck,9238,7.75,
+2008-12,Subboro,50,5,Jamaica,35232,16.1,
+2008-12,Subboro,51,5,Bellerose/Rosedale,16057,8.13,
+2008-12,Subboro,52,5,Rockaways,23856,21.4,
+2008-12,Subboro,53,5,North Shore,32675,19.31,
+2008-12,Subboro,54,5,Mid Island,10856,8.36,
+2008-12,Subboro,55,5,South Shore,8706,5.37,
+2008-12,UHF42,101,4,Kingsbridge - Riverdale,12965,15.1,
+2008-12,UHF42,102,4,Northeast Bronx,30278,15.44,
+2008-12,UHF42,103,4,Fordham - Bronx Pk,74772,31.29,
+2008-12,UHF42,104,4,Pelham - Throgs Neck,64919,21.8,
+2008-12,UHF42,105,4,Crotona -Tremont,79222,39.35,
+2008-12,UHF42,106,4,High Bridge - Morrisania,78925,38.3,
+2008-12,UHF42,107,4,Hunts Point - Mott Haven,57455,43.09,
+2008-12,UHF42,201,4,Greenpoint,35354,28.54,
+2008-12,UHF42,202,4,Downtown - Heights - Slope,36997,16.32,
+2008-12,UHF42,203,4,Bedford Stuyvesant - Crown Heights,84851,27.07,
+2008-12,UHF42,204,4,East New York,60560,32.76,
+2008-12,UHF42,205,4,Sunset Park,35878,28.42,
+2008-12,UHF42,206,4,Borough Park,83813,25.17,
+2008-12,UHF42,207,4,East Flatbush - Flatbush,54815,18.14,
+2008-12,UHF42,208,4,Canarsie - Flatlands,26463,12.94,
+2008-12,UHF42,209,4,Bensonhurst - Bay Ridge,28971,14.75,
+2008-12,UHF42,210,4,Coney Island - Sheepshead Bay,49068,18.23,
+2008-12,UHF42,211,4,Williamsburg - Bushwick,68994,32.48,
+2008-12,UHF42,301,4,Washington Heights,66842,25.76,
+2008-12,UHF42,302,4,Central Harlem - Morningside Heights,45079,27.75,
+2008-12,UHF42,303,4,East Harlem,35223,31.75,
+2008-12,UHF42,304,4,Upper West Side,25590,11.96,
+2008-12,UHF42,305,4,Upper East Side,14686,6.81,
+2008-12,UHF42,306,4,Chelsea - Clinton,16216,11.72,
+2008-12,UHF42,307,4,Gramercy Park - Murray Hill,10743,8.66,
+2008-12,UHF42,308,4,Greenwich Village - SoHo,8147,10.5,
+2008-12,UHF42,309,4,Union Square - Lower East Side,40669,21.36,
+2008-12,UHF42,310,4,Lower Manhattan,6003,12.44,
+2008-12,UHF42,401,4,Long Island City - Astoria,31642,15.99,
+2008-12,UHF42,402,4,West Queens,81483,18.16,
+2008-12,UHF42,403,4,Flushing - Clearview,33814,13.01,
+2008-12,UHF42,404,4,Bayside - Little Neck,7064,7.91,
+2008-12,UHF42,405,4,Ridgewood - Forest Hills,30569,12.41,
+2008-12,UHF42,406,4,Fresh Meadows,13207,14.07,
+2008-12,UHF42,407,4,Southwest Queens,36473,13.15,
+2008-12,UHF42,408,4,Jamaica,43334,15.34,
+2008-12,UHF42,409,4,Southeast Queens,18014,6.79,
+2008-12,UHF42,410,4,Rockaways,23856,21.4,
+2008-12,UHF42,501,4,Port Richmond,14333,21.64,
+2008-12,UHF42,502,4,Stapleton - St. George,20069,17.04,
+2008-12,UHF42,503,4,Willowbrook,7144,8.24,
+2008-12,UHF42,504,4,South Beach - Tottenville,10691,5.61,
+2008-12,Borough,1,1,Bronx,395832,29.32,
+2008-12,Borough,2,1,Brooklyn,565764,22.7,
+2008-12,Borough,3,1,Manhattan,271996,17.54,
+2008-12,Borough,4,1,Queens,317531,14.36,
+2008-12,Borough,5,1,Staten Island,52237,11.33,
+2008-12,Citywide,1,0,New York City,1603360,19.88,
+2007-11,NTA,501,7,Claremont-Bathgate,13083,44.72,
+2007-11,NTA,503,7,Eastchester-Edenwald-Baychester,6633,18.05,
+2007-11,NTA,505,7,Bedford Park-Fordham North,16997,33.52,
+2007-11,NTA,506,7,Belmont,10995,45.93,
+2007-11,NTA,507,7,Bronxdale,8655,26.1,
+2007-11,NTA,508,7,West Farms-Bronx River,11155,31.85,
+2007-11,NTA,509,7,Soundview-Castle Hill-Clason Point-Harding Park,11352,21.59,
+2007-11,NTA,510,7,Pelham Bay-Country Club-City Island,2882,10.8,
+2007-11,NTA,513,7,Co-op City,4671,11.04,
+2007-11,NTA,514,7,East Concourse-Concourse Village,21855,35.75,
+2007-11,NTA,517,7,East Tremont,17142,41.66,
+2007-11,NTA,522,7,North Riverdale-Fieldston-Riverdale,1484,6.16,
+2007-11,NTA,526,7,Highbridge,13454,36.81,
+2007-11,NTA,527,7,Hunts Point,12205,46.77,
+2007-11,NTA,528,7,Van Cortlandt Village,12460,25.8,
+2007-11,NTA,529,7,Spuyten Duyvil-Kingsbridge,3067,10.58,
+2007-11,NTA,530,7,Kingsbridge Heights,9879,31.66,
+2007-11,NTA,531,7,Allerton-Pelham Gardens,4091,13.13,
+2007-11,NTA,533,7,Longwood,9442,36.61,
+2007-11,NTA,534,7,Melrose South-Mott Haven North,13998,38.2,
+2007-11,NTA,535,7,Morrisania-Melrose,12757,36.39,
+2007-11,NTA,536,7,University Heights-Morris Heights,19389,36.3,
+2007-11,NTA,537,7,Van Nest-Morris Park-Westchester Square,5305,21.3,
+2007-11,NTA,539,7,Mott Haven-Port Morris,19404,41.31,
+2007-11,NTA,540,7,Fordham South,11747,44.84,
+2007-11,NTA,541,7,Mount Hope,18373,35.71,
+2007-11,NTA,543,7,Norwood,10751,27.4,
+2007-11,NTA,544,7,Williamsbridge-Olinville,11806,19.46,
+2007-11,NTA,546,7,Parkchester,5070,17.28,
+2007-11,NTA,549,7,Pelham Parkway,4855,16.47,
+2007-11,NTA,552,7,Schuylerville-Throgs Neck-Edgewater Park,5814,13.25,
+2007-11,NTA,555,7,Soundview-Bruckner,12239,36.11,
+2007-11,NTA,559,7,Westchester-Unionport,5910,21.61,
+2007-11,NTA,562,7,Woodlawn-Wakefield,6070,13.3,
+2007-11,NTA,563,7,West Concourse,14469,36.36,
+2007-11,NTA,575,7,Crotona Park East,7973,40.97,
+2007-11,NTA,4709,7,Brooklyn Heights-Cobble Hill,2258,9.68,
+2007-11,NTA,4717,7,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,8628,14.46,
+2007-11,NTA,4719,7,Brighton Beach,8011,26.21,
+2007-11,NTA,4721,7,Seagate-Coney Island,9209,30.63,
+2007-11,NTA,4723,7,West Brighton,1958,12.34,
+2007-11,NTA,4725,7,Homecrest,5371,13.24,
+2007-11,NTA,4726,7,Gravesend,5076,18.81,
+2007-11,NTA,4727,7,Bath Beach,4233,15.35,
+2007-11,NTA,4728,7,Bensonhurst West,13570,16.1,
+2007-11,NTA,4729,7,Bensonhurst East,9294,15.6,
+2007-11,NTA,4730,7,Dyker Heights,6170,14.33,
+2007-11,NTA,4731,7,Bay Ridge,12341,14.78,
+2007-11,NTA,4732,7,Sunset Park West,13392,25.92,
+2007-11,NTA,4733,7,Carroll Gardens-Columbia Street-Red Hook,6194,15.54,
+2007-11,NTA,4734,7,Sunset Park East,19526,28.27,
+2007-11,NTA,4735,7,Stuyvesant Heights,18516,29.95,
+2007-11,NTA,4737,7,Park Slope-Gowanus,5327,7.39,
+2007-11,NTA,4738,7,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,7264,21.98,
+2007-11,NTA,4740,7,Windsor Terrace,2916,12.7,
+2007-11,NTA,4741,7,Kensington-Ocean Parkway,8689,23.87,
+2007-11,NTA,4742,7,Flatbush,24264,23.03,
+2007-11,NTA,4743,7,Midwood,10509,20.09,
+2007-11,NTA,4744,7,Madison,5179,13.24,
+2007-11,NTA,4745,7,Georgetown-Marine Park-Bergen Beach-Mill Basin,3620,7.55,
+2007-11,NTA,4746,7,Ocean Parkway South,2983,15.02,
+2007-11,NTA,4750,7,Canarsie,10960,13.1,
+2007-11,NTA,4758,7,Flatlands,8181,11.65,
+2007-11,NTA,4760,7,Prospect Lefferts Gardens-Wingate,13765,20.12,
+2007-11,NTA,4761,7,Crown Heights North,28664,28.73,
+2007-11,NTA,4763,7,Crown Heights South,9465,23.68,
+2007-11,NTA,4764,7,Prospect Heights,2320,11.07,
+2007-11,NTA,4768,7,Fort Greene,4958,20.39,
+2007-11,NTA,4769,7,Clinton Hill,7222,21.66,
+2007-11,NTA,4772,7,Williamsburg,17419,51.97,
+2007-11,NTA,4773,7,North Side-South Side,12100,26.75,
+2007-11,NTA,4775,7,Bedford,23939,35.44,
+2007-11,NTA,4776,7,Greenpoint,3690,11.82,
+2007-11,NTA,4777,7,Bushwick North,18732,31.08,
+2007-11,NTA,4778,7,Bushwick South,20798,29.64,
+2007-11,NTA,4779,7,Ocean Hill,9803,32.01,
+2007-11,NTA,4781,7,Brownsville,21100,39.17,
+2007-11,NTA,4782,7,East New York,28632,32.08,
+2007-11,NTA,4783,7,Cypress Hills-City Line,13315,28.1,
+2007-11,NTA,4785,7,East New York (Pennsylvania Ave),10145,35.17,
+2007-11,NTA,4788,7,Borough Park,35510,33.43,
+2007-11,NTA,4790,7,East Williamsburg,7294,22.09,
+2007-11,NTA,4791,7,East Flatbush-Farragut,5988,11.48,
+2007-11,NTA,4793,7,Starrett City,4038,31.61,
+2007-11,NTA,4795,7,Erasmus,5059,17.31,
+2007-11,NTA,4796,7,Rugby-Remsen Village,8204,14.6,
+2007-11,NTA,6101,7,Marble Hill-Inwood,11237,23.02,
+2007-11,NTA,6103,7,Central Harlem North-Polo Grounds,22552,29.4,
+2007-11,NTA,6104,7,Hamilton Heights,13687,26.94,
+2007-11,NTA,6106,7,Manhattanville,7959,34.91,
+2007-11,NTA,6109,7,Morningside Heights,10121,23.21,
+2007-11,NTA,6111,7,Central Harlem South,12206,27.32,
+2007-11,NTA,6112,7,Upper West Side,14538,10.82,
+2007-11,NTA,6113,7,Hudson Yards-Chelsea-Flatiron-Union Square,8658,13.04,
+2007-11,NTA,6114,7,Lincoln Square,5674,9.75,
+2007-11,NTA,6115,7,Clinton,5925,13.6,
+2007-11,NTA,6117,7,Midtown-Midtown South,2986,11.64,
+2007-11,NTA,6119,7,Turtle Bay-East Midtown,2490,5.27,
+2007-11,NTA,6120,7,Murray Hill-Kips Bay,5314,10.79,
+2007-11,NTA,6121,7,Gramercy,2437,9.7,
+2007-11,NTA,6122,7,East Village,6300,16.31,
+2007-11,NTA,6123,7,West Village,4652,7.4,
+2007-11,NTA,6124,7,SoHo-TriBeCa-Civic Center-Little Italy,4588,12.43,
+2007-11,NTA,6125,7,Battery Park City-Lower Manhattan,2780,8.12,
+2007-11,NTA,6127,7,Chinatown,13724,29.74,
+2007-11,NTA,6128,7,Lower East Side,20830,28.35,
+2007-11,NTA,6131,7,Lenox Hill-Roosevelt Island,5411,7.14,
+2007-11,NTA,6132,7,Yorkville,5309,6.85,
+2007-11,NTA,6133,7,East Harlem South,13962,24.38,
+2007-11,NTA,6134,7,East Harlem North,20911,34.42,
+2007-11,NTA,6135,7,Washington Heights North,17151,24.66,
+2007-11,NTA,6136,7,Washington Heights South,24720,27.52,
+2007-11,NTA,6140,7,Upper East Side-Carnegie Hill,2579,4.29,
+2007-11,NTA,6150,7,Stuyvesant Town-Cooper Village,2251,10.38,
+2007-11,NTA,8101,7,South Jamaica,8396,23.1,
+2007-11,NTA,8102,7,Springfield Gardens North,3353,12.78,
+2007-11,NTA,8103,7,Springfield Gardens South-Brookville,2142,10.85,
+2007-11,NTA,8105,7,Rosedale,1409,5.27,
+2007-11,NTA,8106,7,Jamaica Estates-Holliswood,2174,9.26,
+2007-11,NTA,8107,7,Hollis,3082,14.74,
+2007-11,NTA,8108,7,St. Albans,3807,7.61,
+2007-11,NTA,8110,7,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,1727,6.03,
+2007-11,NTA,8112,7,Hammels-Arverne-Edgemere,9694,28.85,
+2007-11,NTA,8115,7,Far Rockaway-Bayswater,11138,23.7,
+2007-11,NTA,8117,7,Forest Hills,6564,7.9,
+2007-11,NTA,8118,7,Rego Park,2316,8.2,
+2007-11,NTA,8119,7,Glendale,3807,11.65,
+2007-11,NTA,8120,7,Ridgewood,13545,19.58,
+2007-11,NTA,8121,7,Middle Village,2901,7.68,
+2007-11,NTA,8122,7,Flushing,14078,21.34,
+2007-11,NTA,8123,7,College Point,1771,7.85,
+2007-11,NTA,8125,7,Corona,10662,19.79,
+2007-11,NTA,8126,7,North Corona,11847,24.62,
+2007-11,NTA,8127,7,East Elmhurst,3774,16.71,
+2007-11,NTA,8128,7,Jackson Heights,17010,16.17,
+2007-11,NTA,8129,7,Elmhurst,16286,19.57,
+2007-11,NTA,8130,7,Maspeth,2723,9.52,
+2007-11,NTA,8131,7,Hunters Point-Sunnyside-West Maspeth,6783,11.46,
+2007-11,NTA,8133,7,Cambria Heights,1420,6.66,
+2007-11,NTA,8134,7,Queens Village,4509,7.88,
+2007-11,NTA,8135,7,Briarwood-Jamaica Hills,4810,13.03,
+2007-11,NTA,8137,7,Kew Gardens Hills,4627,12.85,
+2007-11,NTA,8138,7,Pomonok-Flushing Heights-Hillcrest,5532,17.2,
+2007-11,NTA,8141,7,Fresh Meadows-Utopia,1456,8.03,
+2007-11,NTA,8142,7,Oakland Gardens,2733,9.68,
+2007-11,NTA,8143,7,Bellerose,1479,5.73,
+2007-11,NTA,8144,7,Glen Oaks-Floral Park-New Hyde Park,1273,5.74,
+2007-11,NTA,8145,7,Douglas Manor-Douglaston-Little Neck,1069,4.38,
+2007-11,NTA,8146,7,Bayside-Bayside Hills,3071,6.86,
+2007-11,NTA,8147,7,Ft. Totten-Bay Terrace-Clearview,1272,5.47,
+2007-11,NTA,8148,7,Auburndale,1806,9.08,
+2007-11,NTA,8149,7,Whitestone,1904,5.9,
+2007-11,NTA,8150,7,Elmhurst-Maspeth,2938,11.74,
+2007-11,NTA,8151,7,Murray Hill,6024,12.18,
+2007-11,NTA,8152,7,East Flushing,3548,13.04,
+2007-11,NTA,8153,7,Woodhaven,8245,14.18,
+2007-11,NTA,8154,7,Richmond Hill,8447,13.46,
+2007-11,NTA,8155,7,South Ozone Park,9569,12.24,
+2007-11,NTA,8156,7,Ozone Park,2557,11.62,
+2007-11,NTA,8157,7,Lindenwood-Howard Beach,2528,8.9,
+2007-11,NTA,8160,7,Kew Gardens,2667,11.8,
+2007-11,NTA,8161,7,Jamaica,11246,22.71,
+2007-11,NTA,8162,7,Queensboro Hill,2429,11.89,
+2007-11,NTA,8163,7,Woodside,5954,13.47,
+2007-11,NTA,8166,7,Laurelton,1524,5.94,
+2007-11,NTA,8168,7,Queensbridge-Ravenswood-Long Island City,6316,35.73,
+2007-11,NTA,8170,7,Astoria,12006,16.05,
+2007-11,NTA,8171,7,Old Astoria,4515,17.12,
+2007-11,NTA,8172,7,Steinway,6780,13.74,
+2007-11,NTA,8176,7,Baisley Park,4381,12.86,
+2007-11,NTA,8501,7,Annadale-Huguenot-Prince's Bay-Eltingville,1587,5.56,
+2007-11,NTA,8505,7,New Springville-Bloomfield-Travis,2764,7.09,
+2007-11,NTA,8507,7,Westerleigh,2099,8.81,
+2007-11,NTA,8508,7,Grymes Hill-Clifton-Fox Hills,4060,19.16,
+2007-11,NTA,8511,7,Charleston-Richmond Valley-Tottenville,815,3.7,
+2007-11,NTA,8512,7,Mariner's Harbor-Arlington-Port Ivory-Graniteville,5036,15.89,
+2007-11,NTA,8514,7,Grasmere-Arrochar-Ft. Wadsworth,2028,13.98,
+2007-11,NTA,8522,7,West New Brighton-New Brighton-St. George,8452,27.21,
+2007-11,NTA,8524,7,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,2594,8.33,
+2007-11,NTA,8525,7,Oakwood-Oakwood Beach,1158,5.32,
+2007-11,NTA,8528,7,Port Richmond,4098,21.45,
+2007-11,NTA,8532,7,Rossville-Woodrow,1161,5.9,
+2007-11,NTA,8535,7,New Brighton-Silver Lake,3019,17.11,
+2007-11,NTA,8536,7,Old Town-Dongan Hills-South Beach,1924,8.1,
+2007-11,NTA,8537,7,Stapleton-Rosebank,4631,18.82,
+2007-11,NTA,8545,7,New Dorp-Midland Beach,1745,8.07,
+2007-11,NTA,8548,7,Arden Heights,1473,6,
+2007-11,NTA,8554,7,Great Kills,1982,4.64,
+2007-11,CD,101,6,Financial District (CD1),12020,8.97,
+2007-11,CD,102,6,Greenwich Village and Soho (CD2),12020,8.97,
+2007-11,CD,103,6,Lower East Side and Chinatown (CD3),40854,25.82,
+2007-11,CD,104,6,Clinton and Chelsea (CD4),17569,12.96,
+2007-11,CD,105,6,Midtown (CD5),17569,12.96,
+2007-11,CD,106,6,Stuyvesant Town and Turtle Bay (CD6),12492,8.72,
+2007-11,CD,107,6,Upper West Side (CD7),20213,10.5,
+2007-11,CD,108,6,Upper East Side (CD8),13299,6.23,
+2007-11,CD,109,6,Morningside Heights and Hamilton Heights (CD9),31767,27.12,
+2007-11,CD,110,6,Central Harlem (CD10),34758,28.63,
+2007-11,CD,111,6,East Harlem (CD11),35961,30.15,
+2007-11,CD,112,6,Washington Heights and Inwood (CD12),53108,25.5,
+2007-11,CD,201,6,Mott Haven and Melrose (CD1),57594,41.01,
+2007-11,CD,202,6,Hunts Point and Longwood (CD2),57594,41.01,
+2007-11,CD,203,6,Morrisania and Crotona (CD3),62238,41.55,
+2007-11,CD,204,6,Highbridge and Concourse (CD4),49780,36.19,
+2007-11,CD,205,6,Fordham and University Heights (CD5),49550,37.78,
+2007-11,CD,206,6,Belmont and East Tremont (CD6),62238,41.55,
+2007-11,CD,207,6,Kingsbridge Heights and Bedford (CD7),37627,31.06,
+2007-11,CD,208,6,Riverdale and Fieldston (CD8),17011,16.78,
+2007-11,CD,209,6,Parkchester and Soundview (CD9),45662,25.66,
+2007-11,CD,210,6,Throgs Neck and Co-op City (CD10),13431,11.87,
+2007-11,CD,211,6,Morris Park and Bronxdale (CD11),23777,19.38,
+2007-11,CD,212,6,Williamsbridge and Baychester (CD12),24509,17.13,
+2007-11,CD,301,6,Greenpoint and Williamsburg (CD1),40503,28.33,
+2007-11,CD,302,6,Fort Greene and Brooklyn Heights (CD2),21759,19.05,
+2007-11,CD,303,6,Bedford Stuyvesant (CD3),42455,32.82,
+2007-11,CD,304,6,Bushwick (CD4),39530,30.31,
+2007-11,CD,305,6,East New York and Starrett City (CD5),45985,30.78,
+2007-11,CD,306,6,Park Slope and Carroll Gardens (CD6),11521,10.29,
+2007-11,CD,307,6,Sunset Park (CD7),35834,24.93,
+2007-11,CD,308,6,Crown Heights and Prospect Heights (CD8),30984,25.66,
+2007-11,CD,309,6,South Crown Heights and Lefferts Gardens (CD9),23230,21.43,
+2007-11,CD,310,6,Bay Ridge and Dyker Heights (CD10),18511,14.63,
+2007-11,CD,311,6,Bensonhurst (CD11),27097,15.81,
+2007-11,CD,312,6,Borough Park (CD12),47182,29.04,
+2007-11,CD,313,6,Coney Island (CD13),24254,23.44,
+2007-11,CD,314,6,Flatbush and Midwood (CD14),34773,22.06,
+2007-11,CD,315,6,Sheepshead Bay (CD15),19178,13.76,
+2007-11,CD,316,6,Brownsville (CD16),41048,36.22,
+2007-11,CD,317,6,East Flatbush (CD17),19251,14,
+2007-11,CD,318,6,Flatlands and Canarsie (CD18),22868,11.32,
+2007-11,CD,401,6,Long Island City and Astoria (CD1),29617,17.61,
+2007-11,CD,402,6,Woodside and Sunnyside (CD2),15675,12.21,
+2007-11,CD,403,6,Jackson Heights (CD3),32631,18.57,
+2007-11,CD,404,6,Elmhurst and Corona (CD4),26921,19.65,
+2007-11,CD,405,6,Ridgewood and Maspeth (CD5),23003,13.64,
+2007-11,CD,406,6,Rego Park and Forest Hills (CD6),8880,7.98,
+2007-11,CD,407,6,Flushing and Whitestone (CD7),31026,12.86,
+2007-11,CD,408,6,Hillcrest and Fresh Meadows (CD8),18446,12.58,
+2007-11,CD,409,6,Kew Gardens and Woodhaven (CD9),19559,13.6,
+2007-11,CD,410,6,South Ozone Park and Howard Beach (CD10),14654,11.39,
+2007-11,CD,411,6,Bayside and Little Neck (CD11),8699,7.42,
+2007-11,CD,412,6,Jamaica and Hollis (CD12),34224,15.77,
+2007-11,CD,413,6,Queens Village (CD13),13756,6.93,
+2007-11,CD,414,6,Rockaway and Broad Channel (CD14),22559,20.65,
+2007-11,CD,501,6,St. George and Stapleton (CD1),31395,18.57,
+2007-11,CD,502,6,South Beach and Willowbrook (CD2),11044,8.52,
+2007-11,CD,503,6,Tottenville and Great Kills (CD3),8187,5.13,
+2007-11,Subboro,1,5,Mott Haven/Hunts Point,57594,41.01,
+2007-11,Subboro,2,5,Morrisania/East Tremont,62238,41.55,
+2007-11,Subboro,3,5,Highbridge/South Concourse,49780,36.19,
+2007-11,Subboro,4,5,University Heights/Fordham,49550,37.78,
+2007-11,Subboro,5,5,Kingsbridge Heights/Mosholu,37627,31.06,
+2007-11,Subboro,6,5,Riverdale/Kingsbridge,17011,16.78,
+2007-11,Subboro,7,5,Soundview/Parkchester,45662,25.66,
+2007-11,Subboro,8,5,Throgs Neck/Co-op City,13431,11.87,
+2007-11,Subboro,9,5,Pelham Parkway,23777,19.38,
+2007-11,Subboro,10,5,Williamsbridge/Baychester,24509,17.13,
+2007-11,Subboro,11,5,Williamsburg/Greenpoint,40503,28.33,
+2007-11,Subboro,12,5,Brooklyn Heights/Fort Greene,21759,19.05,
+2007-11,Subboro,13,5,Bedford Stuyvesant,42455,32.82,
+2007-11,Subboro,14,5,Bushwick,39530,30.31,
+2007-11,Subboro,15,5,East New York/Starret City,45985,30.78,
+2007-11,Subboro,16,5,Park Slope/Carroll Gardens,11521,10.29,
+2007-11,Subboro,17,5,Sunset Park,35834,24.93,
+2007-11,Subboro,18,5,N. Crown Heights/Prospect Heights,30984,25.66,
+2007-11,Subboro,19,5,South Crown Heights,23230,21.43,
+2007-11,Subboro,20,5,Bay Ridge,18511,14.63,
+2007-11,Subboro,21,5,Bensonhurst,27097,15.81,
+2007-11,Subboro,22,5,Borough Park,47182,29.04,
+2007-11,Subboro,23,5,Coney Island,24254,23.44,
+2007-11,Subboro,24,5,Flatbush,34773,22.06,
+2007-11,Subboro,25,5,Sheepshead Bay/Gravesend,19178,13.76,
+2007-11,Subboro,26,5,Brownsville/Ocean Hill,41048,36.22,
+2007-11,Subboro,27,5,East Flatbush,19251,14,
+2007-11,Subboro,28,5,Flatlands/Canarsie,22868,11.32,
+2007-11,Subboro,29,5,Greenwich Village/Financial District,12020,8.97,
+2007-11,Subboro,30,5,Lower East Side/Chinatown,40854,25.82,
+2007-11,Subboro,31,5,Chelsea/Clinton/Midtown,17569,12.96,
+2007-11,Subboro,32,5,Stuyvesant Town/Turtle Bay,12492,8.72,
+2007-11,Subboro,33,5,Upper West Side,20213,10.5,
+2007-11,Subboro,34,5,Upper East Side,13299,6.23,
+2007-11,Subboro,35,5,Morningside Heights/Hamilton Heights,31767,27.12,
+2007-11,Subboro,36,5,Central Harlem,34758,28.63,
+2007-11,Subboro,37,5,East Harlem,35961,30.15,
+2007-11,Subboro,38,5,Washington Heights/Inwood,53108,25.5,
+2007-11,Subboro,39,5,Astoria,29617,17.61,
+2007-11,Subboro,40,5,Sunnyside/Woodside,15675,12.21,
+2007-11,Subboro,41,5,Jackson Heights,32631,18.57,
+2007-11,Subboro,42,5,Elmhurst/Corona,26921,19.65,
+2007-11,Subboro,43,5,Middle Village/Ridgewood,23003,13.64,
+2007-11,Subboro,44,5,Forest Hills/Rego Park,8880,7.98,
+2007-11,Subboro,45,5,Flushing/Whitestone,31026,12.86,
+2007-11,Subboro,46,5,Hillcrest/Fresh Meadows,18446,12.58,
+2007-11,Subboro,47,5,Kew Gardens/Woodhaven,19559,13.6,
+2007-11,Subboro,48,5,Howard Beach/South Ozone Park,14654,11.39,
+2007-11,Subboro,49,5,Bayside/Little Neck,8699,7.42,
+2007-11,Subboro,50,5,Jamaica,34224,15.77,
+2007-11,Subboro,51,5,Bellerose/Rosedale,13756,6.93,
+2007-11,Subboro,52,5,Rockaways,22559,20.65,
+2007-11,Subboro,53,5,North Shore,31395,18.57,
+2007-11,Subboro,54,5,Mid Island,11044,8.52,
+2007-11,Subboro,55,5,South Shore,8187,5.13,
+2007-11,UHF42,101,4,Kingsbridge - Riverdale,12029,14.08,
+2007-11,UHF42,102,4,Northeast Bronx,28443,14.48,
+2007-11,UHF42,103,4,Fordham - Bronx Pk,74277,31.55,
+2007-11,UHF42,104,4,Pelham - Throgs Neck,62325,21.19,
+2007-11,UHF42,105,4,Crotona -Tremont,75599,37.6,
+2007-11,UHF42,106,4,High Bridge - Morrisania,76539,37.75,
+2007-11,UHF42,107,4,Hunts Point - Mott Haven,54241,41.24,
+2007-11,UHF42,201,4,Greenpoint,33973,27.47,
+2007-11,UHF42,202,4,Downtown - Heights - Slope,35810,15.96,
+2007-11,UHF42,203,4,Bedford Stuyvesant - Crown Heights,84490,27.27,
+2007-11,UHF42,204,4,East New York,57570,31.66,
+2007-11,UHF42,205,4,Sunset Park,33324,26.77,
+2007-11,UHF42,206,4,Borough Park,80730,24.21,
+2007-11,UHF42,207,4,East Flatbush - Flatbush,53507,17.75,
+2007-11,UHF42,208,4,Canarsie - Flatlands,24852,12.34,
+2007-11,UHF42,209,4,Bensonhurst - Bay Ridge,26529,13.83,
+2007-11,UHF42,210,4,Coney Island - Sheepshead Bay,47004,17.75,
+2007-11,UHF42,211,4,Williamsburg - Bushwick,68174,32.8,
+2007-11,UHF42,301,4,Washington Heights,67581,25.95,
+2007-11,UHF42,302,4,Central Harlem - Morningside Heights,45290,28.38,
+2007-11,UHF42,303,4,East Harlem,34617,31.14,
+2007-11,UHF42,304,4,Upper West Side,25500,11.95,
+2007-11,UHF42,305,4,Upper East Side,13429,6.27,
+2007-11,UHF42,306,4,Chelsea - Clinton,17149,12.46,
+2007-11,UHF42,307,4,Gramercy Park - Murray Hill,10508,8.47,
+2007-11,UHF42,308,4,Greenwich Village - SoHo,8702,11.17,
+2007-11,UHF42,309,4,Union Square - Lower East Side,40976,21.53,
+2007-11,UHF42,310,4,Lower Manhattan,5893,12.8,
+2007-11,UHF42,401,4,Long Island City - Astoria,31343,15.97,
+2007-11,UHF42,402,4,West Queens,76614,17.09,
+2007-11,UHF42,403,4,Flushing - Clearview,31899,12.54,
+2007-11,UHF42,404,4,Bayside - Little Neck,6526,7.4,
+2007-11,UHF42,405,4,Ridgewood - Forest Hills,28770,11.75,
+2007-11,UHF42,406,4,Fresh Meadows,12145,12.96,
+2007-11,UHF42,407,4,Southwest Queens,33975,12.48,
+2007-11,UHF42,408,4,Jamaica,42016,15.04,
+2007-11,UHF42,409,4,Southeast Queens,15640,5.88,
+2007-11,UHF42,410,4,Rockaways,22559,20.65,
+2007-11,UHF42,501,4,Port Richmond,12982,19.2,
+2007-11,UHF42,502,4,Stapleton - St. George,20177,17.41,
+2007-11,UHF42,503,4,Willowbrook,6981,8.08,
+2007-11,UHF42,504,4,South Beach - Tottenville,10486,5.56,
+2007-11,Borough,1,1,Bronx,381179,28.48,
+2007-11,Borough,2,1,Brooklyn,545963,22.15,
+2007-11,Borough,3,1,Manhattan,272041,17.63,
+2007-11,Borough,4,1,Queens,299650,13.67,
+2007-11,Borough,5,1,Staten Island,50626,11.05,
+2007-11,Citywide,1,0,New York City,1549459,19.38,
