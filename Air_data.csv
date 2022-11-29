@@ -1,0 +1,1873 @@
+Time,GeoType,GeoID,GeoRank,Geography,10th percentile,90th percentile,Mean,Pollutant,Unit
+2021,UHF42,101,4,Kingsbridge - Riverdale,12.95881023,17.42628146,14.77021939,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,102,4,Northeast Bronx,15.0985013,16.73396843,15.97800832,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,103,4,Fordham - Bronx Pk,13.53946346,17.71700539,16.03453373,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,104,4,Pelham - Throgs Neck,13.92740553,17.84695961,16.00939977,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,105,4,Crotona -Tremont,16.30876371,18.79909402,17.64194468,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,106,4,High Bridge - Morrisania,17.29958452,18.86457741,18.04002412,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,107,4,Hunts Point - Mott Haven,15.40884838,21.63715039,18.51667627,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,201,4,Greenpoint,18.6023923,23.0715517,20.5549156,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,202,4,Downtown - Heights - Slope,17.33096073,19.99940085,18.7817062,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,203,4,Bedford Stuyvesant - Crown Heights,16.35950723,18.0896639,17.11865235,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,204,4,East New York,14.00831831,18.01495332,16.12205605,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,205,4,Sunset Park,14.36817629,21.80331846,18.02899745,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,206,4,Borough Park,15.83675013,17.57466811,16.74140021,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,207,4,East Flatbush - Flatbush,15.54191906,17.40900102,16.37635707,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,208,4,Canarsie - Flatlands,10.96483376,16.81501919,14.27868791,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,209,4,Bensonhurst - Bay Ridge,14.03468988,17.41774499,16.0317582,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,210,4,Coney Island - Sheepshead Bay,12.87683295,16.02631206,14.68344079,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,211,4,Williamsburg - Bushwick,16.91542524,22.33086751,19.0385913,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,301,4,Washington Heights,14.45873359,19.10985133,17.1012008,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,302,4,Central Harlem - Morningside Heights,17.43950822,18.93642184,18.20660748,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,303,4,East Harlem,17.22094408,18.9465217,18.27860184,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,304,4,Upper West Side,17.72527825,20.54189071,19.16877835,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,305,4,Upper East Side,17.54203648,22.2622625,20.30735751,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,306,4,Chelsea - Clinton,20.76562243,26.31239221,23.31831242,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,307,4,Gramercy Park - Murray Hill,20.86570257,26.29449456,23.5446921,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,308,4,Greenwich Village - SoHo,20.48184568,22.17591511,21.30032125,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,309,4,Union Square - Lower East Side,17.3605782,21.78957374,19.55281947,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,310,4,Lower Manhattan,20.08419746,22.77061655,21.4863876,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,401,4,Long Island City - Astoria,16.90400652,22.02366961,19.0002808,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,402,4,West Queens,16.38221974,22.60810052,18.56473211,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,403,4,Flushing - Clearview,14.26178876,17.21390446,15.66228967,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,404,4,Bayside - Little Neck,12.25112338,15.58653497,13.91228672,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,405,4,Ridgewood - Forest Hills,13.57533162,17.83461223,16.04402697,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,406,4,Fresh Meadows,13.73229587,15.74076636,14.89884447,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,407,4,Southwest Queens,13.89180984,16.22605466,15.09717692,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,408,4,Jamaica,13.63578681,17.09066112,15.29935075,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,409,4,Southeast Queens,13.17354097,15.08136371,14.25391266,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,410,4,Rockaways,9.671172353,12.62689944,11.40689356,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,501,4,Port Richmond,14.2958804,16.58557316,15.66082709,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,502,4,Stapleton - St. George,12.35401542,15.88026634,14.27769969,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,503,4,Willowbrook,10.8804748,15.66347249,13.26473052,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,504,4,South Beach - Tottenville,9.262912602,13.39680982,11.30307725,Nitrogen Dioxide (NO2),ppb
+2021,Borough,1,1,Bronx,14.15018891,18.46478129,16.54096158,Nitrogen Dioxide (NO2),ppb
+2021,Borough,2,1,Brooklyn,13.86633094,19.49589531,16.68091536,Nitrogen Dioxide (NO2),ppb
+2021,Borough,3,1,Manhattan,17.00981104,23.68537,19.96942812,Nitrogen Dioxide (NO2),ppb
+2021,Borough,4,1,Queens,12.64461709,18.07142937,15.46265071,Nitrogen Dioxide (NO2),ppb
+2021,Borough,5,1,Staten Island,10.0752338,15.78585972,12.84495181,Nitrogen Dioxide (NO2),ppb
+2021,Citywide,1,0,New York City,11.96171499,19.08077409,15.67989723,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,101,4,Kingsbridge - Riverdale,14.07,18.53,15.9,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,102,4,Northeast Bronx,15.94,17.5,16.75,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,103,4,Fordham - Bronx Pk,14.5,18.76,16.98,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,104,4,Pelham - Throgs Neck,13.92,17.94,16.19,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,105,4,Crotona -Tremont,17.09,19.76,18.5,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,106,4,High Bridge - Morrisania,18.14,19.58,18.92,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,107,4,Hunts Point - Mott Haven,15.53,20.29,18.43,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,201,4,Greenpoint,18.19,21.02,19.63,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,202,4,Downtown - Heights - Slope,16.83,19.42,18.26,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,203,4,Bedford Stuyvesant - Crown Heights,16.49,17.9,17.1,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,204,4,East New York,13.94,16.94,15.74,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,205,4,Sunset Park,13.55,19.31,16.77,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,206,4,Borough Park,15.12,16.86,16,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,207,4,East Flatbush - Flatbush,15.01,17.14,16.07,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,208,4,Canarsie - Flatlands,10.25,16.34,13.76,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,209,4,Bensonhurst - Bay Ridge,12.71,16.23,14.81,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,210,4,Coney Island - Sheepshead Bay,11.8,15.17,13.78,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,211,4,Williamsburg - Bushwick,17.05,20.84,18.5,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,301,4,Washington Heights,15.48,20.14,18.08,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,302,4,Central Harlem - Morningside Heights,18.15,19.66,18.99,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,303,4,East Harlem,17.62,19.45,18.77,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,304,4,Upper West Side,18.2,20.9,19.62,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,305,4,Upper East Side,18.02,22.86,20.89,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,306,4,Chelsea - Clinton,20.63,27.54,23.87,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,307,4,Gramercy Park - Murray Hill,21.25,27.41,24.27,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,308,4,Greenwich Village - SoHo,19.93,22.5,21.32,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,309,4,Union Square - Lower East Side,17.31,22.14,19.69,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,310,4,Lower Manhattan,19.96,23.02,21.55,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,401,4,Long Island City - Astoria,17.27,21.22,18.94,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,402,4,West Queens,16.41,19.93,17.79,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,403,4,Flushing - Clearview,13.95,17.77,15.59,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,404,4,Bayside - Little Neck,11.52,14.93,13.16,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,405,4,Ridgewood - Forest Hills,13.51,17.79,15.74,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,406,4,Fresh Meadows,13.1,15.25,14.4,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,407,4,Southwest Queens,13.58,15.92,14.75,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,408,4,Jamaica,12.94,15.87,14.24,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,409,4,Southeast Queens,12.04,14,13.02,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,410,4,Rockaways,8.8,11.8,10.55,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,501,4,Port Richmond,12.85,15.02,14.15,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,502,4,Stapleton - St. George,10.64,14.11,12.56,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,503,4,Willowbrook,9.35,13.92,11.78,Nitrogen Dioxide (NO2),ppb
+2020,UHF42,504,4,South Beach - Tottenville,8.63,12.29,10.56,Nitrogen Dioxide (NO2),ppb
+2020,Borough,1,1,Bronx,14.57,19.21,17.1,Nitrogen Dioxide (NO2),ppb
+2020,Borough,2,1,Brooklyn,13.11,18.87,16,Nitrogen Dioxide (NO2),ppb
+2020,Borough,3,1,Manhattan,17.66,24.44,20.54,Nitrogen Dioxide (NO2),ppb
+2020,Borough,4,1,Queens,11.81,18.05,14.82,Nitrogen Dioxide (NO2),ppb
+2020,Borough,5,1,Staten Island,9.17,14.13,11.63,Nitrogen Dioxide (NO2),ppb
+2020,Citywide,1,0,New York City,10.96,19.12,15.17,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,101,4,Kingsbridge - Riverdale,11.24,16.7,13.5,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,102,4,Northeast Bronx,13.68,15.49,14.67,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,103,4,Fordham - Bronx Pk,11.77,17.58,15.17,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,104,4,Pelham - Throgs Neck,13.1,17.48,15.47,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,105,4,Crotona -Tremont,16.22,18.95,17.64,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,106,4,High Bridge - Morrisania,17.81,19.61,18.76,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,107,4,Hunts Point - Mott Haven,15.35,21.21,18.75,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,201,4,Greenpoint,19.64,23.2,21.4,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,202,4,Downtown - Heights - Slope,18.34,21.41,19.98,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,203,4,Bedford Stuyvesant - Crown Heights,16.7,19.15,17.69,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,204,4,East New York,13.71,17.2,15.81,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,205,4,Sunset Park,14.57,21.54,18.46,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,206,4,Borough Park,15.29,18.1,16.66,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,207,4,East Flatbush - Flatbush,14.92,17.69,16.27,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,208,4,Canarsie - Flatlands,8.99,16.45,13.14,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,209,4,Bensonhurst - Bay Ridge,13.18,17.69,15.7,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,210,4,Coney Island - Sheepshead Bay,11.37,15.15,13.5,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,211,4,Williamsburg - Bushwick,17.59,22.86,19.67,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,301,4,Washington Heights,14.21,19.53,17.27,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,302,4,Central Harlem - Morningside Heights,18.52,20.67,19.7,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,303,4,East Harlem,17.9,20.36,19.4,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,304,4,Upper West Side,19.25,22.25,20.8,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,305,4,Upper East Side,19.02,24.44,22.13,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,306,4,Chelsea - Clinton,22.42,29.89,26.02,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,307,4,Gramercy Park - Murray Hill,22.69,29.6,26.22,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,308,4,Greenwich Village - SoHo,21.84,24.91,23.56,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,309,4,Union Square - Lower East Side,18.82,24.25,21.57,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,310,4,Lower Manhattan,22.44,25.82,24.17,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,401,4,Long Island City - Astoria,18.02,23.39,20.24,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,402,4,West Queens,16.9,21.53,18.67,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,403,4,Flushing - Clearview,14.33,18.9,16.26,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,404,4,Bayside - Little Neck,12.35,15.9,14.17,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,405,4,Ridgewood - Forest Hills,13.62,18.64,16.24,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,406,4,Fresh Meadows,14.07,16.23,15.36,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,407,4,Southwest Queens,13.63,16.59,15.13,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,408,4,Jamaica,14.11,17.47,15.51,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,409,4,Southeast Queens,13.26,15.69,14.5,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,410,4,Rockaways,8.08,11.76,10.04,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,501,4,Port Richmond,14.14,16.82,15.73,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,502,4,Stapleton - St. George,10.53,15.89,13.33,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,503,4,Willowbrook,9.87,14.38,12.21,Nitrogen Dioxide (NO2),ppb
+2019,UHF42,504,4,South Beach - Tottenville,8.11,12.06,10.23,Nitrogen Dioxide (NO2),ppb
+2019,Borough,1,1,Bronx,12.92,19.16,16.01,Nitrogen Dioxide (NO2),ppb
+2019,Borough,2,1,Brooklyn,12.74,20.62,16.53,Nitrogen Dioxide (NO2),ppb
+2019,Borough,3,1,Manhattan,17.69,26.58,21.71,Nitrogen Dioxide (NO2),ppb
+2019,Borough,4,1,Queens,12.42,18.96,15.66,Nitrogen Dioxide (NO2),ppb
+2019,Borough,5,1,Staten Island,9,15.61,11.92,Nitrogen Dioxide (NO2),ppb
+2019,Citywide,1,0,New York City,10.63,20.18,15.59,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,101,4,Kingsbridge - Riverdale,13.58,18.81,15.77,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,102,4,Northeast Bronx,15.09,17.01,16.16,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,103,4,Fordham - Bronx Pk,13.59,19.96,17.25,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,104,4,Pelham - Throgs Neck,14.27,19.16,16.89,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,105,4,Crotona -Tremont,18.18,21.29,19.76,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,106,4,High Bridge - Morrisania,19.83,21.69,20.83,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,107,4,Hunts Point - Mott Haven,16.79,22.48,20.23,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,201,4,Greenpoint,20.71,22.82,21.93,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,202,4,Downtown - Heights - Slope,19.37,22.59,21.14,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,203,4,Bedford Stuyvesant - Crown Heights,18.5,20.74,19.42,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,204,4,East New York,15.31,18.92,17.56,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,205,4,Sunset Park,15.82,22.65,19.67,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,206,4,Borough Park,16.62,19.61,18.11,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,207,4,East Flatbush - Flatbush,16.35,19.41,17.9,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,208,4,Canarsie - Flatlands,9.77,18.1,14.48,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,209,4,Bensonhurst - Bay Ridge,14.12,19.04,16.86,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,210,4,Coney Island - Sheepshead Bay,11.98,16.27,14.35,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,211,4,Williamsburg - Bushwick,19.13,23.53,20.95,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,301,4,Washington Heights,16.72,22.07,19.73,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,302,4,Central Harlem - Morningside Heights,20.29,22.8,21.66,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,303,4,East Harlem,19.32,21.88,20.91,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,304,4,Upper West Side,20.77,23.28,22.22,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,305,4,Upper East Side,19.07,26.59,23.42,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,306,4,Chelsea - Clinton,23.16,32.36,27.57,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,307,4,Gramercy Park - Murray Hill,24.53,32.33,28.69,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,308,4,Greenwich Village - SoHo,22.82,26.25,24.79,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,309,4,Union Square - Lower East Side,19.64,26.33,22.94,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,310,4,Lower Manhattan,23.43,26.8,25.15,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,401,4,Long Island City - Astoria,18.97,23.41,20.89,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,402,4,West Queens,18.32,21.74,19.9,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,403,4,Flushing - Clearview,15.84,19.86,17.63,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,404,4,Bayside - Little Neck,13.77,17.67,15.77,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,405,4,Ridgewood - Forest Hills,15.44,20.05,17.94,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,406,4,Fresh Meadows,15.94,18.29,17.34,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,407,4,Southwest Queens,15.53,18.79,17.19,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,408,4,Jamaica,16.14,19.52,17.55,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,409,4,Southeast Queens,14.79,17.55,16.21,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,410,4,Rockaways,8.57,12.5,10.52,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,501,4,Port Richmond,15.28,17.77,16.77,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,502,4,Stapleton - St. George,11.3,17.02,14.26,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,503,4,Willowbrook,10.85,15.95,13.57,Nitrogen Dioxide (NO2),ppb
+2018,UHF42,504,4,South Beach - Tottenville,9.05,12.75,11.05,Nitrogen Dioxide (NO2),ppb
+2018,Borough,1,1,Bronx,14.49,21.1,17.73,Nitrogen Dioxide (NO2),ppb
+2018,Borough,2,1,Brooklyn,13.74,21.81,17.83,Nitrogen Dioxide (NO2),ppb
+2018,Borough,3,1,Manhattan,19.44,28.84,23.43,Nitrogen Dioxide (NO2),ppb
+2018,Borough,4,1,Queens,13.88,20.2,17.18,Nitrogen Dioxide (NO2),ppb
+2018,Borough,5,1,Staten Island,9.93,16.79,12.92,Nitrogen Dioxide (NO2),ppb
+2018,Citywide,1,0,New York City,11.48,21.51,17,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,101,4,Kingsbridge - Riverdale,14.84,20.48,17.28,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,102,4,Northeast Bronx,17.61,19.97,18.87,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,103,4,Fordham - Bronx Pk,15.48,21.82,19.15,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,104,4,Pelham - Throgs Neck,15.88,21.06,18.72,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,105,4,Crotona -Tremont,19.35,22.71,21.12,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,106,4,High Bridge - Morrisania,20.67,22.81,21.66,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,107,4,Hunts Point - Mott Haven,17.92,22.11,20.39,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,201,4,Greenpoint,19.7,22.66,21.19,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,202,4,Downtown - Heights - Slope,19.04,22.89,21.12,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,203,4,Bedford Stuyvesant - Crown Heights,19.08,21.23,20.08,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,204,4,East New York,15.66,19.85,18.31,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,205,4,Sunset Park,15.48,21.32,18.87,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,206,4,Borough Park,17.64,19.92,18.81,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,207,4,East Flatbush - Flatbush,17.51,20.38,18.83,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,208,4,Canarsie - Flatlands,11.3,18.32,15.64,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,209,4,Bensonhurst - Bay Ridge,14.71,19.81,17.69,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,210,4,Coney Island - Sheepshead Bay,13.68,17.94,16.08,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,211,4,Williamsburg - Bushwick,19.99,21.36,20.69,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,301,4,Washington Heights,17.37,23.07,20.56,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,302,4,Central Harlem - Morningside Heights,21.04,24,22.64,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,303,4,East Harlem,20.54,23.57,22.41,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,304,4,Upper West Side,21.63,24.77,23.39,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,305,4,Upper East Side,20.53,28.38,25.04,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,306,4,Chelsea - Clinton,23.9,33.15,28.46,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,307,4,Gramercy Park - Murray Hill,26.25,33.67,30.31,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,308,4,Greenwich Village - SoHo,23.57,27.05,25.62,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,309,4,Union Square - Lower East Side,20.68,27.72,24.2,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,310,4,Lower Manhattan,24.17,27.35,25.82,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,401,4,Long Island City - Astoria,19.29,22.07,20.99,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,402,4,West Queens,19.18,21.69,20.56,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,403,4,Flushing - Clearview,16.71,20.16,18.5,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,404,4,Bayside - Little Neck,14.21,19.07,16.59,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,405,4,Ridgewood - Forest Hills,15.73,20.91,18.65,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,406,4,Fresh Meadows,16.51,19.32,18.11,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,407,4,Southwest Queens,16.34,19.38,17.95,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,408,4,Jamaica,16.09,19.46,17.69,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,409,4,Southeast Queens,14.91,17.89,16.44,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,410,4,Rockaways,10.39,14.26,12.66,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,501,4,Port Richmond,14.84,18.38,16.98,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,502,4,Stapleton - St. George,11.53,17.27,14.63,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,503,4,Willowbrook,11.3,16.58,13.86,Nitrogen Dioxide (NO2),ppb
+2017,UHF42,504,4,South Beach - Tottenville,9.62,13.58,11.7,Nitrogen Dioxide (NO2),ppb
+2017,Borough,1,1,Bronx,16.19,21.89,19.35,Nitrogen Dioxide (NO2),ppb
+2017,Borough,2,1,Brooklyn,15,21.26,18.46,Nitrogen Dioxide (NO2),ppb
+2017,Borough,3,1,Manhattan,20.39,30.08,24.55,Nitrogen Dioxide (NO2),ppb
+2017,Borough,4,1,Queens,14.37,20.97,17.85,Nitrogen Dioxide (NO2),ppb
+2017,Borough,5,1,Staten Island,10.43,17.1,13.37,Nitrogen Dioxide (NO2),ppb
+2017,Citywide,1,0,New York City,12.44,21.75,17.77,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,101,4,Kingsbridge - Riverdale,13.47,19.47,16.04,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,102,4,Northeast Bronx,16.14,18.73,17.52,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,103,4,Fordham - Bronx Pk,14.06,20.76,17.93,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,104,4,Pelham - Throgs Neck,15.06,20.42,17.92,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,105,4,Crotona -Tremont,18.55,22.02,20.37,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,106,4,High Bridge - Morrisania,20.05,22.16,21.08,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,107,4,Hunts Point - Mott Haven,17.47,21.7,19.91,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,201,4,Greenpoint,19.86,23.07,21.44,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,202,4,Downtown - Heights - Slope,19.57,23.54,21.65,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,203,4,Bedford Stuyvesant - Crown Heights,19.03,21.53,20.2,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,204,4,East New York,15.53,19.94,18.26,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,205,4,Sunset Park,15.85,21.92,19.32,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,206,4,Borough Park,17.53,20.13,18.87,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,207,4,East Flatbush - Flatbush,17.39,20.55,18.86,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,208,4,Canarsie - Flatlands,10.73,18.18,15.3,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,209,4,Bensonhurst - Bay Ridge,14.71,20.17,17.78,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,210,4,Coney Island - Sheepshead Bay,13.09,17.66,15.62,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,211,4,Williamsburg - Bushwick,20.07,21.55,20.82,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,301,4,Washington Heights,16.41,22.57,19.85,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,302,4,Central Harlem - Morningside Heights,20.63,23.55,22.19,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,303,4,East Harlem,20.34,23.37,22.19,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,304,4,Upper West Side,21.34,24.62,23.15,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,305,4,Upper East Side,20.49,28.1,24.81,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,306,4,Chelsea - Clinton,24.07,32.69,28.36,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,307,4,Gramercy Park - Murray Hill,26.27,33.23,30.14,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,308,4,Greenwich Village - SoHo,23.9,27.4,25.93,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,309,4,Union Square - Lower East Side,21.06,27.87,24.49,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,310,4,Lower Manhattan,24.59,27.57,26.15,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,401,4,Long Island City - Astoria,19.19,22.05,20.91,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,402,4,West Queens,19.11,21.72,20.53,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,403,4,Flushing - Clearview,16.37,20.03,18.24,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,404,4,Bayside - Little Neck,13.87,19.04,16.43,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,405,4,Ridgewood - Forest Hills,15.68,20.94,18.65,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,406,4,Fresh Meadows,16.43,19.41,18.09,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,407,4,Southwest Queens,16.08,19.33,17.8,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,408,4,Jamaica,15.89,19.41,17.56,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,409,4,Southeast Queens,14.57,17.71,16.16,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,410,4,Rockaways,9.5,13.33,11.72,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,501,4,Port Richmond,15.33,18.88,17.47,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,502,4,Stapleton - St. George,11.65,17.72,14.93,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,503,4,Willowbrook,11.41,16.91,14.11,Nitrogen Dioxide (NO2),ppb
+2016,UHF42,504,4,South Beach - Tottenville,9.3,13.48,11.52,Nitrogen Dioxide (NO2),ppb
+2016,Borough,1,1,Bronx,15.12,21.31,18.42,Nitrogen Dioxide (NO2),ppb
+2016,Borough,2,1,Brooklyn,14.66,21.62,18.48,Nitrogen Dioxide (NO2),ppb
+2016,Borough,3,1,Manhattan,19.91,29.92,24.35,Nitrogen Dioxide (NO2),ppb
+2016,Borough,4,1,Queens,13.99,20.9,17.65,Nitrogen Dioxide (NO2),ppb
+2016,Borough,5,1,Staten Island,10.26,17.54,13.47,Nitrogen Dioxide (NO2),ppb
+2016,Citywide,1,0,New York City,12.18,21.68,17.58,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,101,4,Kingsbridge - Riverdale,15.28,21.21,17.82,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,102,4,Northeast Bronx,18.2,20.72,19.52,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,103,4,Fordham - Bronx Pk,16.02,22.49,19.76,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,104,4,Pelham - Throgs Neck,16.41,21.84,19.36,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,105,4,Crotona -Tremont,19.99,23.51,21.84,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,106,4,High Bridge - Morrisania,21.25,23.47,22.28,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,107,4,Hunts Point - Mott Haven,18.31,22.77,20.91,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,201,4,Greenpoint,20.09,23.36,21.69,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,202,4,Downtown - Heights - Slope,19.67,23.79,21.87,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,203,4,Bedford Stuyvesant - Crown Heights,19.82,21.99,20.83,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,204,4,East New York,16.29,20.8,19.09,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,205,4,Sunset Park,16.2,22.31,19.71,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,206,4,Borough Park,18.57,20.8,19.74,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,207,4,East Flatbush - Flatbush,18.41,21.26,19.72,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,208,4,Canarsie - Flatlands,12.2,19.23,16.52,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,209,4,Bensonhurst - Bay Ridge,15.61,20.8,18.62,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,210,4,Coney Island - Sheepshead Bay,14.62,18.97,17.08,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,211,4,Williamsburg - Bushwick,20.56,21.92,21.27,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,301,4,Washington Heights,17.84,23.71,21.14,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,302,4,Central Harlem - Morningside Heights,21.59,24.5,23.15,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,303,4,East Harlem,21.06,24.19,22.99,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,304,4,Upper West Side,22.03,25.3,23.86,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,305,4,Upper East Side,21.03,29.15,25.67,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,306,4,Chelsea - Clinton,24.35,34.11,29.17,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,307,4,Gramercy Park - Murray Hill,27,34.74,31.23,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,308,4,Greenwich Village - SoHo,24.06,27.83,26.27,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,309,4,Union Square - Lower East Side,21.21,28.5,24.84,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,310,4,Lower Manhattan,24.94,28.14,26.61,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,401,4,Long Island City - Astoria,19.64,22.52,21.39,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,402,4,West Queens,19.66,22.33,21.11,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,403,4,Flushing - Clearview,17.26,20.84,19.09,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,404,4,Bayside - Little Neck,14.79,19.89,17.3,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,405,4,Ridgewood - Forest Hills,16.29,21.56,19.25,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,406,4,Fresh Meadows,17.13,20.12,18.78,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,407,4,Southwest Queens,17.02,20.18,18.68,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,408,4,Jamaica,16.76,20.22,18.42,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,409,4,Southeast Queens,15.6,18.6,17.16,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,410,4,Rockaways,11.25,15.17,13.55,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,501,4,Port Richmond,15.09,18.84,17.36,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,502,4,Stapleton - St. George,12.07,17.99,15.28,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,503,4,Willowbrook,11.59,17.03,14.21,Nitrogen Dioxide (NO2),ppb
+2015,UHF42,504,4,South Beach - Tottenville,9.71,13.87,11.91,Nitrogen Dioxide (NO2),ppb
+2015,Borough,1,1,Bronx,16.71,22.62,19.97,Nitrogen Dioxide (NO2),ppb
+2015,Borough,2,1,Brooklyn,15.86,21.97,19.29,Nitrogen Dioxide (NO2),ppb
+2015,Borough,3,1,Manhattan,20.92,30.92,25.18,Nitrogen Dioxide (NO2),ppb
+2015,Borough,4,1,Queens,15.09,21.54,18.51,Nitrogen Dioxide (NO2),ppb
+2015,Borough,5,1,Staten Island,10.58,17.67,13.72,Nitrogen Dioxide (NO2),ppb
+2015,Citywide,1,0,New York City,12.8451,22.38,18.396,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,101,4,Kingsbridge - Riverdale,14.38,20.81,17.1,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,102,4,Northeast Bronx,17.51,20.29,18.97,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,103,4,Fordham - Bronx Pk,15.3,22.51,19.44,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,104,4,Pelham - Throgs Neck,16.22,21.89,19.26,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,105,4,Crotona -Tremont,19.89,23.63,21.87,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,106,4,High Bridge - Morrisania,21.44,23.84,22.56,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,107,4,Hunts Point - Mott Haven,18.45,23.08,21.14,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,201,4,Greenpoint,20.7,24.29,22.43,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,202,4,Downtown - Heights - Slope,20.13,24.8,22.67,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,203,4,Bedford Stuyvesant - Crown Heights,20.67,22.96,21.75,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,204,4,East New York,16.82,21.49,19.75,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,205,4,Sunset Park,16.62,22.91,20.23,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,206,4,Borough Park,19.21,21.53,20.41,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,207,4,East Flatbush - Flatbush,19.05,22.15,20.47,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,208,4,Canarsie - Flatlands,12.49,19.81,17,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,209,4,Bensonhurst - Bay Ridge,15.93,21.34,19.1,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,210,4,Coney Island - Sheepshead Bay,15.02,19.63,17.63,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,211,4,Williamsburg - Bushwick,21.43,22.91,22.2,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,301,4,Washington Heights,17.48,24.05,21.12,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,302,4,Central Harlem - Morningside Heights,21.97,25.52,23.86,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,303,4,East Harlem,21.61,25.17,23.76,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,304,4,Upper West Side,23.08,26.73,25.1,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,305,4,Upper East Side,22.25,31.94,27.62,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,306,4,Chelsea - Clinton,25.52,38.7,31.9,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,307,4,Gramercy Park - Murray Hill,29.4,39.48,34.74,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,308,4,Greenwich Village - SoHo,25.21,29.89,27.99,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,309,4,Union Square - Lower East Side,22.14,30.98,26.45,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,310,4,Lower Manhattan,26.87,30.75,28.87,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,401,4,Long Island City - Astoria,20.12,23.33,22.07,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,402,4,West Queens,20.23,23.25,21.87,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,403,4,Flushing - Clearview,17.47,21.44,19.46,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,404,4,Bayside - Little Neck,14.82,20.14,17.44,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,405,4,Ridgewood - Forest Hills,16.93,22.47,20,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,406,4,Fresh Meadows,17.45,20.62,19.26,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,407,4,Southwest Queens,17.45,20.76,19.19,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,408,4,Jamaica,17.09,20.82,18.81,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,409,4,Southeast Queens,15.71,18.78,17.28,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,410,4,Rockaways,11.45,15.42,13.77,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,501,4,Port Richmond,15.23,19.05,17.54,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,502,4,Stapleton - St. George,12.35,18.23,15.53,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,503,4,Willowbrook,11.96,17.37,14.56,Nitrogen Dioxide (NO2),ppb
+2014,UHF42,504,4,South Beach - Tottenville,10.51,14.49,12.59,Nitrogen Dioxide (NO2),ppb
+2014,Borough,1,1,Bronx,16.25,22.78,19.8,Nitrogen Dioxide (NO2),ppb
+2014,Borough,2,1,Brooklyn,16.31,22.8,19.95,Nitrogen Dioxide (NO2),ppb
+2014,Borough,3,1,Manhattan,21.14,34.18,26.7,Nitrogen Dioxide (NO2),ppb
+2014,Borough,4,1,Queens,15.29,22.33,18.93,Nitrogen Dioxide (NO2),ppb
+2014,Borough,5,1,Staten Island,11.23,17.89,14.18,Nitrogen Dioxide (NO2),ppb
+2014,Citywide,1,0,New York City,13.29,23.05,18.89,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,101,4,Kingsbridge - Riverdale,15.51,21.87,18.23,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,102,4,Northeast Bronx,16.77,19.71,18.37,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,103,4,Fordham - Bronx Pk,15.45,23.45,19.89,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,104,4,Pelham - Throgs Neck,15.03,21.67,18.58,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,105,4,Crotona -Tremont,20.48,24.75,22.67,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,106,4,High Bridge - Morrisania,22.5,25.13,23.73,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,107,4,Hunts Point - Mott Haven,18.37,23.71,21.54,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,201,4,Greenpoint,21.02,24.84,22.85,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,202,4,Downtown - Heights - Slope,20.82,25.65,23.41,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,203,4,Bedford Stuyvesant - Crown Heights,21.11,23.61,22.28,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,204,4,East New York,17.23,21.93,20.19,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,205,4,Sunset Park,16.86,23.34,20.59,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,206,4,Borough Park,18.78,21.67,20.23,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,207,4,East Flatbush - Flatbush,18.83,22.55,20.57,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,208,4,Canarsie - Flatlands,11.5,19.8,16.65,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,209,4,Bensonhurst - Bay Ridge,15.09,21.26,18.58,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,210,4,Coney Island - Sheepshead Bay,13.48,18.72,16.36,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,211,4,Williamsburg - Bushwick,21.91,23.48,22.72,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,301,4,Washington Heights,19.06,25.8,22.79,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,302,4,Central Harlem - Morningside Heights,23.42,27,25.36,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,303,4,East Harlem,22.41,26.19,24.75,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,304,4,Upper West Side,24.49,28.03,26.5,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,305,4,Upper East Side,22.8,33.11,28.59,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,306,4,Chelsea - Clinton,26.71,40.46,33.35,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,307,4,Gramercy Park - Murray Hill,30.41,41.16,36.08,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,308,4,Greenwich Village - SoHo,26.33,31.15,29.19,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,309,4,Union Square - Lower East Side,22.86,32.16,27.39,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,310,4,Lower Manhattan,28.16,32.24,30.26,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,401,4,Long Island City - Astoria,20.36,23.56,22.3,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,402,4,West Queens,20.14,23.31,21.89,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,403,4,Flushing - Clearview,16.58,21.01,18.71,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,404,4,Bayside - Little Neck,13.56,19.23,16.41,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,405,4,Ridgewood - Forest Hills,17.3,22.8,20.3,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,406,4,Fresh Meadows,17,20.47,19.03,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,407,4,Southwest Queens,17.84,21.26,19.65,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,408,4,Jamaica,17.17,21.09,18.96,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,409,4,Southeast Queens,15.1,18.38,16.8,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,410,4,Rockaways,10.2,14.48,12.67,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,501,4,Port Richmond,16.22,19.81,18.38,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,502,4,Stapleton - St. George,11.86,18.44,15.4,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,503,4,Willowbrook,11.72,17.58,14.69,Nitrogen Dioxide (NO2),ppb
+2013,UHF42,504,4,South Beach - Tottenville,9.05,13.61,11.51,Nitrogen Dioxide (NO2),ppb
+2013,Borough,1,1,Bronx,16.1,23.61,19.86,Nitrogen Dioxide (NO2),ppb
+2013,Borough,2,1,Brooklyn,15.58,23.38,19.92,Nitrogen Dioxide (NO2),ppb
+2013,Borough,3,1,Manhattan,22.51,35.6,28.02,Nitrogen Dioxide (NO2),ppb
+2013,Borough,4,1,Queens,14.49,22.46,18.71,Nitrogen Dioxide (NO2),ppb
+2013,Borough,5,1,Staten Island,10.19,18.32,13.8,Nitrogen Dioxide (NO2),ppb
+2013,Citywide,1,0,New York City,12.56,23.62,18.83,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,101,4,Kingsbridge - Riverdale,16.37,22.67,19.05,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,102,4,Northeast Bronx,18.53,21.32,20.02,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,103,4,Fordham - Bronx Pk,16.76,24.3,21.01,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,104,4,Pelham - Throgs Neck,16.6,22.8,19.94,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,105,4,Crotona -Tremont,21.34,25.38,23.42,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,106,4,High Bridge - Morrisania,23.06,25.65,24.23,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,107,4,Hunts Point - Mott Haven,19.23,24.38,22.27,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,201,4,Greenpoint,21.8,25.6,23.63,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,202,4,Downtown - Heights - Slope,21.3,26.28,23.98,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,203,4,Bedford Stuyvesant - Crown Heights,21.67,24.23,22.88,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,204,4,East New York,17.7,22.47,20.67,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,205,4,Sunset Park,17.38,23.85,21.09,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,206,4,Borough Park,19.47,22.26,20.87,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,207,4,East Flatbush - Flatbush,19.47,23.13,21.16,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,208,4,Canarsie - Flatlands,12.15,20.34,17.22,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,209,4,Bensonhurst - Bay Ridge,15.82,21.87,19.27,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,210,4,Coney Island - Sheepshead Bay,14.34,19.51,17.21,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,211,4,Williamsburg - Bushwick,22.6,24.22,23.43,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,301,4,Washington Heights,19.5,26.1,23.15,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,302,4,Central Harlem - Morningside Heights,23.77,27.48,25.76,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,303,4,East Harlem,22.99,26.81,25.32,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,304,4,Upper West Side,25.01,28.73,27.08,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,305,4,Upper East Side,23.68,34.17,29.5,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,306,4,Chelsea - Clinton,27.39,41.79,34.33,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,307,4,Gramercy Park - Murray Hill,31.44,42.56,37.29,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,308,4,Greenwich Village - SoHo,27.01,31.98,29.98,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,309,4,Union Square - Lower East Side,23.59,33.16,28.23,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,310,4,Lower Manhattan,28.91,33.13,31.07,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,401,4,Long Island City - Astoria,21.15,24.44,23.14,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,402,4,West Queens,21.02,24.23,22.78,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,403,4,Flushing - Clearview,17.77,22.01,19.83,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,404,4,Bayside - Little Neck,14.73,20.28,17.46,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,405,4,Ridgewood - Forest Hills,17.87,23.55,20.99,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,406,4,Fresh Meadows,17.78,21.19,19.78,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,407,4,Southwest Queens,18.18,21.67,20.01,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,408,4,Jamaica,17.55,21.57,19.35,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,409,4,Southeast Queens,15.7,18.94,17.34,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,410,4,Rockaways,10.75,14.83,13.12,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,501,4,Port Richmond,16.59,20.23,18.78,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,502,4,Stapleton - St. George,12.59,18.93,16.01,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,503,4,Willowbrook,12.45,18.16,15.31,Nitrogen Dioxide (NO2),ppb
+2012,UHF42,504,4,South Beach - Tottenville,10.11,14.52,12.47,Nitrogen Dioxide (NO2),ppb
+2012,Borough,1,1,Bronx,17.29,24.25,20.99,Nitrogen Dioxide (NO2),ppb
+2012,Borough,2,1,Brooklyn,16.28,24.02,20.56,Nitrogen Dioxide (NO2),ppb
+2012,Borough,3,1,Manhattan,22.97,36.72,28.74,Nitrogen Dioxide (NO2),ppb
+2012,Borough,4,1,Queens,15.24,23.28,19.41,Nitrogen Dioxide (NO2),ppb
+2012,Borough,5,1,Staten Island,11.17,18.78,14.54,Nitrogen Dioxide (NO2),ppb
+2012,Citywide,1,0,New York City,13.32,24.32,19.58,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,101,4,Kingsbridge - Riverdale,18,24.54,20.79,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,102,4,Northeast Bronx,19.42,22.44,21.06,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,103,4,Fordham - Bronx Pk,18.02,26.25,22.61,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,104,4,Pelham - Throgs Neck,18.1,24.72,21.61,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,105,4,Crotona -Tremont,23.41,27.63,25.57,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,106,4,High Bridge - Morrisania,25.47,28.06,26.67,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,107,4,Hunts Point - Mott Haven,21.48,26.73,24.58,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,201,4,Greenpoint,23.97,27.9,25.84,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,202,4,Downtown - Heights - Slope,24.06,28.89,26.64,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,203,4,Bedford Stuyvesant - Crown Heights,23.97,26.77,25.3,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,204,4,East New York,19.94,24.73,22.9,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,205,4,Sunset Park,20.06,26.64,23.86,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,206,4,Borough Park,21.74,24.89,23.32,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,207,4,East Flatbush - Flatbush,21.72,25.65,23.56,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,208,4,Canarsie - Flatlands,13.85,22.52,19.21,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,209,4,Bensonhurst - Bay Ridge,18.03,24.45,21.62,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,210,4,Coney Island - Sheepshead Bay,15.95,21.52,18.98,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,211,4,Williamsburg - Bushwick,24.9,26.55,25.75,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,301,4,Washington Heights,21.74,28.63,25.56,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,302,4,Central Harlem - Morningside Heights,26.29,29.88,28.23,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,303,4,East Harlem,25.31,29.08,27.65,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,304,4,Upper West Side,27.27,30.83,29.3,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,305,4,Upper East Side,25.69,36.09,31.52,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,306,4,Chelsea - Clinton,29.52,43.61,36.33,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,307,4,Gramercy Park - Murray Hill,33.42,44.34,39.18,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,308,4,Greenwich Village - SoHo,29.26,34.31,32.25,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,309,4,Union Square - Lower East Side,25.9,35.24,30.45,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,310,4,Lower Manhattan,31.41,35.51,33.5,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,401,4,Long Island City - Astoria,23.3,26.53,25.24,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,402,4,West Queens,23.23,26.4,24.96,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,403,4,Flushing - Clearview,19.8,24.23,21.94,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,404,4,Bayside - Little Neck,16.64,22.39,19.48,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,405,4,Ridgewood - Forest Hills,20.17,25.81,23.26,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,406,4,Fresh Meadows,20.05,23.52,22.1,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,407,4,Southwest Queens,20.31,23.94,22.21,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,408,4,Jamaica,19.72,23.87,21.54,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,409,4,Southeast Queens,17.59,21.04,19.29,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,410,4,Rockaways,11.96,15.99,14.27,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,501,4,Port Richmond,18.83,22.6,21.12,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,502,4,Stapleton - St. George,14.55,21.51,18.29,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,503,4,Willowbrook,14.1,20.21,17.17,Nitrogen Dioxide (NO2),ppb
+2011,UHF42,504,4,South Beach - Tottenville,10.84,15.79,13.5,Nitrogen Dioxide (NO2),ppb
+2011,Borough,1,1,Bronx,18.85,26.54,22.73,Nitrogen Dioxide (NO2),ppb
+2011,Borough,2,1,Brooklyn,18.2,26.53,22.84,Nitrogen Dioxide (NO2),ppb
+2011,Borough,3,1,Manhattan,25.35,38.64,30.96,Nitrogen Dioxide (NO2),ppb
+2011,Borough,4,1,Queens,17.05,25.47,21.47,Nitrogen Dioxide (NO2),ppb
+2011,Borough,5,1,Staten Island,12.02,21.17,16.17,Nitrogen Dioxide (NO2),ppb
+2011,Citywide,1,0,New York City,14.71,26.66,21.58,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,101,4,Kingsbridge - Riverdale,17.23,24.06,20.13,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,102,4,Northeast Bronx,18.47,21.69,20.21,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,103,4,Fordham - Bronx Pk,17.19,25.94,22.06,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,104,4,Pelham - Throgs Neck,17.47,24.26,21.04,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,105,4,Crotona -Tremont,23.02,27.4,25.25,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,106,4,High Bridge - Morrisania,25.15,27.87,26.38,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,107,4,Hunts Point - Mott Haven,20.84,26.33,24.1,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,201,4,Greenpoint,23.07,27.38,25.08,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,202,4,Downtown - Heights - Slope,23.81,28.76,26.46,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,203,4,Bedford Stuyvesant - Crown Heights,23.78,26.71,25.17,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,204,4,East New York,19.43,24.37,22.49,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,205,4,Sunset Park,19.91,26.57,23.77,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,206,4,Borough Park,21.87,25.01,23.43,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,207,4,East Flatbush - Flatbush,21.82,25.76,23.64,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,208,4,Canarsie - Flatlands,13.73,22.44,19.1,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,209,4,Bensonhurst - Bay Ridge,17.81,24.29,21.48,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,210,4,Coney Island - Sheepshead Bay,15.88,21.63,19.01,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,211,4,Williamsburg - Bushwick,24.35,26.14,25.31,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,301,4,Washington Heights,21.29,28.34,25.22,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,302,4,Central Harlem - Morningside Heights,25.85,29.5,27.83,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,303,4,East Harlem,24.65,28.51,27.07,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,304,4,Upper West Side,26.59,30.15,28.66,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,305,4,Upper East Side,24.92,35.84,31.02,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,306,4,Chelsea - Clinton,28.65,43.96,36.03,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,307,4,Gramercy Park - Murray Hill,33.01,44.76,39.17,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,308,4,Greenwich Village - SoHo,28.48,34.07,31.8,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,309,4,Union Square - Lower East Side,25.28,34.98,29.99,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,310,4,Lower Manhattan,31.29,35.59,33.48,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,401,4,Long Island City - Astoria,22.34,25.65,24.32,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,402,4,West Queens,22.42,25.66,24.18,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,403,4,Flushing - Clearview,19.3,23.77,21.48,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,404,4,Bayside - Little Neck,16.36,22.09,19.23,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,405,4,Ridgewood - Forest Hills,19.55,25.21,22.61,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,406,4,Fresh Meadows,19.71,23.08,21.67,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,407,4,Southwest Queens,19.81,23.42,21.7,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,408,4,Jamaica,19.42,23.51,21.22,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,409,4,Southeast Queens,17.37,20.88,19.1,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,410,4,Rockaways,11.75,15.79,14.07,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,501,4,Port Richmond,17.41,21.3,19.79,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,502,4,Stapleton - St. George,13.61,20.64,17.38,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,503,4,Willowbrook,13.04,18.97,16,Nitrogen Dioxide (NO2),ppb
+2010,UHF42,504,4,South Beach - Tottenville,10.7,15.12,13.05,Nitrogen Dioxide (NO2),ppb
+2010,Borough,1,1,Bronx,18.09,26.19,22.16,Nitrogen Dioxide (NO2),ppb
+2010,Borough,2,1,Brooklyn,18.1,26.33,22.7,Nitrogen Dioxide (NO2),ppb
+2010,Borough,3,1,Manhattan,24.89,38.56,30.58,Nitrogen Dioxide (NO2),ppb
+2010,Borough,4,1,Queens,16.78,24.75,21.01,Nitrogen Dioxide (NO2),ppb
+2010,Borough,5,1,Staten Island,11.75,20.1,15.35,Nitrogen Dioxide (NO2),ppb
+2010,Citywide,1,0,New York City,14.11,26.3,21.11,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,101,4,Kingsbridge - Riverdale,20.28,27.13,23.2,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,102,4,Northeast Bronx,20.56,23.91,22.39,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,103,4,Fordham - Bronx Pk,19.77,29.02,24.82,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,104,4,Pelham - Throgs Neck,18.86,26.42,22.83,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,105,4,Crotona -Tremont,25.53,30.51,28.07,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,106,4,High Bridge - Morrisania,27.98,31.02,29.35,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,107,4,Hunts Point - Mott Haven,22.64,28.87,26.39,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,201,4,Greenpoint,24.81,29.37,26.95,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,202,4,Downtown - Heights - Slope,25.51,30.96,28.4,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,203,4,Bedford Stuyvesant - Crown Heights,25.35,28.65,26.93,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,204,4,East New York,20.74,25.86,23.9,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,205,4,Sunset Park,21.26,28.15,25.26,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,206,4,Borough Park,23.12,26.52,24.79,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,207,4,East Flatbush - Flatbush,23.11,27.48,25.14,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,208,4,Canarsie - Flatlands,14.55,23.74,20.22,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,209,4,Bensonhurst - Bay Ridge,18.67,25.57,22.54,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,210,4,Coney Island - Sheepshead Bay,16.57,22.7,19.9,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,211,4,Williamsburg - Bushwick,26.01,28.08,27.13,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,301,4,Washington Heights,24.49,31.71,28.5,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,302,4,Central Harlem - Morningside Heights,28.92,32.84,31.06,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,303,4,East Harlem,27.25,31.47,29.9,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,304,4,Upper West Side,29.8,33.44,31.95,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,305,4,Upper East Side,27.47,39.73,34.29,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,306,4,Chelsea - Clinton,31.57,48.96,39.87,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,307,4,Gramercy Park - Murray Hill,36.34,49.82,43.32,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,308,4,Greenwich Village - SoHo,31.17,37.2,34.75,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,309,4,Union Square - Lower East Side,27.48,38.38,32.71,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,310,4,Lower Manhattan,34.25,39.08,36.69,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,401,4,Long Island City - Astoria,24.28,27.7,26.29,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,402,4,West Queens,23.95,27.35,25.81,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,403,4,Flushing - Clearview,20.46,25.1,22.68,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,404,4,Bayside - Little Neck,17.11,23.04,20.05,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,405,4,Ridgewood - Forest Hills,20.9,26.81,24.06,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,406,4,Fresh Meadows,20.68,24.24,22.78,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,407,4,Southwest Queens,20.99,24.71,22.93,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,408,4,Jamaica,20.43,24.75,22.29,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,409,4,Southeast Queens,18.15,21.74,19.89,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,410,4,Rockaways,12.32,16.43,14.68,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,501,4,Port Richmond,19.15,22.77,21.35,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,502,4,Stapleton - St. George,14.53,21.82,18.41,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,503,4,Willowbrook,14.47,20.38,17.49,Nitrogen Dioxide (NO2),ppb
+2009,UHF42,504,4,South Beach - Tottenville,12.49,16.78,14.71,Nitrogen Dioxide (NO2),ppb
+2009,Borough,1,1,Bronx,20.36,29.03,24.52,Nitrogen Dioxide (NO2),ppb
+2009,Borough,2,1,Brooklyn,19.03,28.21,24.11,Nitrogen Dioxide (NO2),ppb
+2009,Borough,3,1,Manhattan,27.8,42.64,33.89,Nitrogen Dioxide (NO2),ppb
+2009,Borough,4,1,Queens,17.57,26.4,22.19,Nitrogen Dioxide (NO2),ppb
+2009,Borough,5,1,Staten Island,13.33,21.41,16.84,Nitrogen Dioxide (NO2),ppb
+2009,Citywide,1,0,New York City,15.4,28.63,22.72,Nitrogen Dioxide (NO2),ppb
+2021,UHF42,101,4,Kingsbridge - Riverdale,6.071367361,11.61928887,8.523114885,Nitric Oxide (NOx),ppb
+2021,UHF42,102,4,Northeast Bronx,8.716619903,11.36110575,9.953026512,Nitric Oxide (NOx),ppb
+2021,UHF42,103,4,Fordham - Bronx Pk,7.334746314,11.84706721,9.723670137,Nitric Oxide (NOx),ppb
+2021,UHF42,104,4,Pelham - Throgs Neck,7.597115447,14.8480012,11.09643053,Nitric Oxide (NOx),ppb
+2021,UHF42,105,4,Crotona -Tremont,11.08192231,15.34061867,13.15753525,Nitric Oxide (NOx),ppb
+2021,UHF42,106,4,High Bridge - Morrisania,10.43354616,15.61091042,12.3452356,Nitric Oxide (NOx),ppb
+2021,UHF42,107,4,Hunts Point - Mott Haven,8.231190613,26.60213858,16.41495298,Nitric Oxide (NOx),ppb
+2021,UHF42,201,4,Greenpoint,13.99167471,34.59146053,22.65040326,Nitric Oxide (NOx),ppb
+2021,UHF42,202,4,Downtown - Heights - Slope,11.54414864,18.83864238,14.78496426,Nitric Oxide (NOx),ppb
+2021,UHF42,203,4,Bedford Stuyvesant - Crown Heights,10.48090397,13.22007599,11.76319386,Nitric Oxide (NOx),ppb
+2021,UHF42,204,4,East New York,8.839920691,17.04915915,12.3221787,Nitric Oxide (NOx),ppb
+2021,UHF42,205,4,Sunset Park,8.700662125,26.87975456,16.07062018,Nitric Oxide (NOx),ppb
+2021,UHF42,206,4,Borough Park,10.34540442,11.95310923,11.09946368,Nitric Oxide (NOx),ppb
+2021,UHF42,207,4,East Flatbush - Flatbush,10.0415001,12.00402427,10.98394533,Nitric Oxide (NOx),ppb
+2021,UHF42,208,4,Canarsie - Flatlands,6.322039679,14.19610257,10.20681203,Nitric Oxide (NOx),ppb
+2021,UHF42,209,4,Bensonhurst - Bay Ridge,9.28586998,13.37547246,11.19475308,Nitric Oxide (NOx),ppb
+2021,UHF42,210,4,Coney Island - Sheepshead Bay,8.314910595,11.07185663,9.999534174,Nitric Oxide (NOx),ppb
+2021,UHF42,211,4,Williamsburg - Bushwick,10.41767058,29.94954802,17.75234703,Nitric Oxide (NOx),ppb
+2021,UHF42,301,4,Washington Heights,7.609657827,22.34422121,13.2910204,Nitric Oxide (NOx),ppb
+2021,UHF42,302,4,Central Harlem - Morningside Heights,10.6428001,12.62563684,11.56844662,Nitric Oxide (NOx),ppb
+2021,UHF42,303,4,East Harlem,11.16529429,14.16078431,12.67825284,Nitric Oxide (NOx),ppb
+2021,UHF42,304,4,Upper West Side,9.961837254,12.6632584,11.44006213,Nitric Oxide (NOx),ppb
+2021,UHF42,305,4,Upper East Side,10.24217439,14.53836678,12.63782104,Nitric Oxide (NOx),ppb
+2021,UHF42,306,4,Chelsea - Clinton,12.87238933,17.29926385,14.61756989,Nitric Oxide (NOx),ppb
+2021,UHF42,307,4,Gramercy Park - Murray Hill,12.80882068,15.08508201,14.08842404,Nitric Oxide (NOx),ppb
+2021,UHF42,308,4,Greenwich Village - SoHo,13.18422814,15.06719324,14.18252726,Nitric Oxide (NOx),ppb
+2021,UHF42,309,4,Union Square - Lower East Side,10.70604213,13.58749676,12.38691117,Nitric Oxide (NOx),ppb
+2021,UHF42,310,4,Lower Manhattan,10.83938117,13.47004764,12.2322937,Nitric Oxide (NOx),ppb
+2021,UHF42,401,4,Long Island City - Astoria,10.55061169,27.36376323,16.26657146,Nitric Oxide (NOx),ppb
+2021,UHF42,402,4,West Queens,10.09072841,36.60327603,19.47507213,Nitric Oxide (NOx),ppb
+2021,UHF42,403,4,Flushing - Clearview,7.865207558,11.68711686,9.677902592,Nitric Oxide (NOx),ppb
+2021,UHF42,404,4,Bayside - Little Neck,6.40170761,10.89808698,8.759038191,Nitric Oxide (NOx),ppb
+2021,UHF42,405,4,Ridgewood - Forest Hills,7.785588806,13.94531754,11.43240453,Nitric Oxide (NOx),ppb
+2021,UHF42,406,4,Fresh Meadows,8.664102896,11.04443558,9.715675779,Nitric Oxide (NOx),ppb
+2021,UHF42,407,4,Southwest Queens,8.445154863,11.54301906,10.11271364,Nitric Oxide (NOx),ppb
+2021,UHF42,408,4,Jamaica,8.169465076,14.95905679,11.72544417,Nitric Oxide (NOx),ppb
+2021,UHF42,409,4,Southeast Queens,8.117355208,10.46514641,10.27724109,Nitric Oxide (NOx),ppb
+2021,UHF42,410,4,Rockaways,5.509274184,8.207395782,7.1170705,Nitric Oxide (NOx),ppb
+2021,UHF42,501,4,Port Richmond,9.06518889,12.19428273,10.77721217,Nitric Oxide (NOx),ppb
+2021,UHF42,502,4,Stapleton - St. George,7.252356959,11.29179506,9.264620796,Nitric Oxide (NOx),ppb
+2021,UHF42,503,4,Willowbrook,6.480320991,11.98572345,9.035366623,Nitric Oxide (NOx),ppb
+2021,UHF42,504,4,South Beach - Tottenville,6.803084961,9.909712624,8.487029487,Nitric Oxide (NOx),ppb
+2021,Borough,1,1,Bronx,7.787755139,15.25553941,11.48095007,Nitric Oxide (NOx),ppb
+2021,Borough,2,1,Brooklyn,8.950655529,17.69695761,12.73878012,Nitric Oxide (NOx),ppb
+2021,Borough,3,1,Manhattan,10.44178701,15.21284775,12.95352858,Nitric Oxide (NOx),ppb
+2021,Borough,4,1,Queens,7.570023743,13.95464404,11.56543028,Nitric Oxide (NOx),ppb
+2021,Borough,5,1,Staten Island,6.837514916,11.32816948,9.018612656,Nitric Oxide (NOx),ppb
+2021,Citywide,1,0,New York City,7.544137697,14.606652,11.39866399,Nitric Oxide (NOx),ppb
+2020,UHF42,101,4,Kingsbridge - Riverdale,8.26,11.29,9.3,Nitric Oxide (NOx),ppb
+2020,UHF42,102,4,Northeast Bronx,8.8,11.01,9.64,Nitric Oxide (NOx),ppb
+2020,UHF42,103,4,Fordham - Bronx Pk,8.78,11.58,10.11,Nitric Oxide (NOx),ppb
+2020,UHF42,104,4,Pelham - Throgs Neck,9.12,12.05,10.48,Nitric Oxide (NOx),ppb
+2020,UHF42,105,4,Crotona -Tremont,10.51,13.23,11.8,Nitric Oxide (NOx),ppb
+2020,UHF42,106,4,High Bridge - Morrisania,11.1,13.26,12.04,Nitric Oxide (NOx),ppb
+2020,UHF42,107,4,Hunts Point - Mott Haven,10.46,23.12,15.44,Nitric Oxide (NOx),ppb
+2020,UHF42,201,4,Greenpoint,13.38,35.18,21.97,Nitric Oxide (NOx),ppb
+2020,UHF42,202,4,Downtown - Heights - Slope,11.7,18.86,14.58,Nitric Oxide (NOx),ppb
+2020,UHF42,203,4,Bedford Stuyvesant - Crown Heights,10.77,13.61,12.12,Nitric Oxide (NOx),ppb
+2020,UHF42,204,4,East New York,10.16,14.16,12.03,Nitric Oxide (NOx),ppb
+2020,UHF42,205,4,Sunset Park,9.84,21.25,14.53,Nitric Oxide (NOx),ppb
+2020,UHF42,206,4,Borough Park,8.96,10.55,9.76,Nitric Oxide (NOx),ppb
+2020,UHF42,207,4,East Flatbush - Flatbush,9.36,11.52,10.36,Nitric Oxide (NOx),ppb
+2020,UHF42,208,4,Canarsie - Flatlands,8.41,13.45,10.24,Nitric Oxide (NOx),ppb
+2020,UHF42,209,4,Bensonhurst - Bay Ridge,8.64,10.01,9.17,Nitric Oxide (NOx),ppb
+2020,UHF42,210,4,Coney Island - Sheepshead Bay,8.31,9.29,8.79,Nitric Oxide (NOx),ppb
+2020,UHF42,211,4,Williamsburg - Bushwick,11.05,31.93,17.84,Nitric Oxide (NOx),ppb
+2020,UHF42,301,4,Washington Heights,9.64,14.55,11.87,Nitric Oxide (NOx),ppb
+2020,UHF42,302,4,Central Harlem - Morningside Heights,11.19,13.63,12,Nitric Oxide (NOx),ppb
+2020,UHF42,303,4,East Harlem,11.19,13.39,12.17,Nitric Oxide (NOx),ppb
+2020,UHF42,304,4,Upper West Side,11.25,14.05,12.64,Nitric Oxide (NOx),ppb
+2020,UHF42,305,4,Upper East Side,12.37,15.73,14.13,Nitric Oxide (NOx),ppb
+2020,UHF42,306,4,Chelsea - Clinton,12.41,17.95,15.11,Nitric Oxide (NOx),ppb
+2020,UHF42,307,4,Gramercy Park - Murray Hill,12.6,16.81,14.45,Nitric Oxide (NOx),ppb
+2020,UHF42,308,4,Greenwich Village - SoHo,12.74,16.43,14.63,Nitric Oxide (NOx),ppb
+2020,UHF42,309,4,Union Square - Lower East Side,11.81,15.94,13.57,Nitric Oxide (NOx),ppb
+2020,UHF42,310,4,Lower Manhattan,12.93,15.13,14.03,Nitric Oxide (NOx),ppb
+2020,UHF42,401,4,Long Island City - Astoria,10.92,29.48,16.82,Nitric Oxide (NOx),ppb
+2020,UHF42,402,4,West Queens,9.91,28.8,15.38,Nitric Oxide (NOx),ppb
+2020,UHF42,403,4,Flushing - Clearview,9.42,15.28,11.26,Nitric Oxide (NOx),ppb
+2020,UHF42,404,4,Bayside - Little Neck,9.36,10.77,9.99,Nitric Oxide (NOx),ppb
+2020,UHF42,405,4,Ridgewood - Forest Hills,9.64,12.71,11.55,Nitric Oxide (NOx),ppb
+2020,UHF42,406,4,Fresh Meadows,9.47,10.99,10.21,Nitric Oxide (NOx),ppb
+2020,UHF42,407,4,Southwest Queens,9.31,11.38,10.29,Nitric Oxide (NOx),ppb
+2020,UHF42,408,4,Jamaica,9.65,12.69,10.87,Nitric Oxide (NOx),ppb
+2020,UHF42,409,4,Southeast Queens,9.51,10.76,10.1,Nitric Oxide (NOx),ppb
+2020,UHF42,410,4,Rockaways,7.66,9.09,8.52,Nitric Oxide (NOx),ppb
+2020,UHF42,501,4,Port Richmond,8.1,10.38,9.28,Nitric Oxide (NOx),ppb
+2020,UHF42,502,4,Stapleton - St. George,7.6,9.31,8.48,Nitric Oxide (NOx),ppb
+2020,UHF42,503,4,Willowbrook,7.05,9.05,7.82,Nitric Oxide (NOx),ppb
+2020,UHF42,504,4,South Beach - Tottenville,5.82,7.71,7.26,Nitric Oxide (NOx),ppb
+2020,Borough,1,1,Bronx,9.16,13.34,11.11,Nitric Oxide (NOx),ppb
+2020,Borough,2,1,Brooklyn,8.94,15.88,12.03,Nitric Oxide (NOx),ppb
+2020,Borough,3,1,Manhattan,11.4,16.7,13.84,Nitric Oxide (NOx),ppb
+2020,Borough,4,1,Queens,9.36,13.03,11.27,Nitric Oxide (NOx),ppb
+2020,Borough,5,1,Staten Island,6.07,9.45,7.79,Nitric Oxide (NOx),ppb
+2020,Citywide,1,0,New York City,7.49,14.42,10.91,Nitric Oxide (NOx),ppb
+2019,UHF42,101,4,Kingsbridge - Riverdale,8.77,12.5,10,Nitric Oxide (NOx),ppb
+2019,UHF42,102,4,Northeast Bronx,9.36,11.72,10.28,Nitric Oxide (NOx),ppb
+2019,UHF42,103,4,Fordham - Bronx Pk,9.35,12.61,10.89,Nitric Oxide (NOx),ppb
+2019,UHF42,104,4,Pelham - Throgs Neck,9.63,12.7,11.05,Nitric Oxide (NOx),ppb
+2019,UHF42,105,4,Crotona -Tremont,11.28,14.86,12.91,Nitric Oxide (NOx),ppb
+2019,UHF42,106,4,High Bridge - Morrisania,11.82,14.32,12.98,Nitric Oxide (NOx),ppb
+2019,UHF42,107,4,Hunts Point - Mott Haven,10.73,21.39,15.17,Nitric Oxide (NOx),ppb
+2019,UHF42,201,4,Greenpoint,12.85,28.64,19.14,Nitric Oxide (NOx),ppb
+2019,UHF42,202,4,Downtown - Heights - Slope,11.77,17.55,14.26,Nitric Oxide (NOx),ppb
+2019,UHF42,203,4,Bedford Stuyvesant - Crown Heights,10.35,12.73,11.57,Nitric Oxide (NOx),ppb
+2019,UHF42,204,4,East New York,9.44,12.75,10.97,Nitric Oxide (NOx),ppb
+2019,UHF42,205,4,Sunset Park,9.82,20.23,14.16,Nitric Oxide (NOx),ppb
+2019,UHF42,206,4,Borough Park,8.98,10.54,9.75,Nitric Oxide (NOx),ppb
+2019,UHF42,207,4,East Flatbush - Flatbush,9.16,10.98,10.08,Nitric Oxide (NOx),ppb
+2019,UHF42,208,4,Canarsie - Flatlands,8.02,12.15,9.55,Nitric Oxide (NOx),ppb
+2019,UHF42,209,4,Bensonhurst - Bay Ridge,8.73,10.33,9.31,Nitric Oxide (NOx),ppb
+2019,UHF42,210,4,Coney Island - Sheepshead Bay,8.14,9.21,8.71,Nitric Oxide (NOx),ppb
+2019,UHF42,211,4,Williamsburg - Bushwick,10.59,25.84,15.71,Nitric Oxide (NOx),ppb
+2019,UHF42,301,4,Washington Heights,10.31,17.89,13.3,Nitric Oxide (NOx),ppb
+2019,UHF42,302,4,Central Harlem - Morningside Heights,11.93,14.38,12.8,Nitric Oxide (NOx),ppb
+2019,UHF42,303,4,East Harlem,11.98,14.49,13.06,Nitric Oxide (NOx),ppb
+2019,UHF42,304,4,Upper West Side,12.12,15.59,13.8,Nitric Oxide (NOx),ppb
+2019,UHF42,305,4,Upper East Side,12.89,17.33,15.3,Nitric Oxide (NOx),ppb
+2019,UHF42,306,4,Chelsea - Clinton,13.22,19.44,16.16,Nitric Oxide (NOx),ppb
+2019,UHF42,307,4,Gramercy Park - Murray Hill,13.3,17.97,15.45,Nitric Oxide (NOx),ppb
+2019,UHF42,308,4,Greenwich Village - SoHo,13.45,17.19,15.28,Nitric Oxide (NOx),ppb
+2019,UHF42,309,4,Union Square - Lower East Side,11.94,16.87,13.99,Nitric Oxide (NOx),ppb
+2019,UHF42,310,4,Lower Manhattan,13.39,15.79,14.62,Nitric Oxide (NOx),ppb
+2019,UHF42,401,4,Long Island City - Astoria,10.97,24.81,15.38,Nitric Oxide (NOx),ppb
+2019,UHF42,402,4,West Queens,9.85,24.38,13.92,Nitric Oxide (NOx),ppb
+2019,UHF42,403,4,Flushing - Clearview,9.67,14.7,11.36,Nitric Oxide (NOx),ppb
+2019,UHF42,404,4,Bayside - Little Neck,9.86,11.84,10.68,Nitric Oxide (NOx),ppb
+2019,UHF42,405,4,Ridgewood - Forest Hills,9.25,11.84,10.77,Nitric Oxide (NOx),ppb
+2019,UHF42,406,4,Fresh Meadows,9.53,11.37,10.34,Nitric Oxide (NOx),ppb
+2019,UHF42,407,4,Southwest Queens,8.69,10.78,9.71,Nitric Oxide (NOx),ppb
+2019,UHF42,408,4,Jamaica,9.59,12.14,10.63,Nitric Oxide (NOx),ppb
+2019,UHF42,409,4,Southeast Queens,9.58,11.19,10.38,Nitric Oxide (NOx),ppb
+2019,UHF42,410,4,Rockaways,7.24,8.59,7.98,Nitric Oxide (NOx),ppb
+2019,UHF42,501,4,Port Richmond,7.46,8.84,8.21,Nitric Oxide (NOx),ppb
+2019,UHF42,502,4,Stapleton - St. George,7.2,9.05,8.15,Nitric Oxide (NOx),ppb
+2019,UHF42,503,4,Willowbrook,6.31,8.03,7.01,Nitric Oxide (NOx),ppb
+2019,UHF42,504,4,South Beach - Tottenville,5.43,7.24,6.53,Nitric Oxide (NOx),ppb
+2019,Borough,1,1,Bronx,9.43,14.32,11.69,Nitric Oxide (NOx),ppb
+2019,Borough,2,1,Brooklyn,8.57,15.24,11.44,Nitric Oxide (NOx),ppb
+2019,Borough,3,1,Manhattan,11.84,17.32,14.32,Nitric Oxide (NOx),ppb
+2019,Borough,4,1,Queens,9.03,12.86,11.1,Nitric Oxide (NOx),ppb
+2019,Borough,5,1,Staten Island,5.67,8.71,7.15,Nitric Oxide (NOx),ppb
+2019,Citywide,1,0,New York City,6.78,14.38,10.68,Nitric Oxide (NOx),ppb
+2018,UHF42,101,4,Kingsbridge - Riverdale,10.54,14.9,12.06,Nitric Oxide (NOx),ppb
+2018,UHF42,102,4,Northeast Bronx,10.09,12.37,11.1,Nitric Oxide (NOx),ppb
+2018,UHF42,103,4,Fordham - Bronx Pk,10.81,15.45,13.04,Nitric Oxide (NOx),ppb
+2018,UHF42,104,4,Pelham - Throgs Neck,9.46,14.39,11.72,Nitric Oxide (NOx),ppb
+2018,UHF42,105,4,Crotona -Tremont,11.83,15.52,13.8,Nitric Oxide (NOx),ppb
+2018,UHF42,106,4,High Bridge - Morrisania,12.44,15.41,14.05,Nitric Oxide (NOx),ppb
+2018,UHF42,107,4,Hunts Point - Mott Haven,10.11,14.65,12.45,Nitric Oxide (NOx),ppb
+2018,UHF42,201,4,Greenpoint,13.29,20.97,16.42,Nitric Oxide (NOx),ppb
+2018,UHF42,202,4,Downtown - Heights - Slope,14.03,20.62,17.01,Nitric Oxide (NOx),ppb
+2018,UHF42,203,4,Bedford Stuyvesant - Crown Heights,14.24,17.23,15.74,Nitric Oxide (NOx),ppb
+2018,UHF42,204,4,East New York,12.18,14.72,13.45,Nitric Oxide (NOx),ppb
+2018,UHF42,205,4,Sunset Park,11.59,17.54,14.13,Nitric Oxide (NOx),ppb
+2018,UHF42,206,4,Borough Park,11.57,14.36,12.77,Nitric Oxide (NOx),ppb
+2018,UHF42,207,4,East Flatbush - Flatbush,12.2,17.14,14.58,Nitric Oxide (NOx),ppb
+2018,UHF42,208,4,Canarsie - Flatlands,9.59,13.36,11.53,Nitric Oxide (NOx),ppb
+2018,UHF42,209,4,Bensonhurst - Bay Ridge,9.66,12.51,11.02,Nitric Oxide (NOx),ppb
+2018,UHF42,210,4,Coney Island - Sheepshead Bay,8.81,11.53,10.16,Nitric Oxide (NOx),ppb
+2018,UHF42,211,4,Williamsburg - Bushwick,14.53,17.18,15.67,Nitric Oxide (NOx),ppb
+2018,UHF42,301,4,Washington Heights,12.07,20.07,15.74,Nitric Oxide (NOx),ppb
+2018,UHF42,302,4,Central Harlem - Morningside Heights,13.45,16.13,14.84,Nitric Oxide (NOx),ppb
+2018,UHF42,303,4,East Harlem,12.92,18.03,15.24,Nitric Oxide (NOx),ppb
+2018,UHF42,304,4,Upper West Side,14.58,24.89,19.16,Nitric Oxide (NOx),ppb
+2018,UHF42,305,4,Upper East Side,12.72,29.06,22,Nitric Oxide (NOx),ppb
+2018,UHF42,306,4,Chelsea - Clinton,15.99,29.22,23.17,Nitric Oxide (NOx),ppb
+2018,UHF42,307,4,Gramercy Park - Murray Hill,16.92,27.32,21.71,Nitric Oxide (NOx),ppb
+2018,UHF42,308,4,Greenwich Village - SoHo,18.91,35.29,26.65,Nitric Oxide (NOx),ppb
+2018,UHF42,309,4,Union Square - Lower East Side,14.31,29.38,21.19,Nitric Oxide (NOx),ppb
+2018,UHF42,310,4,Lower Manhattan,17.51,22.38,19.87,Nitric Oxide (NOx),ppb
+2018,UHF42,401,4,Long Island City - Astoria,11.2,14.66,13.01,Nitric Oxide (NOx),ppb
+2018,UHF42,402,4,West Queens,11.29,14.56,12.89,Nitric Oxide (NOx),ppb
+2018,UHF42,403,4,Flushing - Clearview,9.59,12.81,10.77,Nitric Oxide (NOx),ppb
+2018,UHF42,404,4,Bayside - Little Neck,9.15,10.97,9.96,Nitric Oxide (NOx),ppb
+2018,UHF42,405,4,Ridgewood - Forest Hills,11.82,15,13.17,Nitric Oxide (NOx),ppb
+2018,UHF42,406,4,Fresh Meadows,10,12.3,11.11,Nitric Oxide (NOx),ppb
+2018,UHF42,407,4,Southwest Queens,10.77,13.09,11.88,Nitric Oxide (NOx),ppb
+2018,UHF42,408,4,Jamaica,9.82,12.36,10.85,Nitric Oxide (NOx),ppb
+2018,UHF42,409,4,Southeast Queens,8.7,10.25,9.43,Nitric Oxide (NOx),ppb
+2018,UHF42,410,4,Rockaways,7.48,8.51,7.96,Nitric Oxide (NOx),ppb
+2018,UHF42,501,4,Port Richmond,7.65,9.48,8.61,Nitric Oxide (NOx),ppb
+2018,UHF42,502,4,Stapleton - St. George,7.88,10.65,9.19,Nitric Oxide (NOx),ppb
+2018,UHF42,503,4,Willowbrook,6.67,9.32,7.7,Nitric Oxide (NOx),ppb
+2018,UHF42,504,4,South Beach - Tottenville,5.86,7.39,6.55,Nitric Oxide (NOx),ppb
+2018,Borough,1,1,Bronx,10.02,14.92,12.29,Nitric Oxide (NOx),ppb
+2018,Borough,2,1,Brooklyn,10.07,17.02,13.48,Nitric Oxide (NOx),ppb
+2018,Borough,3,1,Manhattan,13.59,27.68,19.61,Nitric Oxide (NOx),ppb
+2018,Borough,4,1,Queens,8.89,13.64,11.06,Nitric Oxide (NOx),ppb
+2018,Borough,5,1,Staten Island,6.07,9.55,7.57,Nitric Oxide (NOx),ppb
+2018,Citywide,1,0,New York City,7.21,15.96,11.72,Nitric Oxide (NOx),ppb
+2017,UHF42,101,4,Kingsbridge - Riverdale,10.47,15.43,12.09,Nitric Oxide (NOx),ppb
+2017,UHF42,102,4,Northeast Bronx,11.26,15.85,12.94,Nitric Oxide (NOx),ppb
+2017,UHF42,103,4,Fordham - Bronx Pk,11.43,15.6,13.47,Nitric Oxide (NOx),ppb
+2017,UHF42,104,4,Pelham - Throgs Neck,10.97,17.33,13.67,Nitric Oxide (NOx),ppb
+2017,UHF42,105,4,Crotona -Tremont,12.68,17.02,14.8,Nitric Oxide (NOx),ppb
+2017,UHF42,106,4,High Bridge - Morrisania,12.92,16.16,14.54,Nitric Oxide (NOx),ppb
+2017,UHF42,107,4,Hunts Point - Mott Haven,11.13,16.29,13.57,Nitric Oxide (NOx),ppb
+2017,UHF42,201,4,Greenpoint,14.23,22.66,17.63,Nitric Oxide (NOx),ppb
+2017,UHF42,202,4,Downtown - Heights - Slope,14.48,22.89,18.54,Nitric Oxide (NOx),ppb
+2017,UHF42,203,4,Bedford Stuyvesant - Crown Heights,14.6,17.89,16.21,Nitric Oxide (NOx),ppb
+2017,UHF42,204,4,East New York,12.81,17.18,14.79,Nitric Oxide (NOx),ppb
+2017,UHF42,205,4,Sunset Park,12.35,19.48,15.36,Nitric Oxide (NOx),ppb
+2017,UHF42,206,4,Borough Park,12.67,15.23,13.84,Nitric Oxide (NOx),ppb
+2017,UHF42,207,4,East Flatbush - Flatbush,13.03,17.73,15.33,Nitric Oxide (NOx),ppb
+2017,UHF42,208,4,Canarsie - Flatlands,11.16,14.46,12.74,Nitric Oxide (NOx),ppb
+2017,UHF42,209,4,Bensonhurst - Bay Ridge,11.02,14.66,12.55,Nitric Oxide (NOx),ppb
+2017,UHF42,210,4,Coney Island - Sheepshead Bay,10.47,13.18,11.77,Nitric Oxide (NOx),ppb
+2017,UHF42,211,4,Williamsburg - Bushwick,14.97,17.37,16.16,Nitric Oxide (NOx),ppb
+2017,UHF42,301,4,Washington Heights,11.73,18.05,14.88,Nitric Oxide (NOx),ppb
+2017,UHF42,302,4,Central Harlem - Morningside Heights,13.72,16.31,15.13,Nitric Oxide (NOx),ppb
+2017,UHF42,303,4,East Harlem,14.02,18.92,16.36,Nitric Oxide (NOx),ppb
+2017,UHF42,304,4,Upper West Side,14.96,25.92,19.71,Nitric Oxide (NOx),ppb
+2017,UHF42,305,4,Upper East Side,15.81,32.07,23.86,Nitric Oxide (NOx),ppb
+2017,UHF42,306,4,Chelsea - Clinton,16.93,32.1,25.21,Nitric Oxide (NOx),ppb
+2017,UHF42,307,4,Gramercy Park - Murray Hill,19.92,30.31,25.06,Nitric Oxide (NOx),ppb
+2017,UHF42,308,4,Greenwich Village - SoHo,20.17,40.52,29.27,Nitric Oxide (NOx),ppb
+2017,UHF42,309,4,Union Square - Lower East Side,15.24,32.32,23.69,Nitric Oxide (NOx),ppb
+2017,UHF42,310,4,Lower Manhattan,18.1,24.72,21.24,Nitric Oxide (NOx),ppb
+2017,UHF42,401,4,Long Island City - Astoria,12.34,16.36,14.38,Nitric Oxide (NOx),ppb
+2017,UHF42,402,4,West Queens,12.47,16.41,14.4,Nitric Oxide (NOx),ppb
+2017,UHF42,403,4,Flushing - Clearview,10.95,14.58,12.29,Nitric Oxide (NOx),ppb
+2017,UHF42,404,4,Bayside - Little Neck,10.46,13.94,11.86,Nitric Oxide (NOx),ppb
+2017,UHF42,405,4,Ridgewood - Forest Hills,12.66,16.35,14.3,Nitric Oxide (NOx),ppb
+2017,UHF42,406,4,Fresh Meadows,11.1,14.07,12.56,Nitric Oxide (NOx),ppb
+2017,UHF42,407,4,Southwest Queens,11.69,14.61,12.97,Nitric Oxide (NOx),ppb
+2017,UHF42,408,4,Jamaica,10.91,13.71,12.05,Nitric Oxide (NOx),ppb
+2017,UHF42,409,4,Southeast Queens,10.06,11.6,10.79,Nitric Oxide (NOx),ppb
+2017,UHF42,410,4,Rockaways,9.56,10.72,10.13,Nitric Oxide (NOx),ppb
+2017,UHF42,501,4,Port Richmond,8.29,10.45,9.46,Nitric Oxide (NOx),ppb
+2017,UHF42,502,4,Stapleton - St. George,8.88,12.08,10.45,Nitric Oxide (NOx),ppb
+2017,UHF42,503,4,Willowbrook,7.23,10.54,8.5,Nitric Oxide (NOx),ppb
+2017,UHF42,504,4,South Beach - Tottenville,5.69,8.17,6.85,Nitric Oxide (NOx),ppb
+2017,Borough,1,1,Bronx,11.1,16.37,13.55,Nitric Oxide (NOx),ppb
+2017,Borough,2,1,Brooklyn,11.52,18.03,14.65,Nitric Oxide (NOx),ppb
+2017,Borough,3,1,Manhattan,13.8,30.17,20.89,Nitric Oxide (NOx),ppb
+2017,Borough,4,1,Queens,10.41,15.22,12.49,Nitric Oxide (NOx),ppb
+2017,Borough,5,1,Staten Island,6.09,10.72,8.25,Nitric Oxide (NOx),ppb
+2017,Citywide,1,0,New York City,7.91,17.09,12.9,Nitric Oxide (NOx),ppb
+2016,UHF42,101,4,Kingsbridge - Riverdale,11.29,17.19,13.22,Nitric Oxide (NOx),ppb
+2016,UHF42,102,4,Northeast Bronx,12.55,18.42,14.62,Nitric Oxide (NOx),ppb
+2016,UHF42,103,4,Fordham - Bronx Pk,12.6,17.31,14.92,Nitric Oxide (NOx),ppb
+2016,UHF42,104,4,Pelham - Throgs Neck,12.78,20.52,15.94,Nitric Oxide (NOx),ppb
+2016,UHF42,105,4,Crotona -Tremont,14.34,19.64,16.78,Nitric Oxide (NOx),ppb
+2016,UHF42,106,4,High Bridge - Morrisania,14.58,18.51,16.45,Nitric Oxide (NOx),ppb
+2016,UHF42,107,4,Hunts Point - Mott Haven,12.88,18.82,15.6,Nitric Oxide (NOx),ppb
+2016,UHF42,201,4,Greenpoint,16.43,26.37,20.4,Nitric Oxide (NOx),ppb
+2016,UHF42,202,4,Downtown - Heights - Slope,16.44,26.24,21.23,Nitric Oxide (NOx),ppb
+2016,UHF42,203,4,Bedford Stuyvesant - Crown Heights,17.33,20.86,19.03,Nitric Oxide (NOx),ppb
+2016,UHF42,204,4,East New York,15.65,21.6,18.22,Nitric Oxide (NOx),ppb
+2016,UHF42,205,4,Sunset Park,14.2,22.65,17.74,Nitric Oxide (NOx),ppb
+2016,UHF42,206,4,Borough Park,14.94,17.79,16.24,Nitric Oxide (NOx),ppb
+2016,UHF42,207,4,East Flatbush - Flatbush,15.49,20.76,18.09,Nitric Oxide (NOx),ppb
+2016,UHF42,208,4,Canarsie - Flatlands,13.83,17.6,15.6,Nitric Oxide (NOx),ppb
+2016,UHF42,209,4,Bensonhurst - Bay Ridge,13.15,17.39,14.91,Nitric Oxide (NOx),ppb
+2016,UHF42,210,4,Coney Island - Sheepshead Bay,12.96,16.01,14.39,Nitric Oxide (NOx),ppb
+2016,UHF42,211,4,Williamsburg - Bushwick,17.48,20.19,18.83,Nitric Oxide (NOx),ppb
+2016,UHF42,301,4,Washington Heights,12.84,20.26,16.53,Nitric Oxide (NOx),ppb
+2016,UHF42,302,4,Central Harlem - Morningside Heights,15.39,18.26,16.98,Nitric Oxide (NOx),ppb
+2016,UHF42,303,4,East Harlem,16.06,21.66,18.73,Nitric Oxide (NOx),ppb
+2016,UHF42,304,4,Upper West Side,16.83,29.01,22.11,Nitric Oxide (NOx),ppb
+2016,UHF42,305,4,Upper East Side,18.35,36.29,27.16,Nitric Oxide (NOx),ppb
+2016,UHF42,306,4,Chelsea - Clinton,19.16,36.18,28.49,Nitric Oxide (NOx),ppb
+2016,UHF42,307,4,Gramercy Park - Murray Hill,22.93,34.64,28.79,Nitric Oxide (NOx),ppb
+2016,UHF42,308,4,Greenwich Village - SoHo,22.68,45.1,32.74,Nitric Oxide (NOx),ppb
+2016,UHF42,309,4,Union Square - Lower East Side,17.38,36.36,26.82,Nitric Oxide (NOx),ppb
+2016,UHF42,310,4,Lower Manhattan,20.43,28.17,24.06,Nitric Oxide (NOx),ppb
+2016,UHF42,401,4,Long Island City - Astoria,14.28,19.05,16.68,Nitric Oxide (NOx),ppb
+2016,UHF42,402,4,West Queens,14.81,19.72,17.22,Nitric Oxide (NOx),ppb
+2016,UHF42,403,4,Flushing - Clearview,13.35,17.97,15.07,Nitric Oxide (NOx),ppb
+2016,UHF42,404,4,Bayside - Little Neck,13.34,18.35,15.3,Nitric Oxide (NOx),ppb
+2016,UHF42,405,4,Ridgewood - Forest Hills,15.35,19.92,17.4,Nitric Oxide (NOx),ppb
+2016,UHF42,406,4,Fresh Meadows,14.05,18.03,15.93,Nitric Oxide (NOx),ppb
+2016,UHF42,407,4,Southwest Queens,14.91,18.66,16.48,Nitric Oxide (NOx),ppb
+2016,UHF42,408,4,Jamaica,14.27,17.81,15.76,Nitric Oxide (NOx),ppb
+2016,UHF42,409,4,Southeast Queens,13.57,15.39,14.38,Nitric Oxide (NOx),ppb
+2016,UHF42,410,4,Rockaways,12.46,14.44,13.62,Nitric Oxide (NOx),ppb
+2016,UHF42,501,4,Port Richmond,10.15,12.54,11.46,Nitric Oxide (NOx),ppb
+2016,UHF42,502,4,Stapleton - St. George,10.95,14.46,12.63,Nitric Oxide (NOx),ppb
+2016,UHF42,503,4,Willowbrook,9.24,13.12,10.72,Nitric Oxide (NOx),ppb
+2016,UHF42,504,4,South Beach - Tottenville,7.86,10.52,9.14,Nitric Oxide (NOx),ppb
+2016,Borough,1,1,Bronx,12.48,18.87,15.44,Nitric Oxide (NOx),ppb
+2016,Borough,2,1,Brooklyn,13.96,21.05,17.36,Nitric Oxide (NOx),ppb
+2016,Borough,3,1,Manhattan,15.41,34.03,23.59,Nitric Oxide (NOx),ppb
+2016,Borough,4,1,Queens,13.57,18.52,15.71,Nitric Oxide (NOx),ppb
+2016,Borough,5,1,Staten Island,8.33,12.94,10.47,Nitric Oxide (NOx),ppb
+2016,Citywide,1,0,New York City,10.08,20.05,15.58,Nitric Oxide (NOx),ppb
+2015,UHF42,101,4,Kingsbridge - Riverdale,11.26,22.04,15.13,Nitric Oxide (NOx),ppb
+2015,UHF42,102,4,Northeast Bronx,13.68,21.44,16.62,Nitric Oxide (NOx),ppb
+2015,UHF42,103,4,Fordham - Bronx Pk,13.71,22.54,18.14,Nitric Oxide (NOx),ppb
+2015,UHF42,104,4,Pelham - Throgs Neck,13.77,23.53,17.98,Nitric Oxide (NOx),ppb
+2015,UHF42,105,4,Crotona -Tremont,17.27,25.35,21.09,Nitric Oxide (NOx),ppb
+2015,UHF42,106,4,High Bridge - Morrisania,17.92,23.86,21,Nitric Oxide (NOx),ppb
+2015,UHF42,107,4,Hunts Point - Mott Haven,13.59,23.28,18.36,Nitric Oxide (NOx),ppb
+2015,UHF42,201,4,Greenpoint,16.84,26.32,20.87,Nitric Oxide (NOx),ppb
+2015,UHF42,202,4,Downtown - Heights - Slope,16.03,27.31,21.62,Nitric Oxide (NOx),ppb
+2015,UHF42,203,4,Bedford Stuyvesant - Crown Heights,17.45,21.93,19.68,Nitric Oxide (NOx),ppb
+2015,UHF42,204,4,East New York,15.73,22.93,18.9,Nitric Oxide (NOx),ppb
+2015,UHF42,205,4,Sunset Park,13.86,23.64,18.2,Nitric Oxide (NOx),ppb
+2015,UHF42,206,4,Borough Park,16.04,20.14,17.96,Nitric Oxide (NOx),ppb
+2015,UHF42,207,4,East Flatbush - Flatbush,16.38,23,19.65,Nitric Oxide (NOx),ppb
+2015,UHF42,208,4,Canarsie - Flatlands,14.84,19.09,16.65,Nitric Oxide (NOx),ppb
+2015,UHF42,209,4,Bensonhurst - Bay Ridge,14.11,20.17,16.79,Nitric Oxide (NOx),ppb
+2015,UHF42,210,4,Coney Island - Sheepshead Bay,14.27,18.96,16.54,Nitric Oxide (NOx),ppb
+2015,UHF42,211,4,Williamsburg - Bushwick,17.7,20.63,19.15,Nitric Oxide (NOx),ppb
+2015,UHF42,301,4,Washington Heights,15.26,26.69,21.1,Nitric Oxide (NOx),ppb
+2015,UHF42,302,4,Central Harlem - Morningside Heights,19.11,23.04,21.3,Nitric Oxide (NOx),ppb
+2015,UHF42,303,4,East Harlem,19.66,27.32,23.6,Nitric Oxide (NOx),ppb
+2015,UHF42,304,4,Upper West Side,23.25,37.11,30,Nitric Oxide (NOx),ppb
+2015,UHF42,305,4,Upper East Side,21.26,43.75,34.11,Nitric Oxide (NOx),ppb
+2015,UHF42,306,4,Chelsea - Clinton,22.87,43.91,34.32,Nitric Oxide (NOx),ppb
+2015,UHF42,307,4,Gramercy Park - Murray Hill,30.28,46.49,39.17,Nitric Oxide (NOx),ppb
+2015,UHF42,308,4,Greenwich Village - SoHo,25.83,39.95,33.61,Nitric Oxide (NOx),ppb
+2015,UHF42,309,4,Union Square - Lower East Side,19.8,38.32,29.2,Nitric Oxide (NOx),ppb
+2015,UHF42,310,4,Lower Manhattan,23.79,32.98,28.61,Nitric Oxide (NOx),ppb
+2015,UHF42,401,4,Long Island City - Astoria,16.11,22.12,19.06,Nitric Oxide (NOx),ppb
+2015,UHF42,402,4,West Queens,16.16,22.68,19.31,Nitric Oxide (NOx),ppb
+2015,UHF42,403,4,Flushing - Clearview,14.53,21.12,17.11,Nitric Oxide (NOx),ppb
+2015,UHF42,404,4,Bayside - Little Neck,14.7,22.05,17.63,Nitric Oxide (NOx),ppb
+2015,UHF42,405,4,Ridgewood - Forest Hills,15.56,22.74,18.81,Nitric Oxide (NOx),ppb
+2015,UHF42,406,4,Fresh Meadows,15.4,21.45,18.12,Nitric Oxide (NOx),ppb
+2015,UHF42,407,4,Southwest Queens,15.69,21.09,17.98,Nitric Oxide (NOx),ppb
+2015,UHF42,408,4,Jamaica,15.9,20.84,17.95,Nitric Oxide (NOx),ppb
+2015,UHF42,409,4,Southeast Queens,15.46,18.34,16.72,Nitric Oxide (NOx),ppb
+2015,UHF42,410,4,Rockaways,14.23,17.28,16,Nitric Oxide (NOx),ppb
+2015,UHF42,501,4,Port Richmond,9.51,13.67,11.76,Nitric Oxide (NOx),ppb
+2015,UHF42,502,4,Stapleton - St. George,11.25,16.32,13.6,Nitric Oxide (NOx),ppb
+2015,UHF42,503,4,Willowbrook,8.5,15.19,11.29,Nitric Oxide (NOx),ppb
+2015,UHF42,504,4,South Beach - Tottenville,7.75,11.95,9.84,Nitric Oxide (NOx),ppb
+2015,Borough,1,1,Bronx,13.53,23.43,18.14,Nitric Oxide (NOx),ppb
+2015,Borough,2,1,Brooklyn,15.04,22.44,18.49,Nitric Oxide (NOx),ppb
+2015,Borough,3,1,Manhattan,19.34,40.7,28.89,Nitric Oxide (NOx),ppb
+2015,Borough,4,1,Queens,15.24,21.33,17.77,Nitric Oxide (NOx),ppb
+2015,Borough,5,1,Staten Island,8.31,14.38,11.14,Nitric Oxide (NOx),ppb
+2015,Citywide,1,0,New York City,10.6481,23.0155,17.4521,Nitric Oxide (NOx),ppb
+2014,UHF42,101,4,Kingsbridge - Riverdale,14.68,25.57,18.72,Nitric Oxide (NOx),ppb
+2014,UHF42,102,4,Northeast Bronx,14.92,22.46,18.02,Nitric Oxide (NOx),ppb
+2014,UHF42,103,4,Fordham - Bronx Pk,16.3,26.49,21.25,Nitric Oxide (NOx),ppb
+2014,UHF42,104,4,Pelham - Throgs Neck,14.95,25.42,19.45,Nitric Oxide (NOx),ppb
+2014,UHF42,105,4,Crotona -Tremont,20.26,29.14,24.67,Nitric Oxide (NOx),ppb
+2014,UHF42,106,4,High Bridge - Morrisania,21.59,28.24,25.09,Nitric Oxide (NOx),ppb
+2014,UHF42,107,4,Hunts Point - Mott Haven,16.15,27.08,21.63,Nitric Oxide (NOx),ppb
+2014,UHF42,201,4,Greenpoint,20.91,30.48,25.03,Nitric Oxide (NOx),ppb
+2014,UHF42,202,4,Downtown - Heights - Slope,19.31,31.82,25.29,Nitric Oxide (NOx),ppb
+2014,UHF42,203,4,Bedford Stuyvesant - Crown Heights,19.85,25.47,22.61,Nitric Oxide (NOx),ppb
+2014,UHF42,204,4,East New York,18.06,25.03,21.14,Nitric Oxide (NOx),ppb
+2014,UHF42,205,4,Sunset Park,16.7,26.59,20.97,Nitric Oxide (NOx),ppb
+2014,UHF42,206,4,Borough Park,17.96,22.62,20.15,Nitric Oxide (NOx),ppb
+2014,UHF42,207,4,East Flatbush - Flatbush,18.29,26.15,22.25,Nitric Oxide (NOx),ppb
+2014,UHF42,208,4,Canarsie - Flatlands,16.08,20.8,18.18,Nitric Oxide (NOx),ppb
+2014,UHF42,209,4,Bensonhurst - Bay Ridge,15.6,22.2,18.44,Nitric Oxide (NOx),ppb
+2014,UHF42,210,4,Coney Island - Sheepshead Bay,14.64,20.2,17.3,Nitric Oxide (NOx),ppb
+2014,UHF42,211,4,Williamsburg - Bushwick,20.6,24.49,22.68,Nitric Oxide (NOx),ppb
+2014,UHF42,301,4,Washington Heights,19.4,32.23,26.02,Nitric Oxide (NOx),ppb
+2014,UHF42,302,4,Central Harlem - Morningside Heights,24.18,28.89,26.73,Nitric Oxide (NOx),ppb
+2014,UHF42,303,4,East Harlem,24.12,32.85,28.53,Nitric Oxide (NOx),ppb
+2014,UHF42,304,4,Upper West Side,29.24,45.28,36.9,Nitric Oxide (NOx),ppb
+2014,UHF42,305,4,Upper East Side,26.33,52.43,41.21,Nitric Oxide (NOx),ppb
+2014,UHF42,306,4,Chelsea - Clinton,28.29,51.96,41.42,Nitric Oxide (NOx),ppb
+2014,UHF42,307,4,Gramercy Park - Murray Hill,35.64,53.53,45.53,Nitric Oxide (NOx),ppb
+2014,UHF42,308,4,Greenwich Village - SoHo,32.07,48.9,41.19,Nitric Oxide (NOx),ppb
+2014,UHF42,309,4,Union Square - Lower East Side,24.31,46.27,35.61,Nitric Oxide (NOx),ppb
+2014,UHF42,310,4,Lower Manhattan,28.63,38.51,33.69,Nitric Oxide (NOx),ppb
+2014,UHF42,401,4,Long Island City - Astoria,19.92,26.92,23.43,Nitric Oxide (NOx),ppb
+2014,UHF42,402,4,West Queens,18.74,26.31,22.33,Nitric Oxide (NOx),ppb
+2014,UHF42,403,4,Flushing - Clearview,15.27,22.74,18.14,Nitric Oxide (NOx),ppb
+2014,UHF42,404,4,Bayside - Little Neck,14.46,22.01,17.47,Nitric Oxide (NOx),ppb
+2014,UHF42,405,4,Ridgewood - Forest Hills,18.2,25.53,21.42,Nitric Oxide (NOx),ppb
+2014,UHF42,406,4,Fresh Meadows,16,22.54,19.14,Nitric Oxide (NOx),ppb
+2014,UHF42,407,4,Southwest Queens,17.23,22.81,19.59,Nitric Oxide (NOx),ppb
+2014,UHF42,408,4,Jamaica,16.26,21.99,18.54,Nitric Oxide (NOx),ppb
+2014,UHF42,409,4,Southeast Queens,14.82,18.07,16.23,Nitric Oxide (NOx),ppb
+2014,UHF42,410,4,Rockaways,14.32,16.77,15.57,Nitric Oxide (NOx),ppb
+2014,UHF42,501,4,Port Richmond,12.32,16.21,14.38,Nitric Oxide (NOx),ppb
+2014,UHF42,502,4,Stapleton - St. George,12.6,18.33,15.36,Nitric Oxide (NOx),ppb
+2014,UHF42,503,4,Willowbrook,10.43,17.25,13.03,Nitric Oxide (NOx),ppb
+2014,UHF42,504,4,South Beach - Tottenville,7.67,12.58,10.11,Nitric Oxide (NOx),ppb
+2014,Borough,1,1,Bronx,15.23,26.97,20.64,Nitric Oxide (NOx),ppb
+2014,Borough,2,1,Brooklyn,16.42,25.75,20.84,Nitric Oxide (NOx),ppb
+2014,Borough,3,1,Manhattan,24.15,48.4,35.06,Nitric Oxide (NOx),ppb
+2014,Borough,4,1,Queens,15.24,24.08,19.01,Nitric Oxide (NOx),ppb
+2014,Borough,5,1,Staten Island,8.56,16.42,12.33,Nitric Oxide (NOx),ppb
+2014,Citywide,1,0,New York City,11.87,26.66,19.48,Nitric Oxide (NOx),ppb
+2013,UHF42,101,4,Kingsbridge - Riverdale,10.84,22.36,15.24,Nitric Oxide (NOx),ppb
+2013,UHF42,102,4,Northeast Bronx,12.3,20.16,15.48,Nitric Oxide (NOx),ppb
+2013,UHF42,103,4,Fordham - Bronx Pk,13.13,23.76,18.39,Nitric Oxide (NOx),ppb
+2013,UHF42,104,4,Pelham - Throgs Neck,12.47,22.76,16.93,Nitric Oxide (NOx),ppb
+2013,UHF42,105,4,Crotona -Tremont,16.88,25.81,21.31,Nitric Oxide (NOx),ppb
+2013,UHF42,106,4,High Bridge - Morrisania,17.6,24.59,21.18,Nitric Oxide (NOx),ppb
+2013,UHF42,107,4,Hunts Point - Mott Haven,12.27,23.05,17.67,Nitric Oxide (NOx),ppb
+2013,UHF42,201,4,Greenpoint,14.75,24.41,18.95,Nitric Oxide (NOx),ppb
+2013,UHF42,202,4,Downtown - Heights - Slope,13.48,26.08,19.59,Nitric Oxide (NOx),ppb
+2013,UHF42,203,4,Bedford Stuyvesant - Crown Heights,14.77,20.46,17.5,Nitric Oxide (NOx),ppb
+2013,UHF42,204,4,East New York,13.65,20.82,16.72,Nitric Oxide (NOx),ppb
+2013,UHF42,205,4,Sunset Park,11.9,22.07,16.42,Nitric Oxide (NOx),ppb
+2013,UHF42,206,4,Borough Park,14.29,18.79,16.41,Nitric Oxide (NOx),ppb
+2013,UHF42,207,4,East Flatbush - Flatbush,14.36,21.69,17.99,Nitric Oxide (NOx),ppb
+2013,UHF42,208,4,Canarsie - Flatlands,13.28,16.98,14.78,Nitric Oxide (NOx),ppb
+2013,UHF42,209,4,Bensonhurst - Bay Ridge,12.47,18.88,15.4,Nitric Oxide (NOx),ppb
+2013,UHF42,210,4,Coney Island - Sheepshead Bay,13.01,17.91,15.2,Nitric Oxide (NOx),ppb
+2013,UHF42,211,4,Williamsburg - Bushwick,14.98,18.95,17.07,Nitric Oxide (NOx),ppb
+2013,UHF42,301,4,Washington Heights,15.5,28.36,22.12,Nitric Oxide (NOx),ppb
+2013,UHF42,302,4,Central Harlem - Morningside Heights,19.46,24.29,22.12,Nitric Oxide (NOx),ppb
+2013,UHF42,303,4,East Harlem,19.07,28.33,23.71,Nitric Oxide (NOx),ppb
+2013,UHF42,304,4,Upper West Side,24.27,42,32.77,Nitric Oxide (NOx),ppb
+2013,UHF42,305,4,Upper East Side,20.34,50.49,37.65,Nitric Oxide (NOx),ppb
+2013,UHF42,306,4,Chelsea - Clinton,22.03,48.34,36.42,Nitric Oxide (NOx),ppb
+2013,UHF42,307,4,Gramercy Park - Murray Hill,30.31,49.56,40.91,Nitric Oxide (NOx),ppb
+2013,UHF42,308,4,Greenwich Village - SoHo,26.12,44.26,35.97,Nitric Oxide (NOx),ppb
+2013,UHF42,309,4,Union Square - Lower East Side,18.02,41.65,30.04,Nitric Oxide (NOx),ppb
+2013,UHF42,310,4,Lower Manhattan,22.48,32.7,27.73,Nitric Oxide (NOx),ppb
+2013,UHF42,401,4,Long Island City - Astoria,14.57,21.52,18.03,Nitric Oxide (NOx),ppb
+2013,UHF42,402,4,West Queens,14.05,21.6,17.53,Nitric Oxide (NOx),ppb
+2013,UHF42,403,4,Flushing - Clearview,13.04,20.15,15.91,Nitric Oxide (NOx),ppb
+2013,UHF42,404,4,Bayside - Little Neck,13.77,21.17,16.81,Nitric Oxide (NOx),ppb
+2013,UHF42,405,4,Ridgewood - Forest Hills,13.31,21.56,16.86,Nitric Oxide (NOx),ppb
+2013,UHF42,406,4,Fresh Meadows,14.02,20.07,16.82,Nitric Oxide (NOx),ppb
+2013,UHF42,407,4,Southwest Queens,13.99,19.52,16.31,Nitric Oxide (NOx),ppb
+2013,UHF42,408,4,Jamaica,14.74,19.87,16.86,Nitric Oxide (NOx),ppb
+2013,UHF42,409,4,Southeast Queens,14.83,17.61,16.02,Nitric Oxide (NOx),ppb
+2013,UHF42,410,4,Rockaways,13.54,16.56,15.35,Nitric Oxide (NOx),ppb
+2013,UHF42,501,4,Port Richmond,9.21,12.98,11.17,Nitric Oxide (NOx),ppb
+2013,UHF42,502,4,Stapleton - St. George,10.49,15.22,12.64,Nitric Oxide (NOx),ppb
+2013,UHF42,503,4,Willowbrook,8.88,14.9,11.25,Nitric Oxide (NOx),ppb
+2013,UHF42,504,4,South Beach - Tottenville,9.3,12.4,10.78,Nitric Oxide (NOx),ppb
+2013,Borough,1,1,Bronx,12.47,23.67,17.63,Nitric Oxide (NOx),ppb
+2013,Borough,2,1,Brooklyn,13.36,20.75,16.7,Nitric Oxide (NOx),ppb
+2013,Borough,3,1,Manhattan,19.15,44.38,30.44,Nitric Oxide (NOx),ppb
+2013,Borough,4,1,Queens,13.85,20.21,16.54,Nitric Oxide (NOx),ppb
+2013,Borough,5,1,Staten Island,9.31,13.73,11.3,Nitric Oxide (NOx),ppb
+2013,Citywide,1,0,New York City,10.8,22.45,16.68,Nitric Oxide (NOx),ppb
+2012,UHF42,101,4,Kingsbridge - Riverdale,12.56,24.66,17.21,Nitric Oxide (NOx),ppb
+2012,UHF42,102,4,Northeast Bronx,13.79,21.61,16.99,Nitric Oxide (NOx),ppb
+2012,UHF42,103,4,Fordham - Bronx Pk,14.84,26.44,20.55,Nitric Oxide (NOx),ppb
+2012,UHF42,104,4,Pelham - Throgs Neck,14.02,24.65,18.63,Nitric Oxide (NOx),ppb
+2012,UHF42,105,4,Crotona -Tremont,18.94,28.38,23.63,Nitric Oxide (NOx),ppb
+2012,UHF42,106,4,High Bridge - Morrisania,19.85,27.58,23.7,Nitric Oxide (NOx),ppb
+2012,UHF42,107,4,Hunts Point - Mott Haven,14.05,25.33,19.76,Nitric Oxide (NOx),ppb
+2012,UHF42,201,4,Greenpoint,16.97,26.93,21.47,Nitric Oxide (NOx),ppb
+2012,UHF42,202,4,Downtown - Heights - Slope,15.78,28.78,22.05,Nitric Oxide (NOx),ppb
+2012,UHF42,203,4,Bedford Stuyvesant - Crown Heights,17.08,23.03,19.98,Nitric Oxide (NOx),ppb
+2012,UHF42,204,4,East New York,15.57,22.92,18.82,Nitric Oxide (NOx),ppb
+2012,UHF42,205,4,Sunset Park,13.75,24.47,18.61,Nitric Oxide (NOx),ppb
+2012,UHF42,206,4,Borough Park,16.16,20.71,18.34,Nitric Oxide (NOx),ppb
+2012,UHF42,207,4,East Flatbush - Flatbush,16.18,23.97,20,Nitric Oxide (NOx),ppb
+2012,UHF42,208,4,Canarsie - Flatlands,14.78,18.77,16.44,Nitric Oxide (NOx),ppb
+2012,UHF42,209,4,Bensonhurst - Bay Ridge,14.13,20.98,17.25,Nitric Oxide (NOx),ppb
+2012,UHF42,210,4,Coney Island - Sheepshead Bay,14.53,19.68,16.88,Nitric Oxide (NOx),ppb
+2012,UHF42,211,4,Williamsburg - Bushwick,17.58,22.01,19.68,Nitric Oxide (NOx),ppb
+2012,UHF42,301,4,Washington Heights,17.66,31.61,24.88,Nitric Oxide (NOx),ppb
+2012,UHF42,302,4,Central Harlem - Morningside Heights,22.09,27.49,25.03,Nitric Oxide (NOx),ppb
+2012,UHF42,303,4,East Harlem,21.5,31.4,26.42,Nitric Oxide (NOx),ppb
+2012,UHF42,304,4,Upper West Side,27.49,47.3,36.84,Nitric Oxide (NOx),ppb
+2012,UHF42,305,4,Upper East Side,22.55,56.38,42.13,Nitric Oxide (NOx),ppb
+2012,UHF42,306,4,Chelsea - Clinton,24.61,53.63,40.47,Nitric Oxide (NOx),ppb
+2012,UHF42,307,4,Gramercy Park - Murray Hill,33.42,54.6,45.07,Nitric Oxide (NOx),ppb
+2012,UHF42,308,4,Greenwich Village - SoHo,29.07,48.99,40.06,Nitric Oxide (NOx),ppb
+2012,UHF42,309,4,Union Square - Lower East Side,20.25,46.37,33.48,Nitric Oxide (NOx),ppb
+2012,UHF42,310,4,Lower Manhattan,25,35.74,30.45,Nitric Oxide (NOx),ppb
+2012,UHF42,401,4,Long Island City - Astoria,16.68,24.09,20.38,Nitric Oxide (NOx),ppb
+2012,UHF42,402,4,West Queens,16,23.88,19.65,Nitric Oxide (NOx),ppb
+2012,UHF42,403,4,Flushing - Clearview,14.69,22.1,17.66,Nitric Oxide (NOx),ppb
+2012,UHF42,404,4,Bayside - Little Neck,15.22,22.72,18.36,Nitric Oxide (NOx),ppb
+2012,UHF42,405,4,Ridgewood - Forest Hills,15.18,23.82,18.99,Nitric Oxide (NOx),ppb
+2012,UHF42,406,4,Fresh Meadows,15.69,21.88,18.61,Nitric Oxide (NOx),ppb
+2012,UHF42,407,4,Southwest Queens,15.8,21.43,18.18,Nitric Oxide (NOx),ppb
+2012,UHF42,408,4,Jamaica,16.42,21.74,18.64,Nitric Oxide (NOx),ppb
+2012,UHF42,409,4,Southeast Queens,16.33,19.2,17.54,Nitric Oxide (NOx),ppb
+2012,UHF42,410,4,Rockaways,14.76,18.2,16.81,Nitric Oxide (NOx),ppb
+2012,UHF42,501,4,Port Richmond,11.27,14.97,13.17,Nitric Oxide (NOx),ppb
+2012,UHF42,502,4,Stapleton - St. George,12.28,17.16,14.49,Nitric Oxide (NOx),ppb
+2012,UHF42,503,4,Willowbrook,10.79,16.83,13.15,Nitric Oxide (NOx),ppb
+2012,UHF42,504,4,South Beach - Tottenville,11.21,14.2,12.61,Nitric Oxide (NOx),ppb
+2012,Borough,1,1,Bronx,14.05,26.05,19.55,Nitric Oxide (NOx),ppb
+2012,Borough,2,1,Brooklyn,15.01,23.11,18.77,Nitric Oxide (NOx),ppb
+2012,Borough,3,1,Manhattan,21.63,49.4,33.97,Nitric Oxide (NOx),ppb
+2012,Borough,4,1,Queens,15.54,22.3,18.36,Nitric Oxide (NOx),ppb
+2012,Borough,5,1,Staten Island,11.23,15.69,13.17,Nitric Oxide (NOx),ppb
+2012,Citywide,1,0,New York City,12.61,24.87,18.7,Nitric Oxide (NOx),ppb
+2011,UHF42,101,4,Kingsbridge - Riverdale,16.66,29.43,21.59,Nitric Oxide (NOx),ppb
+2011,UHF42,102,4,Northeast Bronx,18.08,25.94,21.34,Nitric Oxide (NOx),ppb
+2011,UHF42,103,4,Fordham - Bronx Pk,19.16,32,25.44,Nitric Oxide (NOx),ppb
+2011,UHF42,104,4,Pelham - Throgs Neck,18.66,29.5,23.37,Nitric Oxide (NOx),ppb
+2011,UHF42,105,4,Crotona -Tremont,23.84,33.86,28.74,Nitric Oxide (NOx),ppb
+2011,UHF42,106,4,High Bridge - Morrisania,24.98,33.26,28.96,Nitric Oxide (NOx),ppb
+2011,UHF42,107,4,Hunts Point - Mott Haven,18.83,30.73,24.86,Nitric Oxide (NOx),ppb
+2011,UHF42,201,4,Greenpoint,22.55,33.06,27.49,Nitric Oxide (NOx),ppb
+2011,UHF42,202,4,Downtown - Heights - Slope,21.18,34.97,27.87,Nitric Oxide (NOx),ppb
+2011,UHF42,203,4,Bedford Stuyvesant - Crown Heights,22.8,29.3,25.93,Nitric Oxide (NOx),ppb
+2011,UHF42,204,4,East New York,20.85,28.32,24.28,Nitric Oxide (NOx),ppb
+2011,UHF42,205,4,Sunset Park,18.39,29.79,23.64,Nitric Oxide (NOx),ppb
+2011,UHF42,206,4,Borough Park,20.56,25.63,23.01,Nitric Oxide (NOx),ppb
+2011,UHF42,207,4,East Flatbush - Flatbush,20.85,29.75,25.19,Nitric Oxide (NOx),ppb
+2011,UHF42,208,4,Canarsie - Flatlands,18.71,23.41,20.83,Nitric Oxide (NOx),ppb
+2011,UHF42,209,4,Bensonhurst - Bay Ridge,17.88,25.4,21.26,Nitric Oxide (NOx),ppb
+2011,UHF42,210,4,Coney Island - Sheepshead Bay,17.78,23.55,20.44,Nitric Oxide (NOx),ppb
+2011,UHF42,211,4,Williamsburg - Bushwick,23.58,28.78,25.91,Nitric Oxide (NOx),ppb
+2011,UHF42,301,4,Washington Heights,22.25,37.89,30.28,Nitric Oxide (NOx),ppb
+2011,UHF42,302,4,Central Harlem - Morningside Heights,27.53,34.08,31.01,Nitric Oxide (NOx),ppb
+2011,UHF42,303,4,East Harlem,26.74,37.56,32.17,Nitric Oxide (NOx),ppb
+2011,UHF42,304,4,Upper West Side,33.46,56.11,44,Nitric Oxide (NOx),ppb
+2011,UHF42,305,4,Upper East Side,27.6,66.17,49.92,Nitric Oxide (NOx),ppb
+2011,UHF42,306,4,Chelsea - Clinton,30.14,62.25,47.93,Nitric Oxide (NOx),ppb
+2011,UHF42,307,4,Gramercy Park - Murray Hill,39.89,62.96,52.36,Nitric Oxide (NOx),ppb
+2011,UHF42,308,4,Greenwich Village - SoHo,35.62,59.57,48.69,Nitric Oxide (NOx),ppb
+2011,UHF42,309,4,Union Square - Lower East Side,26.23,55.68,41.19,Nitric Oxide (NOx),ppb
+2011,UHF42,310,4,Lower Manhattan,30.69,42.13,36.48,Nitric Oxide (NOx),ppb
+2011,UHF42,401,4,Long Island City - Astoria,21.97,30.35,26.15,Nitric Oxide (NOx),ppb
+2011,UHF42,402,4,West Queens,21.37,29.81,25.26,Nitric Oxide (NOx),ppb
+2011,UHF42,403,4,Flushing - Clearview,19.78,27.62,22.92,Nitric Oxide (NOx),ppb
+2011,UHF42,404,4,Bayside - Little Neck,20.27,27.87,23.5,Nitric Oxide (NOx),ppb
+2011,UHF42,405,4,Ridgewood - Forest Hills,20.61,30.03,24.79,Nitric Oxide (NOx),ppb
+2011,UHF42,406,4,Fresh Meadows,20.95,27.28,24,Nitric Oxide (NOx),ppb
+2011,UHF42,407,4,Southwest Queens,20.85,26.93,23.47,Nitric Oxide (NOx),ppb
+2011,UHF42,408,4,Jamaica,21.53,27.14,23.83,Nitric Oxide (NOx),ppb
+2011,UHF42,409,4,Southeast Queens,21.1,24.14,22.42,Nitric Oxide (NOx),ppb
+2011,UHF42,410,4,Rockaways,17.59,21.99,20.36,Nitric Oxide (NOx),ppb
+2011,UHF42,501,4,Port Richmond,13.76,17.89,15.97,Nitric Oxide (NOx),ppb
+2011,UHF42,502,4,Stapleton - St. George,14.89,20.69,17.57,Nitric Oxide (NOx),ppb
+2011,UHF42,503,4,Willowbrook,12.34,19.14,15.06,Nitric Oxide (NOx),ppb
+2011,UHF42,504,4,South Beach - Tottenville,10.7,15.22,12.93,Nitric Oxide (NOx),ppb
+2011,Borough,1,1,Bronx,18.52,31.25,24.33,Nitric Oxide (NOx),ppb
+2011,Borough,2,1,Brooklyn,19.03,28.98,23.73,Nitric Oxide (NOx),ppb
+2011,Borough,3,1,Manhattan,26.98,58.17,40.81,Nitric Oxide (NOx),ppb
+2011,Borough,4,1,Queens,20.42,28.03,23.55,Nitric Oxide (NOx),ppb
+2011,Borough,5,1,Staten Island,11.45,18.41,14.7,Nitric Oxide (NOx),ppb
+2011,Citywide,1,0,New York City,14.16,30.5,23.16,Nitric Oxide (NOx),ppb
+2010,UHF42,101,4,Kingsbridge - Riverdale,15.02,27.35,19.77,Nitric Oxide (NOx),ppb
+2010,UHF42,102,4,Northeast Bronx,16.1,23.87,19.32,Nitric Oxide (NOx),ppb
+2010,UHF42,103,4,Fordham - Bronx Pk,17.26,29.48,23.25,Nitric Oxide (NOx),ppb
+2010,UHF42,104,4,Pelham - Throgs Neck,16.25,27.08,20.96,Nitric Oxide (NOx),ppb
+2010,UHF42,105,4,Crotona -Tremont,21.45,31.28,26.3,Nitric Oxide (NOx),ppb
+2010,UHF42,106,4,High Bridge - Morrisania,22.42,30.54,26.39,Nitric Oxide (NOx),ppb
+2010,UHF42,107,4,Hunts Point - Mott Haven,16.37,27.97,22.25,Nitric Oxide (NOx),ppb
+2010,UHF42,201,4,Greenpoint,20.05,30.33,24.79,Nitric Oxide (NOx),ppb
+2010,UHF42,202,4,Downtown - Heights - Slope,18.65,32.1,25.18,Nitric Oxide (NOx),ppb
+2010,UHF42,203,4,Bedford Stuyvesant - Crown Heights,20.56,26.62,23.5,Nitric Oxide (NOx),ppb
+2010,UHF42,204,4,East New York,18.82,26.22,22.17,Nitric Oxide (NOx),ppb
+2010,UHF42,205,4,Sunset Park,15.84,26.86,20.88,Nitric Oxide (NOx),ppb
+2010,UHF42,206,4,Borough Park,17.97,23.04,20.38,Nitric Oxide (NOx),ppb
+2010,UHF42,207,4,East Flatbush - Flatbush,18.56,27.09,22.76,Nitric Oxide (NOx),ppb
+2010,UHF42,208,4,Canarsie - Flatlands,16.52,21.26,18.68,Nitric Oxide (NOx),ppb
+2010,UHF42,209,4,Bensonhurst - Bay Ridge,15.22,22.5,18.49,Nitric Oxide (NOx),ppb
+2010,UHF42,210,4,Coney Island - Sheepshead Bay,15.21,20.9,17.89,Nitric Oxide (NOx),ppb
+2010,UHF42,211,4,Williamsburg - Bushwick,21.18,25.93,23.36,Nitric Oxide (NOx),ppb
+2010,UHF42,301,4,Washington Heights,20.22,34.89,27.77,Nitric Oxide (NOx),ppb
+2010,UHF42,302,4,Central Harlem - Morningside Heights,24.78,30.68,27.96,Nitric Oxide (NOx),ppb
+2010,UHF42,303,4,East Harlem,23.95,34.35,29.14,Nitric Oxide (NOx),ppb
+2010,UHF42,304,4,Upper West Side,30.47,51.75,40.42,Nitric Oxide (NOx),ppb
+2010,UHF42,305,4,Upper East Side,25.02,61.19,45.98,Nitric Oxide (NOx),ppb
+2010,UHF42,306,4,Chelsea - Clinton,27.21,58.02,44.15,Nitric Oxide (NOx),ppb
+2010,UHF42,307,4,Gramercy Park - Murray Hill,36.69,58.81,48.77,Nitric Oxide (NOx),ppb
+2010,UHF42,308,4,Greenwich Village - SoHo,32.3,54.23,44.48,Nitric Oxide (NOx),ppb
+2010,UHF42,309,4,Union Square - Lower East Side,23.63,51.1,37.55,Nitric Oxide (NOx),ppb
+2010,UHF42,310,4,Lower Manhattan,27.92,39.02,33.53,Nitric Oxide (NOx),ppb
+2010,UHF42,401,4,Long Island City - Astoria,19.33,27.22,23.28,Nitric Oxide (NOx),ppb
+2010,UHF42,402,4,West Queens,18.9,27.11,22.69,Nitric Oxide (NOx),ppb
+2010,UHF42,403,4,Flushing - Clearview,17.15,24.93,20.26,Nitric Oxide (NOx),ppb
+2010,UHF42,404,4,Bayside - Little Neck,17.54,25.16,20.76,Nitric Oxide (NOx),ppb
+2010,UHF42,405,4,Ridgewood - Forest Hills,18.52,27.47,22.45,Nitric Oxide (NOx),ppb
+2010,UHF42,406,4,Fresh Meadows,18.42,24.74,21.46,Nitric Oxide (NOx),ppb
+2010,UHF42,407,4,Southwest Queens,18.83,24.7,21.34,Nitric Oxide (NOx),ppb
+2010,UHF42,408,4,Jamaica,19.16,24.76,21.44,Nitric Oxide (NOx),ppb
+2010,UHF42,409,4,Southeast Queens,18.57,21.59,19.85,Nitric Oxide (NOx),ppb
+2010,UHF42,410,4,Rockaways,15.33,19.71,18.12,Nitric Oxide (NOx),ppb
+2010,UHF42,501,4,Port Richmond,11.47,15.34,13.51,Nitric Oxide (NOx),ppb
+2010,UHF42,502,4,Stapleton - St. George,12.29,17.89,14.87,Nitric Oxide (NOx),ppb
+2010,UHF42,503,4,Willowbrook,10.32,16.79,12.85,Nitric Oxide (NOx),ppb
+2010,UHF42,504,4,South Beach - Tottenville,9.64,13.21,11.37,Nitric Oxide (NOx),ppb
+2010,Borough,1,1,Bronx,16.35,28.75,22.03,Nitric Oxide (NOx),ppb
+2010,Borough,2,1,Brooklyn,16.62,26.29,21.24,Nitric Oxide (NOx),ppb
+2010,Borough,3,1,Manhattan,24.37,53.86,37.44,Nitric Oxide (NOx),ppb
+2010,Borough,4,1,Queens,18.03,25.4,21.05,Nitric Oxide (NOx),ppb
+2010,Borough,5,1,Staten Island,10.13,15.92,12.65,Nitric Oxide (NOx),ppb
+2010,Citywide,1,0,New York City,12.04,27.82,20.71,Nitric Oxide (NOx),ppb
+2009,UHF42,101,4,Kingsbridge - Riverdale,19.73,32.21,24.52,Nitric Oxide (NOx),ppb
+2009,UHF42,102,4,Northeast Bronx,20.06,27.69,23.32,Nitric Oxide (NOx),ppb
+2009,UHF42,103,4,Fordham - Bronx Pk,21.58,34.73,27.96,Nitric Oxide (NOx),ppb
+2009,UHF42,104,4,Pelham - Throgs Neck,19.4,30.8,24.44,Nitric Oxide (NOx),ppb
+2009,UHF42,105,4,Crotona -Tremont,25.66,36.26,30.87,Nitric Oxide (NOx),ppb
+2009,UHF42,106,4,High Bridge - Morrisania,26.68,35.55,30.91,Nitric Oxide (NOx),ppb
+2009,UHF42,107,4,Hunts Point - Mott Haven,19.54,32.28,26.1,Nitric Oxide (NOx),ppb
+2009,UHF42,201,4,Greenpoint,22.86,33.59,27.99,Nitric Oxide (NOx),ppb
+2009,UHF42,202,4,Downtown - Heights - Slope,21.14,35.36,28.03,Nitric Oxide (NOx),ppb
+2009,UHF42,203,4,Bedford Stuyvesant - Crown Heights,22.84,29.62,26.09,Nitric Oxide (NOx),ppb
+2009,UHF42,204,4,East New York,20.73,28.11,24.17,Nitric Oxide (NOx),ppb
+2009,UHF42,205,4,Sunset Park,17.67,29.33,23.05,Nitric Oxide (NOx),ppb
+2009,UHF42,206,4,Borough Park,19.4,24.9,22.04,Nitric Oxide (NOx),ppb
+2009,UHF42,207,4,East Flatbush - Flatbush,19.98,29.59,24.68,Nitric Oxide (NOx),ppb
+2009,UHF42,208,4,Canarsie - Flatlands,17.17,22.63,19.78,Nitric Oxide (NOx),ppb
+2009,UHF42,209,4,Bensonhurst - Bay Ridge,16.41,24.33,19.89,Nitric Oxide (NOx),ppb
+2009,UHF42,210,4,Coney Island - Sheepshead Bay,15.71,21.95,18.64,Nitric Oxide (NOx),ppb
+2009,UHF42,211,4,Williamsburg - Bushwick,23.89,29.51,26.37,Nitric Oxide (NOx),ppb
+2009,UHF42,301,4,Washington Heights,24.87,40.65,32.92,Nitric Oxide (NOx),ppb
+2009,UHF42,302,4,Central Harlem - Morningside Heights,29.4,36.38,33.05,Nitric Oxide (NOx),ppb
+2009,UHF42,303,4,East Harlem,27.93,39.01,33.61,Nitric Oxide (NOx),ppb
+2009,UHF42,304,4,Upper West Side,35.13,58.69,46.01,Nitric Oxide (NOx),ppb
+2009,UHF42,305,4,Upper East Side,28.02,68.96,51.76,Nitric Oxide (NOx),ppb
+2009,UHF42,306,4,Chelsea - Clinton,31.01,64.27,49.53,Nitric Oxide (NOx),ppb
+2009,UHF42,307,4,Gramercy Park - Murray Hill,40.8,64.77,53.68,Nitric Oxide (NOx),ppb
+2009,UHF42,308,4,Greenwich Village - SoHo,36.62,62.23,50.55,Nitric Oxide (NOx),ppb
+2009,UHF42,309,4,Union Square - Lower East Side,26.73,57.74,42.53,Nitric Oxide (NOx),ppb
+2009,UHF42,310,4,Lower Manhattan,31.17,42.84,37.04,Nitric Oxide (NOx),ppb
+2009,UHF42,401,4,Long Island City - Astoria,22.49,31.28,26.83,Nitric Oxide (NOx),ppb
+2009,UHF42,402,4,West Queens,21.63,30.26,25.59,Nitric Oxide (NOx),ppb
+2009,UHF42,403,4,Flushing - Clearview,19.81,27.73,22.95,Nitric Oxide (NOx),ppb
+2009,UHF42,404,4,Bayside - Little Neck,19.68,27.3,22.9,Nitric Oxide (NOx),ppb
+2009,UHF42,405,4,Ridgewood - Forest Hills,20.66,30.37,24.99,Nitric Oxide (NOx),ppb
+2009,UHF42,406,4,Fresh Meadows,20.55,27.03,23.73,Nitric Oxide (NOx),ppb
+2009,UHF42,407,4,Southwest Queens,20.31,26.76,23.17,Nitric Oxide (NOx),ppb
+2009,UHF42,408,4,Jamaica,20.81,26.66,23.19,Nitric Oxide (NOx),ppb
+2009,UHF42,409,4,Southeast Queens,19.78,23.13,21.3,Nitric Oxide (NOx),ppb
+2009,UHF42,410,4,Rockaways,15.23,19.93,18.26,Nitric Oxide (NOx),ppb
+2009,UHF42,501,4,Port Richmond,14.05,17.66,15.88,Nitric Oxide (NOx),ppb
+2009,UHF42,502,4,Stapleton - St. George,13.67,19.64,16.47,Nitric Oxide (NOx),ppb
+2009,UHF42,503,4,Willowbrook,12.57,18.94,14.93,Nitric Oxide (NOx),ppb
+2009,UHF42,504,4,South Beach - Tottenville,11.59,14.85,13.08,Nitric Oxide (NOx),ppb
+2009,Borough,1,1,Bronx,20.03,33.29,26.11,Nitric Oxide (NOx),ppb
+2009,Borough,2,1,Brooklyn,17.58,29.14,23.13,Nitric Oxide (NOx),ppb
+2009,Borough,3,1,Manhattan,28.51,60.31,42.61,Nitric Oxide (NOx),ppb
+2009,Borough,4,1,Queens,19.65,28.22,23.17,Nitric Oxide (NOx),ppb
+2009,Borough,5,1,Staten Island,11.99,17.9,14.5,Nitric Oxide (NOx),ppb
+2009,Citywide,1,0,New York City,13.82,31.55,23.21,Nitric Oxide (NOx),ppb
+2021,UHF42,101,4,Kingsbridge - Riverdale,6.390514532,6.935551735,6.565820909,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,102,4,Northeast Bronx,6.373479606,6.660938487,6.493489505,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,103,4,Fordham - Bronx Pk,6.434778187,6.787309527,6.58259927,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,104,4,Pelham - Throgs Neck,6.275263732,7.01232043,6.597621828,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,105,4,Crotona -Tremont,6.548025755,7.055268267,6.794969345,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,106,4,High Bridge - Morrisania,6.399095728,6.90551201,6.629757249,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,107,4,Hunts Point - Mott Haven,6.185303435,7.859330252,6.979984447,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,201,4,Greenpoint,6.996334811,8.519696782,7.670414078,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,202,4,Downtown - Heights - Slope,6.705043453,7.475445624,7.09930316,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,203,4,Bedford Stuyvesant - Crown Heights,6.371755956,6.908950123,6.605377793,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,204,4,East New York,6.247590873,6.988321776,6.549541035,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,205,4,Sunset Park,6.353886721,7.91526253,6.989881539,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,206,4,Borough Park,6.32315834,6.554152479,6.43137482,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,207,4,East Flatbush - Flatbush,6.280913007,6.598138934,6.436576312,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,208,4,Canarsie - Flatlands,6.030064812,6.609448186,6.266817392,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,209,4,Bensonhurst - Bay Ridge,6.209332704,6.736526182,6.431367091,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,210,4,Coney Island - Sheepshead Bay,6.108951793,6.416386939,6.270061176,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,211,4,Williamsburg - Bushwick,6.52624838,8.27449733,7.247995672,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,301,4,Washington Heights,6.614975677,7.398382048,6.863263918,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,302,4,Central Harlem - Morningside Heights,6.711095647,6.85652401,6.782473216,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,303,4,East Harlem,6.684736748,6.855653647,6.788910431,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,304,4,Upper West Side,6.639977889,6.98119028,6.799980284,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,305,4,Upper East Side,6.721830138,7.379288544,7.018751653,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,306,4,Chelsea - Clinton,7.496556425,9.282564333,8.44115285,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,307,4,Gramercy Park - Murray Hill,7.39679375,9.08921142,8.154833608,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,308,4,Greenwich Village - SoHo,7.815005002,8.707176169,8.224712887,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,309,4,Union Square - Lower East Side,6.84066664,8.987261832,7.795986752,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,310,4,Lower Manhattan,7.260847476,7.908382991,7.581538553,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,401,4,Long Island City - Astoria,6.615252394,7.999920913,7.195535359,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,402,4,West Queens,6.445640544,8.461468047,7.136551972,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,403,4,Flushing - Clearview,6.188951344,6.872613837,6.451618915,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,404,4,Bayside - Little Neck,6.111331845,6.519550462,6.290971464,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,405,4,Ridgewood - Forest Hills,6.207271184,6.872890794,6.543910861,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,406,4,Fresh Meadows,6.150842302,6.424268497,6.265314982,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,407,4,Southwest Queens,6.095680495,6.494399664,6.297781718,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,408,4,Jamaica,6.069501189,6.820626928,6.429082861,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,409,4,Southeast Queens,5.998832284,6.342104016,6.229557151,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,410,4,Rockaways,5.860066138,5.984753269,5.919665546,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,501,4,Port Richmond,6.241321767,6.508977883,6.366716674,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,502,4,Stapleton - St. George,6.117106739,6.407631098,6.249466758,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,503,4,Willowbrook,6.07412635,6.362951256,6.178614542,Fine Particles (PM 2.5),mcg/m3
+2021,UHF42,504,4,South Beach - Tottenville,5.943815121,6.138050193,6.043162387,Fine Particles (PM 2.5),mcg/m3
+2021,Borough,1,1,Bronx,6.357625332,7.014704089,6.644257031,Fine Particles (PM 2.5),mcg/m3
+2021,Borough,2,1,Brooklyn,6.161746322,7.309418918,6.6345102,Fine Particles (PM 2.5),mcg/m3
+2021,Borough,3,1,Manhattan,6.682091072,8.740036053,7.406968016,Fine Particles (PM 2.5),mcg/m3
+2021,Borough,4,1,Queens,6.042001871,7.019747309,6.477947053,Fine Particles (PM 2.5),mcg/m3
+2021,Borough,5,1,Staten Island,5.988487946,6.37648583,6.152014512,Fine Particles (PM 2.5),mcg/m3
+2021,Citywide,1,0,New York City,6.0541939,7.165557402,6.538726113,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,101,4,Kingsbridge - Riverdale,5.66,6.33,5.89,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,102,4,Northeast Bronx,5.81,6.18,5.95,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,103,4,Fordham - Bronx Pk,5.82,6.26,6,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,104,4,Pelham - Throgs Neck,5.84,6.43,6.12,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,105,4,Crotona -Tremont,6.02,6.56,6.28,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,106,4,High Bridge - Morrisania,5.91,6.36,6.12,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,107,4,Hunts Point - Mott Haven,5.74,6.94,6.36,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,201,4,Greenpoint,6.58,7.41,7.04,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,202,4,Downtown - Heights - Slope,6.24,7.1,6.69,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,203,4,Bedford Stuyvesant - Crown Heights,5.97,6.53,6.2,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,204,4,East New York,5.84,6.2,6.02,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,205,4,Sunset Park,5.89,6.96,6.47,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,206,4,Borough Park,5.8,6.12,5.94,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,207,4,East Flatbush - Flatbush,5.78,6.15,5.97,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,208,4,Canarsie - Flatlands,5.4,6.08,5.69,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,209,4,Bensonhurst - Bay Ridge,5.65,6.32,5.93,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,210,4,Coney Island - Sheepshead Bay,5.49,5.88,5.7,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,211,4,Williamsburg - Bushwick,6.14,7.51,6.72,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,301,4,Washington Heights,6,6.78,6.29,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,302,4,Central Harlem - Morningside Heights,6.23,6.46,6.35,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,303,4,East Harlem,6.25,6.45,6.37,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,304,4,Upper West Side,6.15,6.58,6.35,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,305,4,Upper East Side,6.39,7.14,6.72,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,306,4,Chelsea - Clinton,7.17,9.71,8.5,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,307,4,Gramercy Park - Murray Hill,7.18,9.44,8.18,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,308,4,Greenwich Village - SoHo,7.63,8.98,8.22,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,309,4,Union Square - Lower East Side,6.52,9.31,7.76,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,310,4,Lower Manhattan,6.98,7.87,7.42,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,401,4,Long Island City - Astoria,6.28,7.37,6.83,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,402,4,West Queens,6.12,7.22,6.56,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,403,4,Flushing - Clearview,5.87,6.81,6.24,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,404,4,Bayside - Little Neck,5.81,6.23,6,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,405,4,Ridgewood - Forest Hills,5.83,6.4,6.11,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,406,4,Fresh Meadows,5.84,6.09,5.95,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,407,4,Southwest Queens,5.64,6.17,5.91,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,408,4,Jamaica,5.75,6.33,5.97,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,409,4,Southeast Queens,5.61,5.92,5.78,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,410,4,Rockaways,5.2,5.48,5.33,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,501,4,Port Richmond,5.79,6.05,5.93,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,502,4,Stapleton - St. George,5.52,5.88,5.7,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,503,4,Willowbrook,5.44,5.86,5.62,Fine Particles (PM 2.5),mcg/m3
+2020,UHF42,504,4,South Beach - Tottenville,5.04,5.6,5.34,Fine Particles (PM 2.5),mcg/m3
+2020,Borough,1,1,Bronx,5.81,6.47,6.11,Fine Particles (PM 2.5),mcg/m3
+2020,Borough,2,1,Brooklyn,5.58,6.88,6.12,Fine Particles (PM 2.5),mcg/m3
+2020,Borough,3,1,Manhattan,6.16,8.97,7.16,Fine Particles (PM 2.5),mcg/m3
+2020,Borough,4,1,Queens,5.63,6.69,6.06,Fine Particles (PM 2.5),mcg/m3
+2020,Borough,5,1,Staten Island,5.14,5.92,5.54,Fine Particles (PM 2.5),mcg/m3
+2020,Citywide,1,0,New York City,5.42,6.77,6.06,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,101,4,Kingsbridge - Riverdale,6.4,7.41,6.71,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,102,4,Northeast Bronx,6.42,7.09,6.68,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,103,4,Fordham - Bronx Pk,6.51,7.03,6.7,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,104,4,Pelham - Throgs Neck,6.19,7.25,6.74,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,105,4,Crotona -Tremont,6.77,7.79,7.23,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,106,4,High Bridge - Morrisania,6.77,7.69,7.14,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,107,4,Hunts Point - Mott Haven,6.05,8.9,7.52,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,201,4,Greenpoint,7.38,9.93,8.56,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,202,4,Downtown - Heights - Slope,6.82,8.21,7.44,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,203,4,Bedford Stuyvesant - Crown Heights,6.25,7.11,6.61,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,204,4,East New York,6.15,7.02,6.56,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,205,4,Sunset Park,6.26,8.43,7.32,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,206,4,Borough Park,6.12,6.53,6.32,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,207,4,East Flatbush - Flatbush,6.09,6.53,6.31,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,208,4,Canarsie - Flatlands,5.72,6.88,6.15,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,209,4,Bensonhurst - Bay Ridge,5.92,6.65,6.21,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,210,4,Coney Island - Sheepshead Bay,5.73,6.3,6.04,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,211,4,Williamsburg - Bushwick,6.32,9.55,7.5,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,301,4,Washington Heights,6.69,8.11,7.11,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,302,4,Central Harlem - Morningside Heights,6.84,7.18,7,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,303,4,East Harlem,6.91,7.39,7.11,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,304,4,Upper West Side,7.05,7.71,7.38,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,305,4,Upper East Side,7.43,8.63,8,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,306,4,Chelsea - Clinton,8.25,12.43,10.21,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,307,4,Gramercy Park - Murray Hill,8.55,11.78,10.09,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,308,4,Greenwich Village - SoHo,8.76,10.75,9.65,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,309,4,Union Square - Lower East Side,7.27,10.56,8.87,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,310,4,Lower Manhattan,7.62,9.02,8.23,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,401,4,Long Island City - Astoria,7.03,9.59,7.99,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,402,4,West Queens,6.44,9.26,7.35,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,403,4,Flushing - Clearview,6.05,7.61,6.61,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,404,4,Bayside - Little Neck,5.92,6.57,6.21,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,405,4,Ridgewood - Forest Hills,6.12,6.95,6.56,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,406,4,Fresh Meadows,5.97,6.44,6.16,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,407,4,Southwest Queens,5.85,6.53,6.19,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,408,4,Jamaica,5.9,6.74,6.24,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,409,4,Southeast Queens,5.77,6.27,6.01,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,410,4,Rockaways,5.49,5.74,5.59,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,501,4,Port Richmond,5.95,6.75,6.34,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,502,4,Stapleton - St. George,5.69,6.11,5.9,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,503,4,Willowbrook,5.66,6.42,5.96,Fine Particles (PM 2.5),mcg/m3
+2019,UHF42,504,4,South Beach - Tottenville,5.46,6.09,5.81,Fine Particles (PM 2.5),mcg/m3
+2019,Borough,1,1,Bronx,6.41,7.61,6.91,Fine Particles (PM 2.5),mcg/m3
+2019,Borough,2,1,Brooklyn,5.89,7.82,6.66,Fine Particles (PM 2.5),mcg/m3
+2019,Borough,3,1,Manhattan,6.84,10.61,8.31,Fine Particles (PM 2.5),mcg/m3
+2019,Borough,4,1,Queens,5.8,7.42,6.47,Fine Particles (PM 2.5),mcg/m3
+2019,Borough,5,1,Staten Island,5.51,6.44,5.92,Fine Particles (PM 2.5),mcg/m3
+2019,Citywide,1,0,New York City,5.68,7.77,6.6,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,101,4,Kingsbridge - Riverdale,6.61,7.47,6.95,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,102,4,Northeast Bronx,6.77,7.29,6.99,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,103,4,Fordham - Bronx Pk,6.86,7.56,7.19,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,104,4,Pelham - Throgs Neck,6.52,7.51,7,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,105,4,Crotona -Tremont,7.13,7.91,7.53,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,106,4,High Bridge - Morrisania,7.4,7.95,7.68,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,107,4,Hunts Point - Mott Haven,6.38,9.16,7.85,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,201,4,Greenpoint,7.97,9.58,8.72,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,202,4,Downtown - Heights - Slope,7.3,8.49,7.85,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,203,4,Bedford Stuyvesant - Crown Heights,6.98,7.59,7.27,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,204,4,East New York,6.59,7.54,7.06,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,205,4,Sunset Park,6.81,8.69,7.72,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,206,4,Borough Park,6.79,7.2,6.99,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,207,4,East Flatbush - Flatbush,6.76,7.29,7.04,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,208,4,Canarsie - Flatlands,6.2,7.52,6.7,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,209,4,Bensonhurst - Bay Ridge,6.46,6.88,6.67,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,210,4,Coney Island - Sheepshead Bay,6.27,6.75,6.55,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,211,4,Williamsburg - Bushwick,7.02,10.12,8.11,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,301,4,Washington Heights,6.92,7.83,7.32,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,302,4,Central Harlem - Morningside Heights,7.32,7.91,7.53,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,303,4,East Harlem,7.09,7.77,7.39,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,304,4,Upper West Side,7.91,8.43,8.16,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,305,4,Upper East Side,7.8,9.32,8.68,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,306,4,Chelsea - Clinton,8.14,12.03,9.97,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,307,4,Gramercy Park - Murray Hill,8.75,11.88,10.3,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,308,4,Greenwich Village - SoHo,8.11,9.2,8.79,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,309,4,Union Square - Lower East Side,7.22,9.41,8.14,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,310,4,Lower Manhattan,8.51,9.4,8.94,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,401,4,Long Island City - Astoria,7.18,9.66,8.16,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,402,4,West Queens,6.7,9.2,7.57,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,403,4,Flushing - Clearview,6.46,7.86,6.9,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,404,4,Bayside - Little Neck,6.36,6.63,6.48,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,405,4,Ridgewood - Forest Hills,6.57,7.33,6.99,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,406,4,Fresh Meadows,6.41,6.68,6.55,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,407,4,Southwest Queens,6.25,6.9,6.56,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,408,4,Jamaica,6.37,7.13,6.69,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,409,4,Southeast Queens,6.22,6.6,6.42,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,410,4,Rockaways,5.93,6.21,6.06,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,501,4,Port Richmond,6.33,7.44,6.78,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,502,4,Stapleton - St. George,6.16,6.6,6.36,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,503,4,Willowbrook,6.1,7.82,6.63,Fine Particles (PM 2.5),mcg/m3
+2018,UHF42,504,4,South Beach - Tottenville,5.95,6.28,6.18,Fine Particles (PM 2.5),mcg/m3
+2018,Borough,1,1,Bronx,6.63,7.85,7.25,Fine Particles (PM 2.5),mcg/m3
+2018,Borough,2,1,Brooklyn,6.43,8.27,7.19,Fine Particles (PM 2.5),mcg/m3
+2018,Borough,3,1,Manhattan,7.23,10.33,8.46,Fine Particles (PM 2.5),mcg/m3
+2018,Borough,4,1,Queens,6.24,7.56,6.82,Fine Particles (PM 2.5),mcg/m3
+2018,Borough,5,1,Staten Island,5.99,6.87,6.4,Fine Particles (PM 2.5),mcg/m3
+2018,Citywide,1,0,New York City,6.13,8.12,7,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,101,4,Kingsbridge - Riverdale,7.01,8.13,7.41,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,102,4,Northeast Bronx,7.07,8.34,7.46,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,103,4,Fordham - Bronx Pk,7.15,7.94,7.52,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,104,4,Pelham - Throgs Neck,6.84,8.25,7.52,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,105,4,Crotona -Tremont,7.61,8.76,8.16,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,106,4,High Bridge - Morrisania,7.76,8.69,8.16,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,107,4,Hunts Point - Mott Haven,6.77,9.56,8.26,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,201,4,Greenpoint,8.37,9.73,8.98,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,202,4,Downtown - Heights - Slope,7.68,9.24,8.35,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,203,4,Bedford Stuyvesant - Crown Heights,7.19,7.9,7.53,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,204,4,East New York,6.86,8.6,7.52,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,205,4,Sunset Park,7.14,9.15,8.09,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,206,4,Borough Park,7.05,7.5,7.27,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,207,4,East Flatbush - Flatbush,7.08,7.67,7.36,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,208,4,Canarsie - Flatlands,6.51,7.91,7.02,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,209,4,Bensonhurst - Bay Ridge,6.8,7.59,7.06,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,210,4,Coney Island - Sheepshead Bay,6.54,7.14,6.83,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,211,4,Williamsburg - Bushwick,7.2,9.98,8.22,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,301,4,Washington Heights,7.29,8.45,7.79,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,302,4,Central Harlem - Morningside Heights,7.73,8.15,7.93,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,303,4,East Harlem,7.82,8.38,8.11,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,304,4,Upper West Side,8.05,8.6,8.33,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,305,4,Upper East Side,8.02,9.5,8.85,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,306,4,Chelsea - Clinton,8.44,11.35,9.91,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,307,4,Gramercy Park - Murray Hill,9.1,11.37,10.33,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,308,4,Greenwich Village - SoHo,8.41,9.44,9.02,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,309,4,Union Square - Lower East Side,7.59,9.58,8.52,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,310,4,Lower Manhattan,8.61,9.33,9.01,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,401,4,Long Island City - Astoria,7.48,9.92,8.42,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,402,4,West Queens,7.06,9.83,7.93,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,403,4,Flushing - Clearview,6.77,8.14,7.27,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,404,4,Bayside - Little Neck,6.65,7.76,7.03,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,405,4,Ridgewood - Forest Hills,6.83,7.89,7.32,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,406,4,Fresh Meadows,6.75,7.53,7.05,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,407,4,Southwest Queens,6.53,7.42,6.94,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,408,4,Jamaica,6.7,7.54,7.08,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,409,4,Southeast Queens,6.52,7.01,6.75,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,410,4,Rockaways,6.22,6.44,6.32,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,501,4,Port Richmond,6.76,7.77,7.19,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,502,4,Stapleton - St. George,6.48,7.09,6.8,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,503,4,Willowbrook,6.48,8.2,7.05,Fine Particles (PM 2.5),mcg/m3
+2017,UHF42,504,4,South Beach - Tottenville,6.34,6.92,6.58,Fine Particles (PM 2.5),mcg/m3
+2017,Borough,1,1,Bronx,7.05,8.58,7.72,Fine Particles (PM 2.5),mcg/m3
+2017,Borough,2,1,Brooklyn,6.7,8.71,7.52,Fine Particles (PM 2.5),mcg/m3
+2017,Borough,3,1,Manhattan,7.66,10.3,8.72,Fine Particles (PM 2.5),mcg/m3
+2017,Borough,4,1,Queens,6.54,7.99,7.19,Fine Particles (PM 2.5),mcg/m3
+2017,Borough,5,1,Staten Island,6.38,7.41,6.81,Fine Particles (PM 2.5),mcg/m3
+2017,Citywide,1,0,New York City,6.47,8.58,7.38,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,101,4,Kingsbridge - Riverdale,7.11,8.22,7.5,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,102,4,Northeast Bronx,7.12,8.48,7.55,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,103,4,Fordham - Bronx Pk,7.22,7.97,7.57,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,104,4,Pelham - Throgs Neck,6.78,8.29,7.5,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,105,4,Crotona -Tremont,7.59,8.82,8.18,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,106,4,High Bridge - Morrisania,7.72,8.74,8.16,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,107,4,Hunts Point - Mott Haven,6.73,9.61,8.26,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,201,4,Greenpoint,8.85,10.21,9.46,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,202,4,Downtown - Heights - Slope,8.13,9.8,8.86,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,203,4,Bedford Stuyvesant - Crown Heights,7.56,8.38,7.94,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,204,4,East New York,7.09,8.92,7.8,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,205,4,Sunset Park,7.42,9.57,8.4,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,206,4,Borough Park,7.13,7.78,7.45,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,207,4,East Flatbush - Flatbush,7.27,7.99,7.64,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,208,4,Canarsie - Flatlands,6.45,8.17,7.12,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,209,4,Bensonhurst - Bay Ridge,6.76,7.72,7.11,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,210,4,Coney Island - Sheepshead Bay,6.39,7.11,6.75,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,211,4,Williamsburg - Bushwick,7.6,10.48,8.67,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,301,4,Washington Heights,7.31,8.51,7.81,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,302,4,Central Harlem - Morningside Heights,7.72,8.2,7.95,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,303,4,East Harlem,7.88,8.51,8.19,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,304,4,Upper West Side,8.18,8.83,8.49,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,305,4,Upper East Side,8.21,9.77,9.07,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,306,4,Chelsea - Clinton,8.81,11.77,10.32,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,307,4,Gramercy Park - Murray Hill,9.52,11.83,10.76,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,308,4,Greenwich Village - SoHo,8.86,9.98,9.52,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,309,4,Union Square - Lower East Side,8.06,10.1,9.02,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,310,4,Lower Manhattan,9.11,9.89,9.53,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,401,4,Long Island City - Astoria,7.59,10.32,8.65,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,402,4,West Queens,7.13,10.26,8.14,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,403,4,Flushing - Clearview,6.67,8.15,7.22,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,404,4,Bayside - Little Neck,6.45,7.67,6.88,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,405,4,Ridgewood - Forest Hills,7.04,8.14,7.56,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,406,4,Fresh Meadows,6.66,7.54,7.03,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,407,4,Southwest Queens,6.58,7.55,7.02,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,408,4,Jamaica,6.55,7.5,6.99,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,409,4,Southeast Queens,6.24,6.83,6.51,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,410,4,Rockaways,5.88,6.11,5.98,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,501,4,Port Richmond,6.82,7.94,7.3,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,502,4,Stapleton - St. George,6.38,7.18,6.8,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,503,4,Willowbrook,6.45,8.37,7.1,Fine Particles (PM 2.5),mcg/m3
+2016,UHF42,504,4,South Beach - Tottenville,6.29,7.06,6.59,Fine Particles (PM 2.5),mcg/m3
+2016,Borough,1,1,Bronx,7.09,8.65,7.75,Fine Particles (PM 2.5),mcg/m3
+2016,Borough,2,1,Brooklyn,6.69,9.17,7.76,Fine Particles (PM 2.5),mcg/m3
+2016,Borough,3,1,Manhattan,7.73,10.72,8.97,Fine Particles (PM 2.5),mcg/m3
+2016,Borough,4,1,Queens,6.3,8.14,7.17,Fine Particles (PM 2.5),mcg/m3
+2016,Borough,5,1,Staten Island,6.33,7.52,6.84,Fine Particles (PM 2.5),mcg/m3
+2016,Citywide,1,0,New York City,6.41,8.87,7.45,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,101,4,Kingsbridge - Riverdale,8.85,9.83,9.17,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,102,4,Northeast Bronx,8.71,10.04,9.13,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,103,4,Fordham - Bronx Pk,8.82,9.51,9.14,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,104,4,Pelham - Throgs Neck,8.19,9.71,8.93,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,105,4,Crotona -Tremont,9.06,10.31,9.67,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,106,4,High Bridge - Morrisania,9.15,10.16,9.6,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,107,4,Hunts Point - Mott Haven,8.01,10.96,9.62,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,201,4,Greenpoint,9.89,11.21,10.49,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,202,4,Downtown - Heights - Slope,9.18,10.85,9.89,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,203,4,Bedford Stuyvesant - Crown Heights,8.47,9.34,8.87,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,204,4,East New York,8.03,9.85,8.72,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,205,4,Sunset Park,8.46,10.62,9.45,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,206,4,Borough Park,8.12,8.77,8.44,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,207,4,East Flatbush - Flatbush,8.23,8.94,8.59,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,208,4,Canarsie - Flatlands,7.45,9.12,8.1,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,209,4,Bensonhurst - Bay Ridge,7.76,8.75,8.13,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,210,4,Coney Island - Sheepshead Bay,7.37,8.08,7.72,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,211,4,Williamsburg - Bushwick,8.5,11.44,9.61,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,301,4,Washington Heights,8.94,10.04,9.36,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,302,4,Central Harlem - Morningside Heights,9.15,9.59,9.36,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,303,4,East Harlem,9.22,9.78,9.51,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,304,4,Upper West Side,9.5,10.06,9.78,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,305,4,Upper East Side,9.36,10.85,10.2,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,306,4,Chelsea - Clinton,10.02,12.68,11.39,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,307,4,Gramercy Park - Murray Hill,10.55,12.7,11.72,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,308,4,Greenwich Village - SoHo,10.02,11.01,10.6,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,309,4,Union Square - Lower East Side,9.13,11.12,10.06,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,310,4,Lower Manhattan,10.13,10.9,10.54,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,401,4,Long Island City - Astoria,8.76,11.39,9.78,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,402,4,West Queens,8.21,11.24,9.17,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,403,4,Flushing - Clearview,7.94,9.34,8.45,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,404,4,Bayside - Little Neck,7.86,9.04,8.26,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,405,4,Ridgewood - Forest Hills,7.99,9.1,8.51,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,406,4,Fresh Meadows,7.87,8.71,8.19,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,407,4,Southwest Queens,7.61,8.56,8.05,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,408,4,Jamaica,7.82,8.68,8.2,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,409,4,Southeast Queens,7.62,8.16,7.9,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,410,4,Rockaways,6.95,7.29,7.16,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,501,4,Port Richmond,7.85,8.95,8.34,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,502,4,Stapleton - St. George,7.33,8.26,7.82,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,503,4,Willowbrook,7.31,9.31,8.01,Fine Particles (PM 2.5),mcg/m3
+2015,UHF42,504,4,South Beach - Tottenville,6.95,7.68,7.29,Fine Particles (PM 2.5),mcg/m3
+2015,Borough,1,1,Bronx,8.57,10.11,9.24,Fine Particles (PM 2.5),mcg/m3
+2015,Borough,2,1,Brooklyn,7.67,10.18,8.74,Fine Particles (PM 2.5),mcg/m3
+2015,Borough,3,1,Manhattan,9.16,11.74,10.19,Fine Particles (PM 2.5),mcg/m3
+2015,Borough,4,1,Queens,7.63,9.25,8.35,Fine Particles (PM 2.5),mcg/m3
+2015,Borough,5,1,Staten Island,7.01,8.46,7.69,Fine Particles (PM 2.5),mcg/m3
+2015,Citywide,1,0,New York City,7.2969,10.0235,8.5604,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,101,4,Kingsbridge - Riverdale,8.5,9.83,9,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,102,4,Northeast Bronx,8.6,9.89,9,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,103,4,Fordham - Bronx Pk,8.71,9.75,9.19,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,104,4,Pelham - Throgs Neck,8.17,9.76,8.97,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,105,4,Crotona -Tremont,9.17,10.46,9.82,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,106,4,High Bridge - Morrisania,9.4,10.38,9.87,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,107,4,Hunts Point - Mott Haven,8.12,11.06,9.75,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,201,4,Greenpoint,9.94,11.26,10.54,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,202,4,Downtown - Heights - Slope,9.2,10.88,9.99,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,203,4,Bedford Stuyvesant - Crown Heights,8.8,9.56,9.16,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,204,4,East New York,8.33,10.16,9.04,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,205,4,Sunset Park,8.62,10.71,9.63,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,206,4,Borough Park,8.62,9.09,8.87,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,207,4,East Flatbush - Flatbush,8.64,9.28,8.97,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,208,4,Canarsie - Flatlands,7.91,9.42,8.48,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,209,4,Bensonhurst - Bay Ridge,8.3,9.17,8.62,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,210,4,Coney Island - Sheepshead Bay,8.01,8.74,8.37,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,211,4,Williamsburg - Bushwick,8.81,11.57,9.84,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,301,4,Washington Heights,8.87,10.23,9.49,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,302,4,Central Harlem - Morningside Heights,9.46,10.11,9.73,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,303,4,East Harlem,9.46,10.28,9.84,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,304,4,Upper West Side,10.04,10.77,10.42,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,305,4,Upper East Side,10,12.07,11.15,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,306,4,Chelsea - Clinton,10.34,14.83,12.53,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,307,4,Gramercy Park - Murray Hill,11.42,14.92,13.23,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,308,4,Greenwich Village - SoHo,10.3,11.68,11.17,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,309,4,Union Square - Lower East Side,9.29,11.97,10.53,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,310,4,Lower Manhattan,10.85,11.8,11.36,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,401,4,Long Island City - Astoria,9.02,11.52,9.98,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,402,4,West Queens,8.53,11.34,9.47,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,403,4,Flushing - Clearview,8.09,9.56,8.65,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,404,4,Bayside - Little Neck,7.88,9.07,8.31,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,405,4,Ridgewood - Forest Hills,8.29,9.47,8.85,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,406,4,Fresh Meadows,8.08,8.91,8.43,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,407,4,Southwest Queens,7.94,8.89,8.39,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,408,4,Jamaica,8.02,8.98,8.46,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,409,4,Southeast Queens,7.76,8.31,8.02,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,410,4,Rockaways,7.58,7.82,7.69,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,501,4,Port Richmond,8.35,9.38,8.79,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,502,4,Stapleton - St. George,8.02,8.64,8.34,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,503,4,Willowbrook,8.08,9.84,8.68,Fine Particles (PM 2.5),mcg/m3
+2014,UHF42,504,4,South Beach - Tottenville,7.93,8.56,8.2,Fine Particles (PM 2.5),mcg/m3
+2014,Borough,1,1,Bronx,8.51,10.18,9.27,Fine Particles (PM 2.5),mcg/m3
+2014,Borough,2,1,Brooklyn,8.18,10.32,9.09,Fine Particles (PM 2.5),mcg/m3
+2014,Borough,3,1,Manhattan,9.36,13.1,10.85,Fine Particles (PM 2.5),mcg/m3
+2014,Borough,4,1,Queens,7.82,9.5,8.6,Fine Particles (PM 2.5),mcg/m3
+2014,Borough,5,1,Staten Island,7.98,9.02,8.41,Fine Particles (PM 2.5),mcg/m3
+2014,Citywide,1,0,New York City,7.99,10.27,8.93,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,101,4,Kingsbridge - Riverdale,8.34,9.75,8.88,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,102,4,Northeast Bronx,8.34,9.59,8.73,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,103,4,Fordham - Bronx Pk,8.48,9.72,9.06,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,104,4,Pelham - Throgs Neck,7.93,9.56,8.74,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,105,4,Crotona -Tremont,9.05,10.42,9.75,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,106,4,High Bridge - Morrisania,9.33,10.31,9.83,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,107,4,Hunts Point - Mott Haven,7.92,10.83,9.57,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,201,4,Greenpoint,9.4,10.69,10,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,202,4,Downtown - Heights - Slope,8.66,10.33,9.46,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,203,4,Bedford Stuyvesant - Crown Heights,8.41,9.1,8.75,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,204,4,East New York,7.98,9.82,8.69,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,205,4,Sunset Park,8.14,10.16,9.12,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,206,4,Borough Park,8.27,8.69,8.49,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,207,4,East Flatbush - Flatbush,8.3,8.9,8.6,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,208,4,Canarsie - Flatlands,7.66,9.04,8.18,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,209,4,Bensonhurst - Bay Ridge,7.94,8.77,8.24,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,210,4,Coney Island - Sheepshead Bay,7.75,8.48,8.11,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,211,4,Williamsburg - Bushwick,8.4,10.99,9.36,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,301,4,Washington Heights,8.81,10.27,9.48,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,302,4,Central Harlem - Morningside Heights,9.42,10.1,9.7,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,303,4,East Harlem,9.31,10.19,9.73,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,304,4,Upper West Side,9.96,10.65,10.35,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,305,4,Upper East Side,9.83,12.09,11.1,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,306,4,Chelsea - Clinton,10.01,14.98,12.41,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,307,4,Gramercy Park - Murray Hill,11.22,15.09,13.2,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,308,4,Greenwich Village - SoHo,9.89,11.35,10.81,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,309,4,Union Square - Lower East Side,8.83,11.73,10.15,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,310,4,Lower Manhattan,10.51,11.53,11.06,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,401,4,Long Island City - Astoria,8.74,11.03,9.6,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,402,4,West Queens,8.25,10.82,9.13,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,403,4,Flushing - Clearview,7.84,9.27,8.39,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,404,4,Bayside - Little Neck,7.65,8.84,8.08,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,405,4,Ridgewood - Forest Hills,7.92,9.17,8.51,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,406,4,Fresh Meadows,7.86,8.68,8.21,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,407,4,Southwest Queens,7.7,8.64,8.14,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,408,4,Jamaica,7.83,8.79,8.27,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,409,4,Southeast Queens,7.61,8.14,7.85,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,410,4,Rockaways,7.44,7.75,7.61,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,501,4,Port Richmond,7.86,8.83,8.27,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,502,4,Stapleton - St. George,7.61,8.19,7.9,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,503,4,Willowbrook,7.65,9.28,8.22,Fine Particles (PM 2.5),mcg/m3
+2013,UHF42,504,4,South Beach - Tottenville,7.58,8.16,7.82,Fine Particles (PM 2.5),mcg/m3
+2013,Borough,1,1,Bronx,8.29,10.06,9.1,Fine Particles (PM 2.5),mcg/m3
+2013,Borough,2,1,Brooklyn,7.89,9.82,8.7,Fine Particles (PM 2.5),mcg/m3
+2013,Borough,3,1,Manhattan,9.22,13.04,10.73,Fine Particles (PM 2.5),mcg/m3
+2013,Borough,4,1,Queens,7.67,9.2,8.36,Fine Particles (PM 2.5),mcg/m3
+2013,Borough,5,1,Staten Island,7.6,8.55,7.98,Fine Particles (PM 2.5),mcg/m3
+2013,Citywide,1,0,New York City,7.67,9.97,8.63,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,101,4,Kingsbridge - Riverdale,8.72,10.16,9.27,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,102,4,Northeast Bronx,8.71,9.97,9.11,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,103,4,Fordham - Bronx Pk,8.86,10.16,9.47,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,104,4,Pelham - Throgs Neck,8.44,10.05,9.23,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,105,4,Crotona -Tremont,9.53,10.88,10.22,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,106,4,High Bridge - Morrisania,9.79,10.69,10.26,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,107,4,Hunts Point - Mott Haven,8.36,11.28,10.02,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,201,4,Greenpoint,9.69,10.97,10.27,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,202,4,Downtown - Heights - Slope,9.12,10.78,9.9,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,203,4,Bedford Stuyvesant - Crown Heights,8.76,9.53,9.13,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,204,4,East New York,8.24,10.04,8.94,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,205,4,Sunset Park,8.61,10.64,9.59,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,206,4,Borough Park,8.62,9.12,8.89,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,207,4,East Flatbush - Flatbush,8.64,9.29,8.98,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,208,4,Canarsie - Flatlands,7.75,9.32,8.37,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,209,4,Bensonhurst - Bay Ridge,8.24,9.16,8.6,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,210,4,Coney Island - Sheepshead Bay,7.91,8.71,8.3,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,211,4,Williamsburg - Bushwick,8.75,11.31,9.7,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,301,4,Washington Heights,9.24,10.69,9.89,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,302,4,Central Harlem - Morningside Heights,9.74,10.34,9.99,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,303,4,East Harlem,9.59,10.38,9.98,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,304,4,Upper West Side,10.06,10.74,10.46,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,305,4,Upper East Side,9.96,12.15,11.19,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,306,4,Chelsea - Clinton,10.07,14.93,12.42,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,307,4,Gramercy Park - Murray Hill,11.3,15.05,13.23,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,308,4,Greenwich Village - SoHo,10.04,11.56,10.99,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,309,4,Union Square - Lower East Side,9.08,11.85,10.35,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,310,4,Lower Manhattan,10.78,11.77,11.32,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,401,4,Long Island City - Astoria,9.03,11.23,9.84,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,402,4,West Queens,8.64,11.1,9.46,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,403,4,Flushing - Clearview,8.37,9.76,8.9,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,404,4,Bayside - Little Neck,8.1,9.3,8.55,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,405,4,Ridgewood - Forest Hills,8.24,9.5,8.83,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,406,4,Fresh Meadows,8.3,9.12,8.63,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,407,4,Southwest Queens,7.81,8.86,8.32,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,408,4,Jamaica,8.03,9.01,8.48,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,409,4,Southeast Queens,7.71,8.36,8.04,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,410,4,Rockaways,7.25,7.46,7.36,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,501,4,Port Richmond,8.14,9.12,8.55,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,502,4,Stapleton - St. George,7.87,8.49,8.18,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,503,4,Willowbrook,7.96,9.61,8.52,Fine Particles (PM 2.5),mcg/m3
+2012,UHF42,504,4,South Beach - Tottenville,7.94,8.78,8.28,Fine Particles (PM 2.5),mcg/m3
+2012,Borough,1,1,Bronx,8.71,10.49,9.54,Fine Particles (PM 2.5),mcg/m3
+2012,Borough,2,1,Brooklyn,8.09,10.17,9.02,Fine Particles (PM 2.5),mcg/m3
+2012,Borough,3,1,Manhattan,9.56,13.06,10.92,Fine Particles (PM 2.5),mcg/m3
+2012,Borough,4,1,Queens,7.74,9.54,8.63,Fine Particles (PM 2.5),mcg/m3
+2012,Borough,5,1,Staten Island,7.94,8.93,8.35,Fine Particles (PM 2.5),mcg/m3
+2012,Citywide,1,0,New York City,7.98,10.32,8.95,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,101,4,Kingsbridge - Riverdale,10.17,11.46,10.65,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,102,4,Northeast Bronx,10.1,11.34,10.48,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,103,4,Fordham - Bronx Pk,10.23,11.37,10.77,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,104,4,Pelham - Throgs Neck,9.7,11.3,10.5,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,105,4,Crotona -Tremont,10.78,12.1,11.45,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,106,4,High Bridge - Morrisania,10.98,11.88,11.44,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,107,4,Hunts Point - Mott Haven,9.59,12.51,11.24,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,201,4,Greenpoint,10.93,12.2,11.51,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,202,4,Downtown - Heights - Slope,10.4,12.02,11.14,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,203,4,Bedford Stuyvesant - Crown Heights,9.92,10.72,10.29,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,204,4,East New York,9.39,11.19,10.09,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,205,4,Sunset Park,9.87,11.9,10.84,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,206,4,Borough Park,9.79,10.33,10.07,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,207,4,East Flatbush - Flatbush,9.82,10.46,10.15,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,208,4,Canarsie - Flatlands,8.93,10.51,9.55,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,209,4,Bensonhurst - Bay Ridge,9.43,10.36,9.78,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,210,4,Coney Island - Sheepshead Bay,9.06,9.83,9.44,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,211,4,Williamsburg - Bushwick,9.9,12.52,10.88,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,301,4,Washington Heights,10.57,11.89,11.12,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,302,4,Central Harlem - Morningside Heights,10.9,11.4,11.13,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,303,4,East Harlem,10.77,11.45,11.12,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,304,4,Upper West Side,11.13,11.75,11.49,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,305,4,Upper East Side,11,12.95,12.1,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,306,4,Chelsea - Clinton,11.22,15.39,13.27,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,307,4,Gramercy Park - Murray Hill,12.24,15.48,13.93,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,308,4,Greenwich Village - SoHo,11.19,12.56,12.04,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,309,4,Union Square - Lower East Side,10.28,12.76,11.44,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,310,4,Lower Manhattan,11.8,12.69,12.28,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,401,4,Long Island City - Astoria,10.2,12.43,11.02,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,402,4,West Queens,9.78,12.32,10.6,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,403,4,Flushing - Clearview,9.53,10.92,10.05,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,404,4,Bayside - Little Neck,9.27,10.46,9.71,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,405,4,Ridgewood - Forest Hills,9.4,10.59,9.95,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,406,4,Fresh Meadows,9.42,10.24,9.74,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,407,4,Southwest Queens,8.94,9.96,9.43,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,408,4,Jamaica,9.13,10.09,9.57,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,409,4,Southeast Queens,8.82,9.48,9.17,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,410,4,Rockaways,8.32,8.53,8.44,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,501,4,Port Richmond,9.32,10.29,9.73,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,502,4,Stapleton - St. George,9,9.68,9.36,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,503,4,Willowbrook,9.05,10.75,9.63,Fine Particles (PM 2.5),mcg/m3
+2011,UHF42,504,4,South Beach - Tottenville,9,9.76,9.29,Fine Particles (PM 2.5),mcg/m3
+2011,Borough,1,1,Bronx,10.07,11.72,10.82,Fine Particles (PM 2.5),mcg/m3
+2011,Borough,2,1,Brooklyn,9.25,11.39,10.2,Fine Particles (PM 2.5),mcg/m3
+2011,Borough,3,1,Manhattan,10.79,13.81,11.94,Fine Particles (PM 2.5),mcg/m3
+2011,Borough,4,1,Queens,8.86,10.68,9.75,Fine Particles (PM 2.5),mcg/m3
+2011,Borough,5,1,Staten Island,9.02,10.03,9.44,Fine Particles (PM 2.5),mcg/m3
+2011,Citywide,1,0,New York City,9.06,11.5,10.1,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,101,4,Kingsbridge - Riverdale,9.47,11.04,10.09,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,102,4,Northeast Bronx,9.25,10.43,9.65,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,103,4,Fordham - Bronx Pk,9.51,11.1,10.26,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,104,4,Pelham - Throgs Neck,8.79,10.54,9.68,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,105,4,Crotona -Tremont,10.18,11.72,10.99,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,106,4,High Bridge - Morrisania,10.48,11.35,11,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,107,4,Hunts Point - Mott Haven,8.67,11.73,10.48,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,201,4,Greenpoint,9.94,11.27,10.57,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,202,4,Downtown - Heights - Slope,9.66,11.35,10.49,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,203,4,Bedford Stuyvesant - Crown Heights,9.59,10.27,9.93,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,204,4,East New York,9.04,10.93,9.79,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,205,4,Sunset Park,9.23,11.26,10.21,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,206,4,Borough Park,9.31,9.89,9.61,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,207,4,East Flatbush - Flatbush,9.42,10.15,9.8,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,208,4,Canarsie - Flatlands,8.38,10.12,9.12,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,209,4,Bensonhurst - Bay Ridge,8.76,9.78,9.18,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,210,4,Coney Island - Sheepshead Bay,8.4,9.36,8.89,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,211,4,Williamsburg - Bushwick,9.49,11.81,10.33,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,301,4,Washington Heights,10.06,11.57,10.71,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,302,4,Central Harlem - Morningside Heights,10.3,11.02,10.62,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,303,4,East Harlem,9.93,10.86,10.41,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,304,4,Upper West Side,10.53,11.39,11.01,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,305,4,Upper East Side,10.36,12.96,11.83,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,306,4,Chelsea - Clinton,10.33,16.35,13.21,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,307,4,Gramercy Park - Murray Hill,11.91,16.51,14.24,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,308,4,Greenwich Village - SoHo,10.37,12.26,11.56,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,309,4,Union Square - Lower East Side,9.41,12.6,10.87,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,310,4,Lower Manhattan,11.55,12.75,12.19,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,401,4,Long Island City - Astoria,9.26,11.41,10.05,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,402,4,West Queens,9.05,11.43,9.89,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,403,4,Flushing - Clearview,8.78,10.19,9.34,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,404,4,Bayside - Little Neck,8.5,9.75,8.98,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,405,4,Ridgewood - Forest Hills,8.88,10.2,9.52,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,406,4,Fresh Meadows,8.87,9.71,9.25,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,407,4,Southwest Queens,8.68,9.73,9.19,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,408,4,Jamaica,8.78,9.83,9.25,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,409,4,Southeast Queens,8.34,9,8.65,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,410,4,Rockaways,7.8,8.13,7.99,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,501,4,Port Richmond,8.61,9.59,9.02,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,502,4,Stapleton - St. George,8.28,8.96,8.64,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,503,4,Willowbrook,8.4,10.08,8.99,Fine Particles (PM 2.5),mcg/m3
+2010,UHF42,504,4,South Beach - Tottenville,8.34,9.23,8.71,Fine Particles (PM 2.5),mcg/m3
+2010,Borough,1,1,Bronx,9.2,11.21,10.14,Fine Particles (PM 2.5),mcg/m3
+2010,Borough,2,1,Brooklyn,8.76,10.74,9.69,Fine Particles (PM 2.5),mcg/m3
+2010,Borough,3,1,Manhattan,10.15,14,11.61,Fine Particles (PM 2.5),mcg/m3
+2010,Borough,4,1,Queens,8.39,10.06,9.2,Fine Particles (PM 2.5),mcg/m3
+2010,Borough,5,1,Staten Island,8.35,9.39,8.8,Fine Particles (PM 2.5),mcg/m3
+2010,Citywide,1,0,New York City,8.45,10.93,9.54,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,101,4,Kingsbridge - Riverdale,10.52,11.86,11.03,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,102,4,Northeast Bronx,10.3,11.48,10.68,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,103,4,Fordham - Bronx Pk,10.5,11.79,11.1,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,104,4,Pelham - Throgs Neck,9.73,11.43,10.59,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,105,4,Crotona -Tremont,11.01,12.45,11.76,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,106,4,High Bridge - Morrisania,11.28,12.24,11.8,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,107,4,Hunts Point - Mott Haven,9.74,12.71,11.45,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,201,4,Greenpoint,11.34,12.61,11.93,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,202,4,Downtown - Heights - Slope,10.67,12.36,11.5,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,203,4,Bedford Stuyvesant - Crown Heights,10.39,11.13,10.75,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,204,4,East New York,9.9,11.7,10.6,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,205,4,Sunset Park,10.06,12.11,11.04,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,206,4,Borough Park,9.95,10.56,10.27,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,207,4,East Flatbush - Flatbush,10.09,10.81,10.47,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,208,4,Canarsie - Flatlands,9.12,10.87,9.85,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,209,4,Bensonhurst - Bay Ridge,9.49,10.52,9.91,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,210,4,Coney Island - Sheepshead Bay,9.12,9.97,9.55,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,211,4,Williamsburg - Bushwick,10.41,12.97,11.36,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,301,4,Washington Heights,10.94,12.34,11.55,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,302,4,Central Harlem - Morningside Heights,11.32,11.99,11.6,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,303,4,East Harlem,11.13,11.99,11.55,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,304,4,Upper West Side,11.78,12.45,12.18,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,305,4,Upper East Side,11.61,13.87,12.88,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,306,4,Chelsea - Clinton,11.84,16.81,14.24,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,307,4,Gramercy Park - Murray Hill,13.05,16.92,15.03,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,308,4,Greenwich Village - SoHo,11.79,13.31,12.75,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,309,4,Union Square - Lower East Side,10.77,13.63,12.08,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,310,4,Lower Manhattan,12.51,13.54,13.06,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,401,4,Long Island City - Astoria,10.53,12.85,11.4,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,402,4,West Queens,10.08,12.72,10.99,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,403,4,Flushing - Clearview,9.59,11.07,10.16,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,404,4,Bayside - Little Neck,9.25,10.48,9.72,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,405,4,Ridgewood - Forest Hills,9.87,11.08,10.44,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,406,4,Fresh Meadows,9.6,10.48,10,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,407,4,Southwest Queens,9.45,10.49,9.96,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,408,4,Jamaica,9.48,10.5,9.95,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,409,4,Southeast Queens,9.06,9.7,9.35,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,410,4,Rockaways,8.57,8.89,8.75,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,501,4,Port Richmond,9.75,10.87,10.22,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,502,4,Stapleton - St. George,9.26,9.97,9.63,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,503,4,Willowbrook,9.46,11.3,10.1,Fine Particles (PM 2.5),mcg/m3
+2009,UHF42,504,4,South Beach - Tottenville,9.29,10.14,9.63,Fine Particles (PM 2.5),mcg/m3
+2009,Borough,1,1,Bronx,10.18,12.03,11.05,Fine Particles (PM 2.5),mcg/m3
+2009,Borough,2,1,Brooklyn,9.46,11.78,10.5,Fine Particles (PM 2.5),mcg/m3
+2009,Borough,3,1,Manhattan,11.23,14.87,12.63,Fine Particles (PM 2.5),mcg/m3
+2009,Borough,4,1,Queens,9.13,11.02,10.05,Fine Particles (PM 2.5),mcg/m3
+2009,Borough,5,1,Staten Island,9.31,10.49,9.81,Fine Particles (PM 2.5),mcg/m3
+2009,Citywide,1,0,New York City,9.33,11.91,10.43,Fine Particles (PM 2.5),mcg/m3
