@@ -15,6 +15,12 @@ In our research for this project, we discovered that many different factors cont
 # 604 Project - Working with Data at Scale
 For our project, we will be examining the relationships between air quality and neighbourhood poverty, and seeing what effect this has on cancer rates and incidents of asthma in New York City. In our research for this project, we discovered that lung cancer is strongly correlated to air pollution, and chose to investigate that along with 3 other types of cancer that we think will also be affected and that we found interesting. The cancers that we will be investigating are: Lung cancer, Larynx cancer, Esophageal cancer, and Non-Hodgkins Lymphoma.
 
+For our project, we will be asking 4 guiding questions:
+- By looking at different areas of New York City, can we conclude in general a poor neighbourhood has higher cancer rate and worse air quality?
+- Which pollutants have the highest correlations with which cancers?
+- Does poor air quality increase the prevalence of asthma in adults? Does the borough in NYC affect this? Which pollutants has the greatest effect on asthma incidents?
+- Do the poorest neighbourhoods have the highest incidents of asthma among adults?
+
 ## Dataset
 - The dataset we have chosen for 601 and 602 project is “Historical Air Quality”  which was collected by the Calgary Region Airshed Zone and submitted to Alberta Environment and Parks (AEP). This information is publicly available and can be used from the City of Calgary’s Open Data Portal. City of Calgary’s Open Data Portal Historical Air Quality [online]. Available at: https://data.calgary.ca/Environment/Historical-Air-Quality/uqjm-jxgp/data
 - WHO Air Quality Database. WHO Air Quality Database (Update 2022), Available at: https://www.who.int/data/gho/data/themes/air-pollution/who-air-quality-database
