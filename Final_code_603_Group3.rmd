@@ -1,0 +1,455 @@
+---
+title: "R code for the Final project report"
+output: pdf_document
+date: "2022-12-03"
+---
+
+"Multiple regression analysis: Prediction of Average Overall Achievement Score of schools in North Carolina"
+
+By Viktoriia Shcherbachuk, Sun Boru, Wong Jason, Li Angela, Olea Joshua Marc
+
+# Libraries:
+```{r}
+library(naniar) #replacing values in a variable to the NULL values
+library(ggplot2) #visualization
+library(mosaic) # variable exploration
+library(car) # multicollinearity assumption
+library(olsrr) #Stepwise regression procedure
+library(lmtest) # Equal Variance Assumption
+library(GGally) #ggpairs graph
+library(MASS) #Box-Cox transformation
+```
+
+
+
+# Database cleaning stage:
+
+```{r}
+d=read.csv("C:/University of Calgary/Data-603/final_schoolData.csv")
+head(d)
+```
+```{r}
+# empty values for the categorical variable "music_cat" and "theatre_cat" read as another category. 
+# replacing empty value as NULL value
+d1=d %>% replace_with_na(replace = list(music_cat = ""))
+
+```
+```{r}
+d2=d1 %>% replace_with_na(replace = list(theatre_cat = ""))
+```
+
+```{r}
+#replacing 0 overall achievement score to NULL value as we assumed that it is mistake
+#134 observations with "0" overall achievement score
+d3=d2 %>% replace_with_na(replace = list(ach_score = "0"))
+```
+
+
+```{r}
+#created new dataset and check how many missing values in each variable
+school_data <-data.frame(d3$ach_score,d3$eg_score,d3$books, d3$media_school,d3$devices, d3$device_access, d3$act_per1000, d3$bha_per1000, d3$total_funds,  d3$total_ppe, d3$he_pct, d3$music_cat, d3$theatre_cat, d3$poverty, d3$number_of_teachers, d3$pct_met)
+sapply(school_data,function(x)  sum(is.na(x)))
+```
+
+
+
+
+```{r}
+#deleting missing values for the further analysis
+# total 2190 data observations left
+school_final<-na.omit(school_data)
+str(school_final)
+```
+# Renaming variables:
+```{r}
+#Numerical variables
+score<-as.numeric(school_final$d3.ach_score) # Overall Achievement Score - dependent variable
+
+growth_score<-as.numeric(school_final$d3.eg_score)# EVAAS Growth Score 
+
+book<-as.numeric(school_final$d3.books) #Books per student
+
+criminal_act<-school_final$d3.act_per1000 #Criminal acts per 1000 (subgroup – ALL - All Students)
+
+bullying<-school_final$d3.bha_per1000 #Bullying and harassment per 1000 (subgroup – ALL - All Students)
+
+staff<-school_final$d3.he_pct #percentage of staff with growth scores with a rating of "Highly Effective"
+
+media<-as.numeric(school_final$d3.media_school)#Media collection age 
+
+n_teachers<-as.numeric(school_final$d3.number_of_teachers) # Number of Teachers per school
+
+devices<-as.numeric(school_final$d3.devices) #Number of students per device
+
+salary_funds<-as.numeric(school_final$d3.total_funds)# salary funds at ALL levels (expenditure_category – salary)
+
+pupil_funds<-as.numeric(school_final$d3.total_ppe)# Per pupil expenditures across all funding sources salary
+
+goal_met<-as.numeric(school_final$d3.pct_met) #Percent of long term goal targets met for given target subject area –salary targets
+```
+
+```{r}
+#Categorical variables:
+device_access<-as.factor(school_final$d3.device_access)# Whether school issues devices to each student (school level) – Yes/No answer
+poverty_level<-as.factor(school_final$d3.poverty) #School poverty level, 3 levels
+music<-as.factor(school_final$d3.music_cat)# Whether music courses are offered at the school, 2 levels -yes or no
+theater<-as.factor(school_final$d3.theatre_cat) #Whether theater courses are offered at the school (y/n)
+```
+
+# Correlation assumption:
+
+```{r}
+#check correlation between all numerical independent variables
+school_cor<-data.frame(growth_score,book,criminal_act,bullying,staff,media,n_teachers,devices,salary_funds,pupil_funds,goal_met)
+```
+
+```{r}
+# n_teachers and salary_funds = 0.98, high correlation
+res <- cor(school_cor)
+round(res, 2)
+
+```
+```{r}
+# Final dataset, we will use it for regression analysis
+final_data<-data.frame(score,growth_score,book,criminal_act,bullying,staff,media,n_teachers,salary_funds,pupil_funds,goal_met, device_access,devices, music, theater, poverty_level)
+```
+
+# Analysis our dependent variable (the Overall achievement score):
+
+```{r}
+options(scipen=100)
+ggplot(final_data, aes(x = score, fill = ..count..)) +
+  geom_histogram(color="black", fill="blue") +
+ # ggtitle("Figure ? Histogram of Overall Achievement Score for school") +
+  ylab("Count of scores") +
+  xlab("Overall Achievement Score") + 
+  theme(plot.title = element_text(hjust = 0.5))
+```
+
+```{r}
+# check minimum, maximum values
+favstats(score, data=final_data)
+```
+# Multicollinearity assumption:
+
+```{r}
+# include all variables from the dataset
+fullmodel_1<-lm(score~growth_score+book+criminal_act+bullying+staff+devices+media+salary_funds+pupil_funds+n_teachers+goal_met+factor(device_access)+factor(poverty_level)+factor(music)+factor(theater), data = final_data)
+```
+
+```{r}
+# n_teachers = 22.260022 and salary_funds = 22.931199, it confirmed by correlation between these two variables
+# we delete "n_teachers" variable from the model, let's see VIF values after removing 
+# "n_teachers"
+vif(fullmodel_1)
+```
+
+Deleted n_teachers:
+```{r}
+# after checking VIF values for a model without N_teachers variable, ALL good.
+fullmodel_vif<-lm(score~growth_score+book+criminal_act+bullying+staff+devices+media+salary_funds+pupil_funds+goal_met+factor(device_access)+factor(poverty_level)+factor(music)+factor(theater), data = final_data)
+vif(fullmodel_vif)
+```
+
+Correlation plot between "n_teachers" and "salary_funds"
+```{r}
+ggplot(aes(x=n_teachers,y=salary_funds),data=final_data)+
+  geom_point(color='blue')
+
+```
+
+# Individual t-test:
+
+```{r}
+fullmodel_1<-lm(score~growth_score+book+criminal_act+bullying+staff+devices+media+salary_funds+pupil_funds+goal_met+factor(device_access)+factor(poverty_level)+factor(music)+factor(theater), data = final_data)
+summary(fullmodel_1)
+```
+
+Removed "book", "devices", "factor(music)", "factor(device_access)" as p-values are more than significant level 0.05:
+
+```{r}
+# This is final the best 1st order model
+# Adjusted R-squared = 60.23%
+redmodel_2<-lm(score~growth_score+criminal_act+bullying+staff+media+salary_funds+pupil_funds+goal_met+factor(poverty_level)+factor(theater), data = final_data)
+summary(redmodel_2)
+```
+
+# Stepwise regression procedure:
+
+We will confirm our the best 1st order model with help of Stepwise regression procedure:
+
+```{r}
+fullmodel_1<-lm(score~growth_score+book+criminal_act+bullying+staff+devices+media+salary_funds+pupil_funds+goal_met+factor(device_access)+factor(poverty_level)+factor(music)+factor(theater), data = final_data)
+summary(fullmodel_1)
+stepmod=ols_step_both_p(fullmodel_1,pent = 0.05, prem = 0.1)
+summary(stepmod$model)
+```
+According to the stepwise regression procedure, the best 1st order model is (the same like individual t-test):
+
+```{r}
+best_stepwise_model<-lm(score~growth_score+criminal_act+bullying+staff+media+salary_funds+pupil_funds+goal_met+factor(poverty_level)+factor(theater), data = final_data)
+```
+
+# Interaction terms modeling:
+
+```{r}
+inter_model<-lm(score~(growth_score+criminal_act+bullying+staff+media+salary_funds+pupil_funds+goal_met+factor(poverty_level)+factor(theater))^2, data = final_data)
+summary(inter_model)
+```
+
+All insignificant interaction terms removed:
+
+```{r}
+inter_model_1<-lm(score~growth_score+criminal_act+bullying+staff+media+salary_funds+pupil_funds+goal_met+factor(poverty_level)+factor(theater)+goal_met*factor(poverty_level)+media*factor(poverty_level)+staff*pupil_funds+bullying*staff+criminal_act*pupil_funds+criminal_act*factor(poverty_level)+growth_score*goal_met+growth_score*media+growth_score*salary_funds+goal_met*salary_funds, data = final_data)
+summary(inter_model_1)
+```
+
+Also [salary_funds:goal_met], [criminal_act:factor(poverty_level)] and [growth_score:salary_funds] interaction terms are removed from inter_model_1, p-value more than 0.05:
+
+```{r}
+inter_model_2<-lm(score~growth_score+criminal_act+bullying+staff+media+salary_funds+pupil_funds+goal_met+factor(poverty_level)+factor(theater)+goal_met*factor(poverty_level)+media*factor(poverty_level)+staff*pupil_funds+bullying*staff+criminal_act*pupil_funds+growth_score*goal_met+growth_score*media, data = final_data)
+summary(inter_model_2)
+```
+Also [growth_score:media] interaction term is removed from inter_model_2, p-value more than 0.05:
+
+```{r}
+# This is our final intercation model
+# Adjusted R-squared = 61.64 %
+inter_model_3<-lm(score~growth_score+criminal_act+bullying+staff+media+salary_funds+pupil_funds+goal_met+factor(poverty_level)+factor(theater)+goal_met*factor(poverty_level)+media*factor(poverty_level)+staff*pupil_funds+bullying*staff+criminal_act*pupil_funds+growth_score*goal_met, data = final_data)
+summary(inter_model_3)
+coef(inter_model_3)
+```
+
+# ANOVA test:
+
+```{r}
+# Checked that interaction model is better explaining the overall achievement score than the best 1st order model. Therefore, we will use the interaction model for the next steps.
+anova(best_stepwise_model,inter_model_3)
+```
+
+# Checking assumptions:
+## Linearity Assumption
+
+```{r}
+# From the plot, we see that there is no prominent patterns showing in the trend of our data, suggesting that it passes the linearity.
+#assumption.
+ggplot(inter_model_3, aes(x=.fitted, y=.resid)) +
+  geom_point() + geom_smooth()+
+  geom_hline(yintercept = 0)
+```
+
+```{r}
+plot(inter_model_3,1)
+```
+
+Because we don't have a time frame in our project, we will skip the the Independence Assumption and move to the Equal Variance Assumption straight.
+
+## The Equal Variance Assumption:
+
+```{r}
+# Ho: Heteroscedasticity is not present
+# Ha: Heteroscedasticity is present
+
+# the Breusch-Pagan test test showed the heteroscedasticity in a model (p-value is less than 0.05). Therefore, we will try to make transformation in order to get rid of heteroscedasticity
+
+bptest(inter_model_3)
+```
+
+```{r}
+plot(inter_model_3,3)
+```
+
+It can be seen that the variability (variances) of the residual points decreases with the value of the fitted outcome variable, suggesting non-constant variances in the residuals errors (or heteroscedasticity).
+
+### The second order model transformation in order to remove heteroscedasticity.
+
+```{r}
+#only independent numerical variable and dependent variable
+ggpairs_data<-select(final_data, score, growth_score,criminal_act,bullying,staff,media,salary_funds,pupil_funds,goal_met)
+```
+```{r}
+# see which variable correlated with the "score" variable the most and put it to the second order and then if it is significant, check if we can get rid of heteroscedasticity
+ggpairs(ggpairs_data)
+```
+
+```{r}
+inter_model_3_staff<-lm(score~growth_score+criminal_act+bullying+staff+I(staff^2)+media+salary_funds+pupil_funds+goal_met+factor(poverty_level)+factor(theater)+goal_met*factor(poverty_level)+media*factor(poverty_level)+staff*pupil_funds+bullying*staff+criminal_act*pupil_funds+growth_score*goal_met, data = final_data)
+summary(inter_model_3_staff)
+```
+Staff is not significant in a second order.
+
+Moving to Pupil_funds:
+```{r}
+inter_model_3_pupil<-lm(score~growth_score+criminal_act+bullying+staff+media+salary_funds+pupil_funds+I(pupil_funds^2)+goal_met+factor(poverty_level)+factor(theater)+goal_met*factor(poverty_level)+media*factor(poverty_level)+staff*pupil_funds+bullying*staff+criminal_act*pupil_funds+growth_score*goal_met, data = final_data)
+summary(inter_model_3_pupil)
+```
+Pupil_funds in a "grey" zone.
+
+Move to growth_score variable and put it in a second order:
+
+```{r}
+inter_model_3_growth<-lm(score~growth_score+I(growth_score^2)+criminal_act+bullying+staff+media+salary_funds+pupil_funds+goal_met+factor(poverty_level)+factor(theater)+goal_met*factor(poverty_level)+media*factor(poverty_level)+staff*pupil_funds+bullying*staff+criminal_act*pupil_funds+growth_score*goal_met, data = final_data)
+summary(inter_model_3_growth)
+```
+growth_score in a second order is not significant.
+
+Moved to "media" variable:
+
+```{r}
+inter_model_3_media<-lm(score~growth_score+criminal_act+bullying+staff+media+I(media^2)+salary_funds+pupil_funds+goal_met+factor(poverty_level)+factor(theater)+goal_met*factor(poverty_level)+media*factor(poverty_level)+staff*pupil_funds+bullying*staff+criminal_act*pupil_funds+growth_score*goal_met, data = final_data)
+summary(inter_model_3_media)
+```
+
+As a result, after several trials, the second order transformation will not help us to get rid of heteroscedasticity.
+
+### Log Transformation
+
+```{r}
+inter_model_log<-lm(log(score)~growth_score+criminal_act+bullying+staff+media+salary_funds+pupil_funds+goal_met+factor(poverty_level)+factor(theater)+goal_met*factor(poverty_level)+media*factor(poverty_level)+staff*pupil_funds+bullying*staff+criminal_act*pupil_funds+growth_score*goal_met, data = final_data)
+bptest(inter_model_log)
+```
+
+Log-transformation didn't work. Heteroscedasticity is still present.
+
+### The Box-Cox transformation:
+
+```{r}
+bc=boxcox(inter_model_3,lambda=seq(-2,2))
+bestlambda=bc$x[which(bc$y==max(bc$y))]
+bestlambda
+# 1.353535
+```
+
+```{r}
+inter_model_3_boxcox<-lm((((score^1.353535)-1)/1.353535)~growth_score+criminal_act+bullying+staff+media+salary_funds+pupil_funds+goal_met+factor(poverty_level)+factor(theater)+goal_met*factor(poverty_level)+media*factor(poverty_level)+staff*pupil_funds+bullying*staff+criminal_act*pupil_funds+growth_score*goal_met, data = final_data)
+bptest(inter_model_3_boxcox)
+```
+
+The Box Cox transformation doesn't fix the heteroscedasticity problem.
+
+### The Weighted Least Squares transformation:
+
+```{r}
+wt2 <- 1 / lm(abs(inter_model_3$residuals) ~ inter_model_3$fitted.values)$fitted.values^2
+# defining the weights in such a way that the observations with lower variance are given more weight
+```
+```{r}
+inter_model_3_wt2<-lm(score~growth_score+criminal_act+bullying+staff+media+salary_funds+pupil_funds+goal_met+factor(poverty_level)+factor(theater)+goal_met*factor(poverty_level)+media*factor(poverty_level)+staff*pupil_funds+bullying*staff+criminal_act*pupil_funds+growth_score*goal_met, data = final_data, weights=wt2)
+bptest(inter_model_3_wt2)
+```
+
+```{r}
+plot(inter_model_3_wt2,3)
+```
+
+
+The WLS fixed Heteroscedasticity.
+
+## Normality assumption.
+
+```{r}
+# H0: the sample data are significantly normally distributed
+# Ha: the sample data are not significantly normally distributed
+
+shapiro.test(residuals(inter_model_3_wt2))
+
+ggplot(final_data, aes(sample=inter_model_3_wt2$residuals)) +
+  stat_qq() +
+  stat_qq_line()
+```
+The Shapiro-Wilk normality test indicated that the sample data is not significantly normally distributed as p-value is less than significance level 0.05, whereas it is no obvious by looking at the QQ-plot.
+
+### Box Cox transformation in order to fix Normality:
+
+```{r}
+#best lambda 1.393939
+bc1=boxcox(inter_model_3_wt2,lambda=seq(-2,2))
+bestlambda1=bc1$x[which(bc1$y==max(bc1$y))]
+bestlambda1
+```
+
+```{r}
+inter_model_3_wt2_bc<-lm(((score^1.393939-1)/1.393939)~growth_score+criminal_act+bullying+staff+media+salary_funds+pupil_funds+goal_met+factor(poverty_level)+factor(theater)+goal_met*factor(poverty_level)+media*factor(poverty_level)+staff*pupil_funds+bullying*staff+criminal_act*pupil_funds+growth_score*goal_met, data = final_data, weights=wt2)
+shapiro.test(residuals(inter_model_3_wt2_bc))
+```
+
+```{r}
+bptest(inter_model_3_wt2_bc)
+```
+
+Now, we fix Normality and heteroscedasticity problems. Next step, we will check outliers for that model.
+
+## Outlier (The Effect on Individual Cases)
+
+```{r}
+final_data[cooks.distance(inter_model_3_wt2_bc)>0.5,] #have Cook statistics larger than 0.5
+plot(inter_model_3_wt2_bc,pch=18,col="red",which=c(4))
+```
+
+```{r}
+# Getting Rid of the Outliers
+#created 2 new columns "cooksd" and "outlier" in order to get rid of the 74 row (outlier in our case)
+final_data$cooksd <- cooks.distance(inter_model_3_wt2_bc)
+final_data$outlier <- ifelse(final_data$cooksd < 0.5, "keep", "delete")
+
+head(final_data, 75)
+```
+
+```{r}
+#filter the data by the "outlier" column and keep only observations with cook distance less than 0.05 and delete the "74" row
+OutlierRem = filter(final_data, outlier == 'keep')
+head(OutlierRem, 75)
+```
+
+```{r}
+#then we delete the last 2 columns. As we don't need it anymore. This is our final dataset without an outlier.
+WithoutOutliers =  subset(OutlierRem, select = c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16) )
+head(WithoutOutliers)
+```
+
+```{r}
+inter_model_3_no_outlier<-lm(score~growth_score+criminal_act+bullying+staff+media+salary_funds+pupil_funds+goal_met+factor(poverty_level)+factor(theater)+goal_met*factor(poverty_level)+media*factor(poverty_level)+staff*pupil_funds+bullying*staff+criminal_act*pupil_funds+growth_score*goal_met, data = WithoutOutliers)
+summary(inter_model_3_no_outlier)
+bptest(inter_model_3_no_outlier)
+```
+
+There are heteroscedasticity for a model without outlier.
+
+### WLS transformation
+```{r}
+wt <- 1 / lm(abs(inter_model_3_no_outlier$residuals) ~ inter_model_3_no_outlier$fitted.values)$fitted.values^2
+```
+
+```{r}
+inter_model_3_no_outlier_wt<-lm(score~growth_score+criminal_act+bullying+staff+media+salary_funds+pupil_funds+goal_met+factor(poverty_level)+factor(theater)+goal_met*factor(poverty_level)+media*factor(poverty_level)+staff*pupil_funds+bullying*staff+criminal_act*pupil_funds+growth_score*goal_met, data = WithoutOutliers, weights = wt)
+bptest(inter_model_3_no_outlier_wt)
+shapiro.test(residuals(inter_model_3_no_outlier_wt))
+```
+
+We fixed the problem with heteroscedasticity but we have a problem with Normality.
+
+### Box cox transformation for data without outlier
+
+```{r}
+bc2=boxcox(inter_model_3_no_outlier_wt,lambda=seq(-2,2))
+bestlambda2=bc2$x[which(bc2$y==max(bc2$y))]
+bestlambda2
+# 1.393939
+```
+
+
+```{r}
+inter_model_3_no_outlier_wt_bc<-lm(((score^1.393939-1)/1.393939)~growth_score+criminal_act+bullying+staff+media+salary_funds+pupil_funds+goal_met+factor(poverty_level)+factor(theater)+goal_met*factor(poverty_level)+media*factor(poverty_level)+staff*pupil_funds+bullying*staff+criminal_act*pupil_funds+growth_score*goal_met, data = WithoutOutliers, weights = wt)
+bptest(inter_model_3_no_outlier_wt_bc)
+shapiro.test(residuals(inter_model_3_no_outlier_wt_bc))
+```
+
+```{r}
+summary(inter_model_3_no_outlier_wt_bc)
+```
+
+```{r}
+summary(inter_model_3_wt2_bc)
+```
+
+By removing the outlier, model indicators such as Adjusted R-squared and RMSE didn't change drastically, therefore, we will keep the final model for the prediction of the overall achievement score based on the original data.
